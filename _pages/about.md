@@ -47,20 +47,20 @@ Awards
 
 Current and Past Interns
 =====
-+ Dawei Sun (Tsinghua University) 	
-+ Duo Li (Tsinghua University) 	
-+ Jiahui Zhang (Tsinghua University) 	
++ Dawei Sun (Tsinghua University)
++ Duo Li (Tsinghua University)
++ Jiahui Zhang (Tsinghua University)
 + Aojun Zhou (CASIA) 
-+ Ming Lu (Tsinghua University) 	
-+ Hao Zhao (Tsinghua University) 	
-+ Kuan Wang (Tsinghua University) 			
++ Ming Lu (Tsinghua University)
++ Hao Zhao (Tsinghua University)
++ Kuan Wang (Tsinghua University)
 + Tao Kong (Tsinghua University) 
 + Wenbing Huang (Tsinghua University) 
 + Yun Ren (Beihang University) 
 + Yao Cheng (Peking University) 
 + Peixian Hu (Tsinghua University) 
 + Ruoyan Wang (Dalian University of Technology) 
-+ Yuhang Wang (CASIA).</a></li>
++ Yuhang Wang (CASIA)
 + Yunlong Bian (Beijing University of Posts and Telecommunications) 
 + Ningning Ma (Tsinghua University) 
 + Junchao Shao (Beihang University) 
