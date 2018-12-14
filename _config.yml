@@ -11,9 +11,9 @@ title                    : "Anbang Yao (姚安邦)"
 title_separator          : "-"
 name                     : &name "Anbang Yao (姚安邦)"
 description              : &description "Senior Staff Research Scientist (研究总监), Intel Labs China"
-url                      : "https://academicpages.github.io" #"https://yaoanbang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://YaoAnbang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yaoanbang/yaoanbang.github.io"
+repository               : "YaoAnbang/YaoAnbang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
