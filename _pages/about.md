@@ -14,15 +14,15 @@ Publications
 =====
 (* Interns mentored by me, + Corresponding author)	
 + Efficient Semantic Scene Completion Network with Spatial Group Convolution. Jiahui Zhang&#42;, Hao Zhao&#42;, **Anbang Yao+**, Yurong Chen, Li Zhang and Hongen Liao. ECCV 2018 (**Oral**).
-+ Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks.  Aojun Zhou*, **Anbang Yao+**, Kuan Wang and Yurong Chen. CVPR 2018.
-+ Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights. Aojun Zhou*, **Anbang Yao+**, Yiwen Guo, Lin Xu and Yurong Chen. ICLR 2017.
-+ Decoder Network over Lightweight Reconstructed Feature for Fast Semantic Style Transfer. Ming Lu*, Hao Zhao*, **Anbang Yao+**, Feng Xu, Yurong Chen and Li Zhang. ICCV 2017.
-+ RON: Reverse Connection with Objectness Prior Networks for Object Detection. Tao Kong*, Fuchun Sun, **Anbang Yao+**, Huaping Liu, Ming Lu* and Yurong Chen. CVPR 2017.
-+ Physics Inspired Optimization on Semantic Transfer Features: An Alternative Method for Room Layout Estimation. Hao Zhao*, Ming Lu*, **Anbang Yao+**, Yurong Chen and Li Zhang. CVPR 2017.
++ Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks.  Aojun Zhou&#42;, **Anbang Yao+**, Kuan Wang and Yurong Chen. CVPR 2018.
++ Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights. Aojun Zhou&#42;, **Anbang Yao+**, Yiwen Guo, Lin Xu and Yurong Chen. ICLR 2017.
++ Decoder Network over Lightweight Reconstructed Feature for Fast Semantic Style Transfer. Ming Lu&#42;, Hao Zhao&#42;, **Anbang Yao+**, Feng Xu, Yurong Chen and Li Zhang. ICCV 2017.
++ RON: Reverse Connection with Objectness Prior Networks for Object Detection. Tao Kong&#42;, Fuchun Sun, **Anbang Yao+**, Huaping Liu, Ming Lu* and Yurong Chen. CVPR 2017.
++ Physics Inspired Optimization on Semantic Transfer Features: An Alternative Method for Room Layout Estimation. Hao Zhao&#42;, Ming Lu&#42;, **Anbang Yao+**, Yurong Chen and Li Zhang. CVPR 2017.
 + Network Sketching: Exploiting Binary Structure in Deep CNNs. Yiwen Guo, **Anbang Yao**, Hao Zhao* and Yurong Chen. CVPR 2017.
 + Learning Supervised Scoring Ensemble for Emotion Recognition in the Wild. Ping Hu, Dongqi Cai, Shandong Wang, **Anbang Yao+** (project leader) and Yurong Chen. ACM ICMI 2017 (**Oral, Winner of EmotiW-AFEW 2017 out of 100+ Teams**).
-+ Dynamic Network Surgery for Efficient DNNs. Yiwen Guo*, **Anbang Yao+** and Yurong Chen. NeurIPS 2016.
-+ HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection. Tao Kong*, **Anbang Yao+**, Yurong Chen and Fuchun Sun. CVPR 2016 (**Spotlight**).
++ Dynamic Network Surgery for Efficient DNNs. Yiwen Guo&#42;, **Anbang Yao+** and Yurong Chen. NeurIPS 2016.
++ HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection. Tao Kong&#42;, **Anbang Yao+**, Yurong Chen and Fuchun Sun. CVPR 2016 (**Spotlight**).
 + HoloNet: Towards Robust Emotion Recognition in the Wild. **Anbang Yao+**, Dongqi Cai, Ping Hu, Shandong Wang, Liang Sha and Yurong Chen. ACM ICMI 2016(**Oral, 1-st Runner-up of EmotiW-AFEW 2016 out of ~100 Teams**).
 + Capturing AU-Aware Facial Features and Their Latent Relations for Emotion Recognition in the Wild. **Anbang Yao+**, Junchao Shao*, Ningning Ma* and Yurong Chen. ACM ICMI 2015(**Oral, Winner of EmotiW-AFEW 2015 out of 75 Teams**).
 + Robust Face Representation Using Hybrid Spatial Feature Interdependence Matrix. **Anbang Yao+** and Shan Yu. IEEE Trans. Image Processing, 2013.
