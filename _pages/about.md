@@ -23,7 +23,7 @@ Publications
 + Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights. Aojun Zhou\*, **Anbang Yao+**, Yiwen Guo, Lin Xu and Yurong Chen. ICLR 2017.
 + Decoder Network over Lightweight Reconstructed Feature for Fast Semantic Style Transfer. Ming Lu\*, Hao Zhao\*, **Anbang Yao+**, Feng Xu, Yurong Chen and Li Zhang. ICCV 2017.
 + RON: Reverse Connection with Objectness Prior Networks for Object Detection. Tao Kong\*, Fuchun Sun, **Anbang Yao+**, Huaping Liu, Ming Lu* and Yurong Chen. CVPR 2017.
-+ Physics Inspired Optimization on Semantic Transfer Features: An Alternative Method for Room Layout Estimation. Hao Zhao*, Ming Lu*, **Anbang Yao+**, Yurong Chen and Li Zhang. CVPR 2017.
++ Physics Inspired Optimization on Semantic Transfer Features: An Alternative Method for Room Layout Estimation. Hao Zhao\*, Ming Lu\*, **Anbang Yao+**, Yurong Chen and Li Zhang. CVPR 2017.
 + Network Sketching: Exploiting Binary Structure in Deep CNNs. Yiwen Guo, **Anbang Yao**, Hao Zhao\* and Yurong Chen. CVPR 2017.
 + Learning Supervised Scoring Ensemble for Emotion Recognition in the Wild. Ping Hu, Dongqi Cai, Shandong Wang, **Anbang Yao+** (project leader) and Yurong Chen. ACM ICMI 2017 (**Oral, Winner of EmotiW-AFEW 2017 out of 100+ Teams**).
 + Dynamic Network Surgery for Efficient DNNs. Yiwen Guo\*, **Anbang Yao+** and Yurong Chen. NeurIPS 2016.
