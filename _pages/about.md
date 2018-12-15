@@ -56,17 +56,17 @@ Current and Past Interns
 + Ming Lu (Tsinghua University)
 + Hao Zhao (Tsinghua University)
 + Kuan Wang (Tsinghua University)
-+ Tao Kong (Tsinghua University) 
-+ Wenbing Huang (Tsinghua University) 
++ [Tao Kong](https://taokong.github.io/) (Tsinghua University) 
++ [Wenbing Huang](https://sites.google.com/site/wenbinghuangshomepage/) (Tsinghua University) 
 + Yun Ren (Beihang University) 
 + Yao Cheng (Peking University) 
 + Peixian Hu (Tsinghua University) 
-+ Ruoyan Wang (Dalian University of Technology) 
++ [Ruoyan Wang](https://www.linkedin.com/in/ruoyan-wang) (Dalian University of Technology) 
 + Yuhang Wang (CASIA)
 + Yunlong Bian (Beijing University of Posts and Telecommunications) 
-+ Ningning Ma (Tsinghua University) 
++ [Ningning Ma](https://scholar.google.ca/citations?user=vOAzYlcAAAAJ&hl=en) (Tsinghua University) 
 + Junchao Shao (Beihang University) 
-+ Yiwen Guo (Tsinghua University)
++ [Yiwen Guo](https://scholar.google.com/citations?user=oi_lEwYAAAAJ&hl=en) (Tsinghua University)
 
 
 ***Internship is available: if you are interested in it, please drop me an email***
