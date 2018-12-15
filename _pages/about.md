@@ -13,7 +13,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 Publications
 =====
 (* Interns mentored by me, + Corresponding author)	
-+ Efficient Semantic Scene Completion Network with Spatial Group Convolution. Jiahui Zhang*, Hao Zhao*, **Anbang Yao+**, Yurong Chen, Li Zhang and Hongen Liao. ECCV 2018 (**Oral**).
++ Efficient Semantic Scene Completion Network with Spatial Group Convolution. Jiahui Zhang&#42;, Hao Zhao&#42;, **Anbang Yao+**, Yurong Chen, Li Zhang and Hongen Liao. ECCV 2018 (**Oral**).
 + Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks.  Aojun Zhou*, **Anbang Yao+**, Kuan Wang and Yurong Chen. CVPR 2018.
 + Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights. Aojun Zhou*, **Anbang Yao+**, Yiwen Guo, Lin Xu and Yurong Chen. ICLR 2017.
 + Decoder Network over Lightweight Reconstructed Feature for Fast Semantic Style Transfer. Ming Lu*, Hao Zhao*, **Anbang Yao+**, Feng Xu, Yurong Chen and Li Zhang. ICCV 2017.
