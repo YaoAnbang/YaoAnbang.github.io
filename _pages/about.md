@@ -54,10 +54,10 @@ Current and Past Interns
 =====
 + Dawei Sun (Tsinghua University)
 + Duo Li (Tsinghua University)
-+ Jiahui Zhang (Tsinghua University)
 + Aojun Zhou (CASIA) 
 + Ming Lu (Tsinghua University)
 + Hao Zhao (Tsinghua University)
++ Jiahui Zhang (Tsinghua University)
 + Kuan Wang (Tsinghua University)
 + [Tao Kong](https://taokong.github.io/) (Tsinghua University) 
 + [Wenbing Huang](https://sites.google.com/site/wenbinghuangshomepage/) (Tsinghua University) 
