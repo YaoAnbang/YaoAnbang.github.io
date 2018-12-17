@@ -14,7 +14,7 @@ Short Bio
 Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is currently a Senior Staff Research Scientist at Intel Labs China where he leads the research efforts on 2D/3D scene understanding, deep neural network design and compression, emotion analysis and so forth. He has 60+ PCT/US patent applications got granted/filed, which are widely used in Intel AI related HW designs and SW applications. As the first/corresponding author, he has published 20+ top-tier research papers in NeurIPS, ICLR, CVPR, ICCV, ECCV, TIP, PR and etc. He has been recognized with numerous Awards at Intel, including 1 Intel Global Inventor (2018), 3 Intel Labs Gordy Awards (2014/2015/2016), 1 Intel Labs Top-1 Inventor of the Year (2017), 2 Intel China Awards (2016/2017), 1 Intel China Employee of the Year Award (2017) and 1 i360 Design Hero Award of Intel IOTG Asian Region (2017).
 
 
-<mark>***Internship is available: if you are interested in it, please drop me an email***</mark>
+<mark>Internship is available: if you are interested in it, please drop me an email</mark>
 
 
 Selected Publications
