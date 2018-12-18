@@ -57,7 +57,7 @@ Awards
 Current and Past Interns
 =====
 
-I really feel fortunate to be working with amazingly talented students.
+I really feel fortunate to be working with amazingly talented students
 
 + Dawei Sun (Tsinghua University)
 + Duo Li (Tsinghua University)
