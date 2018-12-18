@@ -23,7 +23,7 @@ Selected Publications
 ***(\* Interns mentored by me, \+ Corresponding author)***
 	
 + Efficient Semantic Scene Completion Network with Spatial Group Convolution. Jiahui Zhang\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Li Zhang and Hongen Liao. ECCV 2018 (**Oral**).
-+ Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks.  Aojun Zhou\*, **Anbang Yao+**, Kuan Wang and Yurong Chen. CVPR 2018.
++ Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks.  Aojun Zhou\*, **Anbang Yao+**, Kuan Wang\* and Yurong Chen. CVPR 2018.
 + Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights. Aojun Zhou\*, **Anbang Yao+**, Yiwen Guo, Lin Xu and Yurong Chen. ICLR 2017.
 + Decoder Network over Lightweight Reconstructed Feature for Fast Semantic Style Transfer. Ming Lu\*, Hao Zhao\*, **Anbang Yao+**, Feng Xu, Yurong Chen and Li Zhang. ICCV 2017.
 + RON: Reverse Connection with Objectness Prior Networks for Object Detection. Tao Kong\*, Fuchun Sun, **Anbang Yao+**, Huaping Liu, Ming Lu* and Yurong Chen. CVPR 2017.
@@ -57,7 +57,7 @@ Awards
 Current and Past Interns
 =====
 
-I really feel fortunate to be working with amazingly talented students
+I am really fortunate to be working with these amazingly talented students
 
 + Dawei Sun (Tsinghua University)
 + Duo Li (Tsinghua University)
