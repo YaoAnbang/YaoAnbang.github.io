@@ -44,7 +44,7 @@ Awards
 + Intel Global Inventor 2018, 1 out of ~10000 Employees of Intel China 
 + Intel China Employee of the Year Award 2017 	
 + Intel China Award 2017, Highest Team Award of Intel China 
-+ Top Inventor of 2017, 1 out of ~700 Research Scientists across Intel Labs Globally 
++ Top Inventor of 2017, 1 out of over 700 Research Scientists across Intel Labs Globally 
 + Intel i360 Design Hero Award 2017, Highest Business Award of Intel IOTG Asian Region 
 + Intel China Award 2016, Highest Team Award of Intel China 
 + Intel Labs Academy Award 2016 (a.k.a Gordy Award,***戈登·摩尔奖***), Highest Annual Research Award across Intel Labs Globally
