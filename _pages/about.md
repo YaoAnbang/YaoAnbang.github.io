@@ -59,9 +59,9 @@ Current and Past Interns
 
 I am really fortunate to be working with these amazingly talented students
 
-+ Dawei Sun (Tsinghua University)
++ [Dawei Sun](https://daweisun.me) (Tsinghua University)
 + Duo Li (Tsinghua University)
-+ Aojun Zhou (CASIA) 
++ [Aojun Zhou](https://scholar.google.com/citations?user=cC8lXi8AAAAJ&hl=zh-CN)(CASIA) 
 + Ming Lu (Tsinghua University)
 + Hao Zhao (Tsinghua University)
 + Jiahui Zhang (Tsinghua University)
