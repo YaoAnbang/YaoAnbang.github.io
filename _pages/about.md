@@ -74,6 +74,6 @@ I am really fortunate to be working with these amazingly talented students
 + [Ruoyan Wang](https://www.linkedin.com/in/ruoyan-wang) (Dalian University of Technology) 
 + Yuhang Wang (CASIA)
 + Yunlong Bian (Beijing University of Posts and Telecommunications) 
-+ [Ningning Ma](https://scholar.google.com/citations?user=vOAzYlcAAAAJ&hl=en) (Tsinghua University) 
++ [Ningning Ma](https://scholar.google.com/citations?user=vOAzYlcAAAAJ&hl=en&oi=sra) (Tsinghua University) 
 + Junchao Shao (Beihang University) 
 + [Yiwen Guo](https://scholar.google.com/citations?user=oi_lEwYAAAAJ&hl=en) (Tsinghua University)
