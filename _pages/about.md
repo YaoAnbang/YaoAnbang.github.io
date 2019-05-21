@@ -23,7 +23,6 @@ Selected Publications
 ***(\* Interns mentored by me, \+ Corresponding author)***
 
 + Deeply-Supervised Knowledge Synergy. Dawei Sun\*, **Anbang Yao+**, Aojun Zhou\* and Hao Zhao\*. Accepted by CVPR 2019.	
-+ Learning to Draw Sight Lines. Hao Zhao\*, Ming Lu\*, Anbang Yao+, Yurong Chen and Li Zhang. To appear in IJCV.	
 + Efficient Semantic Scene Completion Network with Spatial Group Convolution. Jiahui Zhang\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Li Zhang and Hongen Liao. ECCV 2018 (**Oral**).
 + Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks.  Aojun Zhou\*, **Anbang Yao+**, Kuan Wang\* and Yurong Chen. CVPR 2018.
 + Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights. Aojun Zhou\*, **Anbang Yao+**, Yiwen Guo, Lin Xu and Yurong Chen. ICLR 2017.
