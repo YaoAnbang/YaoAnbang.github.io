@@ -16,12 +16,13 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 News
 =====
 
-<li> July 23rd, 2019. Three papers accepted by ICCV 2019.
-<li> February 25th, 2019. One paper accepted by CVPR 2019.
-<li> December 7th, 2018. Delivered an invited talk "Deep neural network compression and acceleration" at NeurIPS 2019, CDNNRIA Workshop.
-<li> July 5th, 2018. Our SGC work was accepted as a full oral paper by ECCV 2018.
-<li> February 22nd, 2018. One paper accepted by CVPR 2019.
-
++ July 23rd, 2019. Three papers accepted by ICCV 2019.
++ February 25th, 2019. One paper accepted by CVPR 2019.
++ December 7th, 2018. Delivered an invited talk "Deep neural network compression and acceleration" at NeurIPS 2019, CDNNRIA Workshop.
++ July 5th, 2018. Our SGC work was accepted as a full oral paper by ECCV 2018.
++ February 22nd, 2018. One paper accepted by CVPR 2019.
++ ...
+  
 Selected Publications
 =====
 
