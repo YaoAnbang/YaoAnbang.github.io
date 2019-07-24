@@ -16,20 +16,20 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 News
 =====
 
-+ July 23rd, 2019. Three papers accepted by ICCV 2019.
-+ February 25th, 2019. One paper accepted by CVPR 2019.
++ July 23rd, 2019. Three papers accepted to ICCV 2019.
++ February 25th, 2019. One paper accepted to CVPR 2019.
 + December 7th, 2018. Delivered an invited talk "Deep neural network compression and acceleration" at NeurIPS 2019, CDNNRIA Workshop.
-+ July 5th, 2018. Our SGC work was accepted as a full oral paper by ECCV 2018.
-+ February 22nd, 2018. One paper accepted by CVPR 2019.
++ July 5th, 2018. Our SGC work was accepted as a full oral paper to ECCV 2018.
++ February 22nd, 2018. One paper accepted to CVPR 2019.
 + ...
   
 Selected Publications
 =====
 
 ***(\* Interns mentored by me, \+ Corresponding author)***
-+ HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions. Duo Li\*, Aojun Zhou\* and **Anbang Yao+**. Accepted by ICCV 2019.
-+ Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*, Dawei Sun\*, Zixin Luo, **Anbang Yao+**, Lei Zhou, Tianwei Shen, Yurong Chen, Hongen Liao and Long Quan. Accepted by ICCV 2019.
-+ A Closed-form Solution to Universal Style Transfer. Ming Lu\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Feng Xu and Li Zhang. Accepted by ICCV 2019.
++ HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions. Duo Li\*, Aojun Zhou\* and **Anbang Yao+**. Accepted to ICCV 2019.
++ Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*, Dawei Sun\*, Zixin Luo, **Anbang Yao+**, Lei Zhou, Tianwei Shen, Yurong Chen, Hongen Liao and Long Quan. Accepted to ICCV 2019.
++ A Closed-form Solution to Universal Style Transfer. Ming Lu\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Feng Xu and Li Zhang. Accepted to ICCV 2019.
 + Deeply-Supervised Knowledge Synergy. Dawei Sun\*, **Anbang Yao+**, Aojun Zhou\* and Hao Zhao\*. CVPR 2019.	
 + Efficient Semantic Scene Completion Network with Spatial Group Convolution. Jiahui Zhang\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Li Zhang and Hongen Liao. ECCV 2018 (**Oral**).
 + Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks.  Aojun Zhou\*, **Anbang Yao+**, Kuan Wang\* and Yurong Chen. CVPR 2018.
