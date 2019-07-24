@@ -14,15 +14,17 @@ Short Bio
 Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is currently a Senior Staff Research Scientist at Intel Labs China where he leads the research efforts on 2D/3D scene understanding, multi-modal emotion analysis, deep neural network design and compression, etc. He has 60+ PCT/US patent applications got granted/filed, which are widely used in Intel AI related HW designs (such as Intel® Movidius™ Neural Compute Sticks and Intel® Arria® 10  SoC FPGAs) and SW applications (such as Intel® RealSense™ SDK and Intel® Distribution of OpenVINO™ Toolkit). As the first/corresponding author, he has published 20+ top-tier research papers in NeurIPS, ICLR, CVPR, ICCV, ECCV, IJCV, TIP, PR and etc. He has been recognized with numerous Awards at Intel, including 1 Intel Global Inventor (2018), 3 Intel Labs Gordy Awards (2014/2015/2016), 1 Intel Labs Top-1 Inventor of the Year (2017), 2 Intel China Awards (2016/2017), 1 Intel China Employee of the Year Award (2017) and 1 i360 Design Hero Award of Intel IOTG Asian Region (2017). He also led the team and won the Winner of the prestigious EmotiW Challenges (held by ACM ICMI) in 2015/2017, beating out 74/100+ teams across the world. 
 
 
-<mark>Internship is available: if you are interested in it, please drop me an email</mark>
-
+<li> Three papers accepted by ICCV 2019.
+<li> One paper accepted by CVPR 2019.  
 
 Selected Publications
 =====
 
 ***(\* Interns mentored by me, \+ Corresponding author)***
-
-+ Deeply-Supervised Knowledge Synergy. Dawei Sun\*, **Anbang Yao+**, Aojun Zhou\* and Hao Zhao\*. Accepted by CVPR 2019.	
++ HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions. Duo Li\*, Aojun Zhou\* and **Anbang Yao+**. Accepted by ICCV 2019.
++ Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*, Dawei Sun\*, Zixin Luo, **Anbang Yao+**, Lei Zhou, Tianwei Shen, Yurong Chen, Hongen Liao and Long Quan. Accepted by ICCV 2019.
++ A Closed-form Solution to Universal Style Transfer. Ming Lu\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Feng Xu and Li Zhang. Accepted by ICCV 2019.
++ Deeply-Supervised Knowledge Synergy. Dawei Sun\*, **Anbang Yao+**, Aojun Zhou\* and Hao Zhao\*. CVPR 2019.	
 + Efficient Semantic Scene Completion Network with Spatial Group Convolution. Jiahui Zhang\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Li Zhang and Hongen Liao. ECCV 2018 (**Oral**).
 + Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks.  Aojun Zhou\*, **Anbang Yao+**, Kuan Wang\* and Yurong Chen. CVPR 2018.
 + Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights. Aojun Zhou\*, **Anbang Yao+**, Yiwen Guo, Lin Xu and Yurong Chen. ICLR 2017.
