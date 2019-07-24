@@ -15,7 +15,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 
 <font color="red">News：</font> 
 + July 23rd, 2019. Three papers accepted to ICCV 2019.
-+ February 25th, 2019. Our DKS (Deeply-Supervised Knowledge Synergy) work is accepted to CVPR 2019.
++ February 25th, 2019. Our DKS (Deeply-supervised Knowledge Synergy) work is accepted to CVPR 2019.
 + December 20th, 2018. Delivered an invited talk at Tsinghua University.
 + December 7th, 2018. Delivered an invited talk "Deep neural network compression and acceleration" at NeurIPS 2019, CDNNRIA Workshop.
 + July 5th, 2018. Our SGC (Spatial Group Convolution) work is accepted as a full oral paper to ECCV 2018.
