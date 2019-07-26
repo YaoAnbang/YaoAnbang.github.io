@@ -29,7 +29,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 Selected Publications
 =====
 
-***(\* Interns mentored by me, \+ Corresponding author)***
+(\* Interns mentored by me, \+ Corresponding author)
 + HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions. Duo Li\*, Aojun Zhou\* and **Anbang Yao+**. To appear in ICCV 2019.
 + Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*, Dawei Sun\*, Zixin Luo, **Anbang Yao+**, Lei Zhou, Tianwei Shen, Yurong Chen, Hongen Liao and Long Quan. To appear in ICCV 2019.
 + A Closed-form Solution to Universal Style Transfer. Ming Lu\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Feng Xu and Li Zhang. To appear in ICCV 2019.
