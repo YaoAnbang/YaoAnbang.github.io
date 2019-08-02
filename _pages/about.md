@@ -64,7 +64,7 @@ Selected Publications
 + Robust Face Representation Using Hybrid Spatial Feature Interdependence Matrix. **Anbang Yao+** and Shan Yu. **IEEE Trans. Image Processing**, 2013.
 + A Compact Association of Particle Filtering and Kernel Based Object Tracking. **Anbang Yao+**, Xinggang Lin, Guijin Wang and Shan Yu. **Pattern Recognition**, 2012.
 + An Incremental Bhattacharyya Dissimilarity Measure for Particle Filtering. **Anbang Yao+**, Guijin Wang, Xinggang Lin and Xiujuan Chai. **Pattern Recognition**, 2010.
-+ Kernel Based Articulated Object Tracking with Scale Adaptation and Model Update. **Anbang Yao+**, Guijin Wang, Xinggang Lin and Hao Wang. **ICASSP**, 2008.
++ Kernel Based Articulated Object Tracking with Scale Adaptation and Model Update. **Anbang Yao+**, Guijin Wang, Xinggang Lin and Hao Wang. **ICASSP 2008**.
 
 Awards
 =====
