@@ -66,8 +66,33 @@ Selected Publications
 + An Incremental Bhattacharyya Dissimilarity Measure for Particle Filtering. **Anbang Yao+**, Guijin Wang, Xinggang Lin and Xiujuan Chai. **Pattern Recognition**, 2010.
 + Kernel Based Articulated Object Tracking with Scale Adaptation and Model Update. **Anbang Yao+**, Guijin Wang, Xinggang Lin and Hao Wang. **ICASSP 2008**.
 
+Current and Past Interns
+=====
+
+I am really fortunate to be working with these amazingly talented students
+
++ [Dawei Sun](https://daweisun.me) (Tsinghua University)
++ [Duo Li](http://home.cse.ust.hk/~dlibh/)(Tsinghua University)
++ [Aojun Zhou](https://scholar.google.com/citations?user=cC8lXi8AAAAJ&hl=zh-CN)(CASIA) 
++ Ming Lu (Tsinghua University)
++ Hao Zhao (Tsinghua University)
++ [Jiahui Zhang](https://scholar.google.com/citations?user=l8YDfhgAAAAJ&hl=en)(Tsinghua University)
++ [Kuan Wang](https://scholar.google.com/citations?user=sGtYJngAAAAJ&hl=en)(Tsinghua University)
++ [Tao Kong](https://scholar.google.com/citations?user=kSUXLPkAAAAJ&hl=en) (Tsinghua University) 
++ [Wenbing Huang](https://sites.google.com/site/wenbinghuangshomepage/) (Tsinghua University) 
++ Yun Ren (Beihang University) 
++ Yao Cheng (Peking University) 
++ Peixian Hu (Tsinghua University) 
++ [Ruoyan Wang](https://www.linkedin.com/in/ruoyan-wang) (Dalian University of Technology) 
++ Yuhang Wang (CASIA)
++ Yunlong Bian (Beijing University of Posts and Telecommunications) 
++ [Ningning Ma](https://scholar.google.com/citations?user=vOAzYlcAAAAJ&hl=en&oi=sra) (Tsinghua University) 
++ Junchao Shao (Beihang University) 
++ [Yiwen Guo](https://scholar.google.com/citations?user=oi_lEwYAAAAJ&hl=en) (Tsinghua University)
+
 Awards
 =====
+
 + Intel Global Inventor 2018, 1 out of ~10000 Employees of Intel China 
 + Intel China Employee of the Year Award 2017 	
 + Intel China Award 2017, Highest Team Award of Intel China 
@@ -81,26 +106,8 @@ Awards
 + Tsinghua-Toshiba Scholarship 2008, First Class.	
 + Tsinghua-AHaiFa Scholarship 2005, First Class
 
-Current and Past Interns
+Professional Service
 =====
 
-I am really fortunate to be working with these amazingly talented students
-
-+ [Dawei Sun](https://daweisun.me) (Tsinghua University)
-+ Duo Li (Tsinghua University)
-+ [Aojun Zhou](https://scholar.google.com/citations?user=cC8lXi8AAAAJ&hl=zh-CN)(CASIA) 
-+ Ming Lu (Tsinghua University)
-+ Hao Zhao (Tsinghua University)
-+ Jiahui Zhang (Tsinghua University)
-+ [Kuan Wang](https://scholar.google.com/citations?user=sGtYJngAAAAJ&hl=en)(Tsinghua University)
-+ [Tao Kong](https://scholar.google.com/citations?user=kSUXLPkAAAAJ&hl=en) (Tsinghua University) 
-+ [Wenbing Huang](https://sites.google.com/site/wenbinghuangshomepage/) (Tsinghua University) 
-+ Yun Ren (Beihang University) 
-+ Yao Cheng (Peking University) 
-+ Peixian Hu (Tsinghua University) 
-+ [Ruoyan Wang](https://www.linkedin.com/in/ruoyan-wang) (Dalian University of Technology) 
-+ Yuhang Wang (CASIA)
-+ Yunlong Bian (Beijing University of Posts and Telecommunications) 
-+ [Ningning Ma](https://scholar.google.com/citations?user=vOAzYlcAAAAJ&hl=en&oi=sra) (Tsinghua University) 
-+ Junchao Shao (Beihang University) 
-+ [Yiwen Guo](https://scholar.google.com/citations?user=oi_lEwYAAAAJ&hl=en) (Tsinghua University)
+Conference Reviewer: NeurIPS, ICCV, CVPR, ECCV, AAAI, ICIP, etc.
+Journal Reviewer: IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
