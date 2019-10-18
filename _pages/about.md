@@ -109,5 +109,5 @@ Awards
 Professional Service
 =====
 
-Conference Reviewer: NeurIPS, ICCV, CVPR, ECCV, AAAI, ICIP, etc.
-Journal Reviewer: IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
++ Conference Reviewer: NeurIPS, ICCV, CVPR, ECCV, AAAI, ICIP, etc.
++ Journal Reviewer: IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
