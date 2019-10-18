@@ -72,12 +72,12 @@ Current and Past Interns
 I am really fortunate to be working with these amazingly talented students
 
 + [Dawei Sun](https://daweisun.me) (Tsinghua University)
-+ [Duo Li](http://home.cse.ust.hk/~dlibh/)(Tsinghua University)
-+ [Aojun Zhou](https://scholar.google.com/citations?user=cC8lXi8AAAAJ&hl=zh-CN)(CASIA) 
++ [Duo Li](http://home.cse.ust.hk/~dlibh/) (Tsinghua University)
++ [Aojun Zhou](https://scholar.google.com/citations?user=cC8lXi8AAAAJ&hl=zh-CN) (CASIA) 
 + Ming Lu (Tsinghua University)
 + Hao Zhao (Tsinghua University)
-+ [Jiahui Zhang](https://scholar.google.com/citations?user=l8YDfhgAAAAJ&hl=en)(Tsinghua University)
-+ [Kuan Wang](https://scholar.google.com/citations?user=sGtYJngAAAAJ&hl=en)(Tsinghua University)
++ [Jiahui Zhang](https://scholar.google.com/citations?user=l8YDfhgAAAAJ&hl=en) (Tsinghua University)
++ [Kuan Wang](https://scholar.google.com/citations?user=sGtYJngAAAAJ&hl=en) (Tsinghua University)
 + [Tao Kong](https://scholar.google.com/citations?user=kSUXLPkAAAAJ&hl=en) (Tsinghua University) 
 + [Wenbing Huang](https://sites.google.com/site/wenbinghuangshomepage/) (Tsinghua University) 
 + Yun Ren (Beihang University) 
