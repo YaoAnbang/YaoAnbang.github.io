@@ -14,6 +14,7 @@ Short Bio
 Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is currently a Senior Staff Research Scientist at Intel Labs China where he leads the research efforts on 2D/3D scene understanding, multi-modal emotion analysis, deep neural network design and compression, etc. He has 60+ PCT/US patent applications got granted/filed, which are widely used in Intel AI related HW designs (such as Intel® Movidius™ Neural Compute Sticks and Intel® Arria® 10  SoC FPGAs) and SW applications (such as Intel® RealSense™ SDK and Intel® Distribution of OpenVINO™ Toolkit). As the first/corresponding author, he has published 20+ top-tier research papers in NeurIPS, ICLR, CVPR, ICCV, ECCV, IJCV, TIP, PR and etc. He has been recognized with numerous Awards at Intel, including 1 Intel Global Inventor (2018), 3 Intel Labs Gordy Awards (2014/2015/2016), 1 Intel Labs Top-1 Inventor of the Year (2017), 2 Intel China Awards (2016/2017), 1 Intel China Employee of the Year Award (2017) and 1 i360 Design Hero Award of Intel IOTG Asian Region (2017). He also led the team and won the Winner of the prestigious EmotiW Challenges (held by ACM ICMI) in 2015/2017, beating out 74/100+ teams. 
 
 <font color="red">News：</font> 
++ October 29th, 2019. One paper accepted to IJCV.
 + July 23rd, 2019. Three papers accepted to ICCV 2019.
 + February 25th, 2019. Our DKS (Deeply-supervised Knowledge Synergy) work is accepted by CVPR 2019.
 + December 20th, 2018. Delivered an invited talk at Tsinghua University.
@@ -33,10 +34,11 @@ Selected Publications
 
 **2019**
 
-+ HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions. Duo Li\*, Aojun Zhou\* and **Anbang Yao+**. To appear in **ICCV 2019**.
-+ Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*, Dawei Sun\*, Zixin Luo, **Anbang Yao+**, Lei Zhou, Tianwei Shen, Yurong Chen, Hongen Liao and Long Quan. To appear in **ICCV 2019**.
-+ A Closed-form Solution to Universal Style Transfer. Ming Lu\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Feng Xu and Li Zhang. To appear in **ICCV 2019**.
-+ Deeply-Supervised Knowledge Synergy. Dawei Sun\*, **Anbang Yao+**, Aojun Zhou\* and Hao Zhao\*. **CVPR 2019**.	
++ Learning to Draw Sight Lines. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yurong Chen, and Li Zhang. To appear in **IJCV**.
++ HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions. Duo Li\*, Aojun Zhou\* and **Anbang Yao+**. **ICCV 2019**.
++ Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*, Dawei Sun\*, Zixin Luo, **Anbang Yao+**, Lei Zhou, Tianwei Shen, Yurong Chen, Hongen Liao and Long Quan. **ICCV 2019**.
++ A Closed-form Solution to Universal Style Transfer. Ming Lu\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Feng Xu and Li Zhang. **ICCV 2019**.
++ Deeply-Supervised Knowledge Synergy. Dawei Sun\*, **Anbang Yao+**, Aojun Zhou\* and Hao Zhao\*. **CVPR 2019**.
 
 **2018**
 
