@@ -113,5 +113,5 @@ Awards
 Professional Service
 =====
 
-+ Conference TPC-Member/Reviewer: NeurIPS, ICCV, CVPR, ECCV, AAAI, etc.
++ Conference TPC-Member/Reviewer: NeurIPS, ICCV, CVPR, ECCV, ICML, AAAI, etc.
 + Journal Reviewer: IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
