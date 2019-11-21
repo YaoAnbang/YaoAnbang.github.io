@@ -27,6 +27,12 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 + August 12th, 2016. Our DNS (Dynamic Network Surgery) work is accepted by NIPS 2016.
 + March 1st, 2016. Our HyperNet work is accepted as a spotlight oral paper by CVPR 2016.
 
+Academic Service
+=====
+
++ Conference TPC-Member/Reviewer: NeurIPS, ICCV, CVPR, ECCV, ICML, AAAI, etc.
++ Journal Reviewer: IJCV, IEEE-TPAMI, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
+
 Selected Publications
 =====
 
@@ -109,9 +115,3 @@ Awards
 + Tsinghua-JiangZhen Scholarship 2009, Highest Scholarship of School of Information Science and Technology, Tsinghua University 
 + Tsinghua-Toshiba Scholarship 2008, First Class.	
 + Tsinghua-AHaiFa Scholarship 2005, First Class
-
-Professional Service
-=====
-
-+ Conference TPC-Member/Reviewer: NeurIPS, ICCV, CVPR, ECCV, ICML, AAAI, etc.
-+ Journal Reviewer: IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
