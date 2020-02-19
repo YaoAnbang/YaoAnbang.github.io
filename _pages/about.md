@@ -62,7 +62,7 @@ Selected Publications
 
 **2016**
 
-+ Dynamic Network Surgery for Efficient DNNs. Yiwen Guo\*, **Anbang Yao+** and Yurong Chen. **NeurIPS 2016**.
++ Dynamic Network Surgery for Efficient DNNs. Yiwen Guo\*, **Anbang Yao+** and Yurong Chen. **NIPS 2016**.
 + HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection. Tao Kong\*, **Anbang Yao+**, Yurong Chen and Fuchun Sun. **CVPR 2016**, (**Spotlight**).
 + HoloNet: Towards Robust Emotion Recognition in the Wild. **Anbang Yao+**, Dongqi Cai, Ping Hu, Shandong Wang, Liang Sha and Yurong Chen. **ACM ICMI 2016**, (**Oral, 1-st Runner-up of EmotiW-AFEW 2016 out of ~100 Teams**).
 
