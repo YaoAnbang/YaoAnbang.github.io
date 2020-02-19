@@ -16,7 +16,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 <font color="red">News：</font> 
 + October 29th, 2019. One paper accepted to IJCV.
 + July 23rd, 2019. Three papers accepted to ICCV 2019.
-+ February 25th, 2019. Our DKS (Deeply-supervised Knowledge Synergy) work is accepted by CVPR 2019.
++ February 25th, 2019. One paper accepted to CVPR 2019.
 + December 20th, 2018. Delivered an invited talk at Tsinghua University.
 + December 7th, 2018. Delivered an invited talk "Deep neural network compression and acceleration" at NeurIPS 2018, CDNNRIA Workshop.
 + July 5th, 2018. Our SGC (Spatial Group Convolution) work is accepted as a full oral paper by ECCV 2018.
@@ -102,16 +102,16 @@ I am really fortunate to be working with these amazingly talented students
 
 Awards
 =====
-
-+ Intel Global Inventor 2018, 1 out of ~10000 Employees of Intel China 
++ 4 Intel China Quarterly Awards in 2017~2019.
++ Intel Global Inventor 2018, 1 out of ~8000 Employees of Intel China 
 + Intel China Employee of the Year Award 2017 	
-+ Intel China Award 2017, Highest Team Award of Intel China 
-+ Top Inventor of 2017, 1 out of over 700 Research Scientists across Intel Labs Globally 
-+ Intel i360 Design Hero Award 2017, Highest Business Award of Intel IOTG Asian Region 
-+ Intel China Award 2016, Highest Team Award of Intel China 
-+ Intel Labs Academy Award 2016 (a.k.a Gordy Award,***戈登·摩尔奖***), Highest Annual Research Award across Intel Labs Globally
-+ Intel Labs Academy Award 2015 (a.k.a Gordy Award,***戈登·摩尔奖***), Highest Annual Research Award across Intel Labs Globally
-+ Intel Labs Academy Award 2014 (a.k.a Gordy Award,***戈登·摩尔奖***), Highest Annual Research Award across Intel Labs Globally
-+ Tsinghua-JiangZhen Scholarship 2009, Highest Scholarship of School of Information Science and Technology, Tsinghua University 
-+ Tsinghua-Toshiba Scholarship 2008, First Class.	
++ Intel China Award 2017, the Highest Annual Team Award of Intel China 
++ Top Inventor of 2017, 1 out of over 700 Research Scientists of Intel Labs 
++ Intel i360 Design Hero Award 2017, the Highest Business Award of Intel IoTG Asian Region 
++ Intel China Award 2016, the Highest Annual Team Award of Intel China 
++ Intel Labs Academy Award 2016 (a.k.a Gordy Award,***戈登·摩尔奖***), the Highest Annual Research Award
++ Intel Labs Academy Award 2015 (a.k.a Gordy Award,***戈登·摩尔奖***), the Highest Annual Research Award
++ Intel Labs Academy Award 2014 (a.k.a Gordy Award,***戈登·摩尔奖***), the Highest Annual Research Award
++ Tsinghua-JiangZhen Scholarship 2009, the Highest Scholarship of School of Information Science and Technology, Tsinghua University 
++ Tsinghua-Toshiba Scholarship 2008, First Class	
 + Tsinghua-AHaiFa Scholarship 2005, First Class
