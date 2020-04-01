@@ -109,9 +109,9 @@ Awards
 + Intel China Award 2017, the Highest Annual Team Award of Intel China 
 + Intel China Award 2016, the Highest Annual Team Award of Intel China 
 + Intel i360 Design Hero Award 2017, the Highest Business Award of Intel IoTG Asian Region 
-+ Intel Labs Gordy Award 2016 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
-+ Intel Labs Gordy Award 2015 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
-+ Intel Labs Gordy Award 2014 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
++ Gordy Award 2016 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
++ Gordy Award 2015 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
++ Gordy Award 2014 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
 + TsinghuaJiangZhen Scholarship 2009, the Highest Scholarship of School of Information Science and Technology 
 + Tsinghua-Toshiba Scholarship 2008, First Class	
 + Tsinghua-AHaiFa Scholarship 2005, First Class
