@@ -106,9 +106,9 @@ Awards
 + Intel Global Inventor 2018, 1 out of ~8000 Employees of Intel China 
 + Intel China Employee of the Year Award 2017 	
 + Top Inventor of 2017, 1 out of over 700 Research Scientists of Intel Labs 
++ Intel i360 Design Hero Award 2017, the Highest Business Award of Intel IoTG Asian Region 
 + Intel China Award 2017, the Highest Annual Team Award of Intel China 
 + Intel China Award 2016, the Highest Annual Team Award of Intel China 
-+ Intel i360 Design Hero Award 2017, the Highest Business Award of Intel IoTG Asian Region 
 + Gordy Award 2016 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
 + Gordy Award 2015 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
 + Gordy Award 2014 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
