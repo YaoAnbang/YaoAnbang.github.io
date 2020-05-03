@@ -11,7 +11,7 @@ redirect_from:
 Short Bio
 =====
 
-Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is currently a Senior Staff Scientist at Intel Labs China where he leads the research efforts on developing omni-scale high-performance intelligent vision systems. He has about 70 PCT/US/EP patent applications got granted/filed, which are widely used in Intel AI related HW designs (such as Intel® Movidius™ Neural Compute Sticks and Intel® Arria® 10  SoC FPGAs) and SW applications (such as Intel® RealSense™ SDK and Intel® Distribution of OpenVINO™ Toolkit). As the first/corresponding author, he has published about 30 top-tier research papers in NeurIPS, ICLR, CVPR, ICCV, ECCV, TPAMI, IJCV, TIP, PR and etc. He has been recognized with numerous Awards at Intel, such as 1 Distinguished Invention Award in 2020, Intel Global Inventor of 2018 (first winner employee in China), 2 times of annual Intel China Awards, and 3 times of annual Intel Labs Gordy Awards (the highest annual research award named after Intel's co-founder Gordon Earle Moore, ***戈登·摩尔奖***). He also led the team and won the Winner of the prestigious EmotiW Challenges (held by ACM ICMI) in 2015/2017, beating out 74/100+ international teams. 
+Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is currently a Senior Staff Scientist at Intel Labs China where he leads the research efforts on developing omni-scale high-performance intelligent vision systems. He has about 70 PCT/US/EP patent applications got granted/filed, which are widely used in Intel AI HW designs (such as Intel® Movidius™ Neural Compute Sticks and Intel® Arria® 10  SoC FPGAs) and SW applications (such as Intel® RealSense™ SDK and Intel® Distribution of OpenVINO™ Toolkit). As the first/corresponding author, he has published about 30 top-tier research papers in NeurIPS, ICLR, CVPR, ICCV, ECCV, TPAMI, IJCV, TIP, PR and etc. He has been recognized with numerous Awards at Intel, such as 1 Distinguished Invention Award in 2020, Intel Global Inventor of 2018 (first winner employee in China), 2 times of annual Intel China Awards, and 3 times of annual Intel Labs Gordy Awards (the highest annual research award named after Intel's co-founder Gordon Earle Moore, ***戈登·摩尔奖***). He also led the team and won the Winner of the prestigious EmotiW Challenges (held by ACM ICMI) in 2015/2017, beating out 74/100+ international teams. 
 
 <font color="red">News：</font> 
 + October 29th, 2019. One paper accepted to IJCV.
@@ -102,7 +102,7 @@ I am really fortunate to be working with these amazingly talented students
 
 Awards
 =====
-+ 1 Distinguished Invention Award in 2020, for strong merits to future Intel AI HW designs. 
++ 1 Distinguished Invention Award in 2020, for strong values to future Intel AI HW designs. 
 + 4 Intel China Quarterly Awards in 2017~2019.
 + Intel Global Inventor 2018, 1 out of ~8000 Employees of Intel China 
 + Intel China Employee of the Year Award 2017 	
@@ -113,6 +113,6 @@ Awards
 + Gordy Award 2016 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
 + Gordy Award 2015 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
 + Gordy Award 2014 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
-+ TsinghuaJiangZhen Scholarship 2009, the Highest Scholarship of School of Information Science and Technology 
++ Tsinghua-JiangZhen Scholarship 2009, the Highest Scholarship of School of Information Science and Technology 
 + Tsinghua-Toshiba Scholarship 2008, First Class	
 + Tsinghua-AHaiFa Scholarship 2005, First Class
