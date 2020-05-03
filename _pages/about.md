@@ -102,8 +102,8 @@ I am really fortunate to be working with these amazingly talented students
 
 Awards
 =====
-+ 1 Distinguished Invention Award in 2020, for strong values to future Intel AI HW designs. 
-+ 4 Intel China Quarterly Awards in 2017~2019.
++ 1 Distinguished Invention Award in 2020, for strong values to future Intel AI HW designs
++ 4 Intel China Quarterly Awards in 2017~2019
 + Intel Global Inventor 2018, 1 out of ~8000 Employees of Intel China 
 + Intel China Employee of the Year Award 2017 	
 + Top-1 Inventor of 2017, 1 out of over 700 Research Scientists of Intel Labs 
