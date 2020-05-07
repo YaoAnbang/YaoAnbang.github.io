@@ -42,7 +42,7 @@ Selected Publications
 
 + Learning to Draw Sight Lines. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yurong Chen, and Li Zhang. To appear in **IJCV**.
 + HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions. Duo Li\*, Aojun Zhou\* and **Anbang Yao+**. **ICCV 2019**.
-+ Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*, Dawei Sun\*, Zixin Luo, **Anbang Yao+**, Lei Zhou, Tianwei Shen, Yurong Chen, Hongen Liao and Long Quan. **ICCV 2019**.
++ Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*, Dawei Sun\*, Zixin Luo, **Anbang Yao+**, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao. **ICCV 2019**.
 + A Closed-form Solution to Universal Style Transfer. Ming Lu\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Feng Xu and Li Zhang. **ICCV 2019**.
 + Deeply-Supervised Knowledge Synergy. Dawei Sun\*, **Anbang Yao+**, Aojun Zhou\* and Hao Zhao\*. **CVPR 2019**.
 
