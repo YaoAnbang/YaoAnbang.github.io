@@ -30,7 +30,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 Academic Service
 =====
 
-+ Conference TPC-Member/Reviewer: ICCV, CVPR, ECCV, NeurIPS, ICML, AAAI, ACM-ICMI, ICIP, etc.
++ Conference TPC-Member/Reviewer: ICCV, CVPR, ECCV, NeurIPS, ICML, AAAI, BMVC, ACM-ICMI, ICIP, etc.
 + Journal Reviewer: IEEE-TPAMI, IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
 
 Selected Publications
