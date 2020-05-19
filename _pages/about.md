@@ -38,9 +38,12 @@ Selected Publications
 
 (\* Interns mentored by me, \+ Corresponding author)
 
+**2020**
+
++ Learning to Draw Sight Lines. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yurong Chen, and Li Zhang. **International Journal of Computer Vision**,  vol 128, pages 1076–1100, 2020.
+
 **2019**
 
-+ Learning to Draw Sight Lines. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yurong Chen, and Li Zhang. To appear in **IJCV**.
 + HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions. Duo Li\*, Aojun Zhou\* and **Anbang Yao+**. **ICCV 2019**.
 + Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*, Dawei Sun\*, Zixin Luo, **Anbang Yao+**, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao. **ICCV 2019**.
 + A Closed-form Solution to Universal Style Transfer. Ming Lu\*, Hao Zhao\*, **Anbang Yao+**, Yurong Chen, Feng Xu and Li Zhang. **ICCV 2019**.
@@ -69,9 +72,9 @@ Selected Publications
 **2015 and before**
 
 + Capturing AU-Aware Facial Features and Their Latent Relations for Emotion Recognition in the Wild. **Anbang Yao+**, Junchao Shao\*, Ningning Ma\* and Yurong Chen. **ACM ICMI 2015**, (**Oral, Winner of EmotiW-AFEW 2015 out of 75 Teams**).
-+ Robust Face Representation Using Hybrid Spatial Feature Interdependence Matrix. **Anbang Yao+** and Shan Yu. **IEEE Trans. Image Processing**, 2013.
-+ A Compact Association of Particle Filtering and Kernel Based Object Tracking. **Anbang Yao+**, Xinggang Lin, Guijin Wang and Shan Yu. **Pattern Recognition**, 2012.
-+ An Incremental Bhattacharyya Dissimilarity Measure for Particle Filtering. **Anbang Yao+**, Guijin Wang, Xinggang Lin and Xiujuan Chai. **Pattern Recognition**, 2010.
++ Robust Face Representation Using Hybrid Spatial Feature Interdependence Matrix. **Anbang Yao+** and Shan Yu. **IEEE Trans. Image Processing**, vol 22(8), pages 3247–3259, 2013.
++ A Compact Association of Particle Filtering and Kernel Based Object Tracking. **Anbang Yao+**, Xinggang Lin, Guijin Wang and Shan Yu. **Pattern Recognition**, vol 45(7), pages 2584-2597, 2012.
++ An Incremental Bhattacharyya Dissimilarity Measure for Particle Filtering. **Anbang Yao+**, Guijin Wang, Xinggang Lin and Xiujuan Chai. **Pattern Recognition**, vol 43(4), pages 1244-1256, 2010.
 + Kernel Based Articulated Object Tracking with Scale Adaptation and Model Update. **Anbang Yao+**, Guijin Wang, Xinggang Lin and Hao Wang. **ICASSP 2008**.
 
 Current and Past Interns
