@@ -82,7 +82,7 @@ Selected Publications
 + An Incremental Bhattacharyya Dissimilarity Measure for Particle Filtering. Anbang Yao+, Guijin Wang, Xinggang Lin and Xiujuan Chai. **Pattern Recognition**, vol 43(4), pages 1244-1256, 2010.
 + Kernel Based Articulated Object Tracking with Scale Adaptation and Model Update. Anbang Yao+, Guijin Wang, Xinggang Lin and Hao Wang. **ICASSP 2008**.
 
-Current and Past Interns
+Current and Previous Interns
 =====
 
 I am really fortunate to be working with these amazingly talented students
