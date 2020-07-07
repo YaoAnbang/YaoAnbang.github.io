@@ -43,7 +43,7 @@ Selected Publications
 
 + PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer. Duo Li\*, Anbang Yao+ and Qifeng Chen. **ECCV 2020**.
 + Knowledge Transfer via Dense Cross-layer Mutual-distillation. Dawei Sun\* and Anbang Yao+. **ECCV 2020**.
-+ Resolution Switchable Networks for Runtime Efficient Image Classification. Kai Wang\*, Duo Li\* and Anbang Yao+. Accepted to **ECCV 2020**.
++ Resolution Switchable Networks for Runtime Efficient Image Classification. Yikai Wang\*, Duo Li\* and Anbang Yao+. **ECCV 2020**.
 + Learning to Learn Parameterized Classification Networks for Scalable Input Images. Duo Li\*, Anbang Yao+ and Qifeng Chen. **ECCV 2020**.
 + Learning to Draw Sight Lines. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yurong Chen, and Li Zhang. **International Journal of Computer Vision**,  vol 128, pages 1076–1100, 2020.
 
