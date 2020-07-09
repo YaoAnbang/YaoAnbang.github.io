@@ -16,7 +16,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 <font color="red">**Note**：We now have some internship positions. If you are interested in my research, please drop me an email. </font> 
 ---
 **<font color="red">News：</font>** 
-\\+ July 9th, 2020. One paper accepted by CVIU.
+<!--+ July 9th, 2020. One paper accepted by CVIU.>
 + July 3rd, 2020. Four papers accepted by ECCV 2020.
 + October 29th, 2019. One paper accepted by IJCV.
 + July 23rd, 2019. Three papers accepted by ICCV 2019.
