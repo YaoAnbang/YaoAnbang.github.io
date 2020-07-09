@@ -16,7 +16,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 <font color="red">**Note**：We now have some internship positions. If you are interested in my research, please drop me an email. </font> 
 ---
 **<font color="red">News：</font>** 
-+ July 9th, 2020. One paper accepted by CVIU.
+\\+ July 9th, 2020. One paper accepted by CVIU.
 + July 3rd, 2020. Four papers accepted by ECCV 2020.
 + October 29th, 2019. One paper accepted by IJCV.
 + July 23rd, 2019. Three papers accepted by ICCV 2019.
@@ -60,7 +60,7 @@ Selected Publications
 
 **2018**
 
-+ Efficient Semantic Scene Completion Network with Spatial Group Convolution. Jiahui Zhang\*, Hao Zhao\*, Anbang Yao\#, Yurong Chen, Li Zhang and Hongen Liao. **ECCV 2018**, (<font color="blue">**Oral**</font>).
++ Efficient Semantic Scene Completion Network with Spatial Group Convolution. Jiahui Zhang\*, Hao Zhao\*, Anbang Yao\#, Yurong Chen, Li Zhang and Hongen Liao. **ECCV 2018**, (<font color="blue">*Oral*</font>).
 + Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks.  Aojun Zhou\*\+, Anbang Yao\#\+, Kuan Wang\* and Yurong Chen. **CVPR 2018**.
 
 **2017**
@@ -70,13 +70,13 @@ Selected Publications
 + RON: Reverse Connection with Objectness Prior Networks for Object Detection. Tao Kong\*, Fuchun Sun, Anbang Yao\#, Huaping Liu, Ming Lu\* and Yurong Chen. **CVPR 2017**.
 + Physics Inspired Optimization on Semantic Transfer Features: An Alternative Method for Room Layout Estimation. Hao Zhao\*, Ming Lu\*, Anbang Yao\#, Yurong Chen and Li Zhang. **CVPR 2017**.
 + Network Sketching: Exploiting Binary Structure in Deep CNNs. Yiwen Guo, Anbang Yao, Hao Zhao\* and Yurong Chen. **CVPR 2017**.
-+ Learning Supervised Scoring Ensemble for Emotion Recognition in the Wild. Ping Hu, Dongqi Cai, Shandong Wang, Anbang Yao\# (<font color="blue">project leader who proposed the idea) and Yurong Chen. **ACM ICMI 2017**, (**Oral, Winner of EmotiW-AFEW 2017 out of 100+ Teams**</font>).
++ Learning Supervised Scoring Ensemble for Emotion Recognition in the Wild. Ping Hu, Dongqi Cai, Shandong Wang, Anbang Yao\# (<font color="blue">*project leader who proposed the idea*</font>) and Yurong Chen. **ACM ICMI 2017**, (<font color="blue">*Oral, Winner of EmotiW-AFEW 2017 out of 100+ Teams*</font>).
 
 **2016**
 
 + Dynamic Network Surgery for Efficient DNNs. Yiwen Guo\*, Anbang Yao\# and Yurong Chen. **NIPS 2016**.
-+ HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection. Tao Kong\*, Anbang Yao\#, Yurong Chen and Fuchun Sun. **CVPR 2016**, (<font color="blue">**Spotlight**</font>).
-+ HoloNet: Towards Robust Emotion Recognition in the Wild. Anbang Yao\#\+, Dongqi Cai\+, Ping Hu\+, Shandong Wang\+, Liang Sha\+ and Yurong Chen. **ACM ICMI 2016**, (<font color="blue">**Oral, 1-st Runner-up of EmotiW-AFEW 2016 out of ~100 Teams**</font>).
++ HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection. Tao Kong\*, Anbang Yao\#, Yurong Chen and Fuchun Sun. **CVPR 2016**, (<font color="blue">*Spotlight*</font>).
++ HoloNet: Towards Robust Emotion Recognition in the Wild. Anbang Yao\#\+, Dongqi Cai\+, Ping Hu\+, Shandong Wang\+, Liang Sha\+ and Yurong Chen. **ACM ICMI 2016**, (<font color="blue">*Oral, 1-st Runner-up of EmotiW-AFEW 2016 out of ~100 Teams*</font>).
 
 **2015 and before**
 
