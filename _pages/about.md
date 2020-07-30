@@ -17,7 +17,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 ---
 **<font color="red">News：</font>** 
 <!--+ July 9th, 2020. One paper accepted to CVIU.-->
-+ July 27th, 2020. One paper accepted to BMVC 2020.
++ July 29th, 2020. One paper accepted to BMVC 2020.
 + July 25th, 2020. One full-length research paper accepted to ACM MM 2020.
 + July 9th, 2020. One paper accepted to CVIU.
 + July 3rd, 2020. Four papers accepted to ECCV 2020.
@@ -53,7 +53,7 @@ Selected Publications
 + Knowledge Transfer via Dense Cross-layer Mutual-distillation. Anbang Yao\#\+ and Dawei Sun\*+. Accepted to **ECCV 2020**.
 + Resolution Switchable Networks for Runtime Efficient Image Classification. Yikai Wang\*, Fuchun Sun, Duo Li\* and Anbang Yao\#. Accepted to **ECCV 2020**.
 + Learning to Learn Parameterized Classification Networks for Scalable Input Images. Duo Li\*, Anbang Yao\# and Qifeng Chen. Accepted to **ECCV 2020**.
-<!--+ Pointly-supervised Scene Parsing with Uncertainty Mixture. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yiwen Guo, Yurong Chen and Li Zhang. Accepted to **Computer Vision and Image Understanding**.-->
++ Pointly-supervised Scene Parsing with Uncertainty Mixture. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yiwen Guo, Yurong Chen and Li Zhang. Accepted to **Computer Vision and Image Understanding**.
 + Learning to Draw Sight Lines. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yurong Chen and Li Zhang. **International Journal of Computer Vision**,  vol 128, pages 1076–1100, 2020.
 
 **2019**
