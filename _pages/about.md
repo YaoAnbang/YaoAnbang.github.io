@@ -34,12 +34,6 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is cur
 + August 12th, 2016. Our DNS (Dynamic Network Surgery) work is accepted to NIPS 2016.
 + March 1st, 2016. Our HyperNet work is accepted as a spotlight oral paper to CVPR 2016.
 
-Academic Service
-=====
-
-+ Conference Program Committee Member/Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, ACCV, ICMI, WACV, ICIP, etc.
-+ Journal Reviewer: IEEE-TPAMI, IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
-
 Selected Publications
 =====
 
@@ -119,8 +113,9 @@ I am really fortunate to be working with these amazingly talented students
 
 Awards
 =====
+
 + 1 Distinguished Invention Award in 2020, for strong merits to future Intel AI HW designs
-+ 4 Intel China Quarterly Awards in 2017~2019
++ 5 Intel China Quarterly Awards in 2017~2020
 + Intel Global Inventor 2018, 1 out of ~8000 Employees of Intel China 
 + Intel China Employee of the Year Award 2017 	
 + Top-1 Inventor of Intel Labs 2017 (having 34 PCT/US patents approved and filed in one single year, and keeping the highest record until now), 1 out of over 700 Research Scientists of Intel Labs 
@@ -130,3 +125,9 @@ Awards
 + Tsinghua-JiangZhen Scholarship 2009, the Highest Scholarship of School of Information Science and Technology 
 + Tsinghua-Toshiba Scholarship 2008, First Class	
 + Tsinghua-AHaiFa Scholarship 2005, First Class
+
+Academic Service
+=====
+
++ Conference Program Committee Member/Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, ACCV, ICMI, WACV, ICIP, etc.
++ Journal Reviewer: IEEE-TPAMI, IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
