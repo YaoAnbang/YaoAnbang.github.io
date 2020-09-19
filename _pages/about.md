@@ -43,11 +43,11 @@ Selected Publications
 
 + Explicit Residual Descent for 3D Human Pose Estimation from 2D Joint Locations. Yangyuxuan Kang\*+, Anbang Yao\#+, Shandong Wang, Ming Lu, Yurong Chen and Enhua Wu. Accepted to **BMVC 2020**.
 + Learning Deep Multimodal Feature Representation with Asymmetric Multi-layer Fusion. Yikai Wang\*, Fuchun Sun, Ming Lu and Anbang Yao\#. A full-length research paper, accepted to **ACM MM 2020**.
-+ PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer. Duo Li\*, Anbang Yao\# and Qifeng Chen. Accepted to **ECCV 2020**.
-+ Knowledge Transfer via Dense Cross-layer Mutual-distillation. Anbang Yao\#\+ and Dawei Sun\*+. Accepted to **ECCV 2020**.
-+ Resolution Switchable Networks for Runtime Efficient Image Classification. Yikai Wang\*, Fuchun Sun, Duo Li\* and Anbang Yao\#. Accepted to **ECCV 2020**.
-+ Learning to Learn Parameterized Classification Networks for Scalable Input Images. Duo Li\*, Anbang Yao\# and Qifeng Chen. Accepted to **ECCV 2020**.
-+ Pointly-supervised Scene Parsing with Uncertainty Mixture. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yiwen Guo, Yurong Chen and Li Zhang. Accepted to **Computer Vision and Image Understanding**.
++ PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer. Duo Li\*, Anbang Yao\# and Qifeng Chen. **ECCV 2020**.
++ Knowledge Transfer via Dense Cross-layer Mutual-distillation. Anbang Yao\#\+ and Dawei Sun\*+. **ECCV 2020**.
++ Resolution Switchable Networks for Runtime Efficient Image Classification. Yikai Wang\*, Fuchun Sun, Duo Li\* and Anbang Yao\#. **ECCV 2020**.
++ Learning to Learn Parameterized Classification Networks for Scalable Input Images. Duo Li\*, Anbang Yao\# and Qifeng Chen. **ECCV 2020**.
++ Pointly-supervised Scene Parsing with Uncertainty Mixture. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yiwen Guo, Yurong Chen and Li Zhang. **Computer Vision and Image Understanding**, vol 200, 2020.
 + Learning to Draw Sight Lines. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yurong Chen and Li Zhang. **International Journal of Computer Vision**,  vol 128, pages 1076–1100, 2020.
 
 **2019**
