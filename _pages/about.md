@@ -74,7 +74,7 @@ Selected Publications
 **2016**
 
 + Dynamic Network Surgery for Efficient DNNs. Yiwen Guo\*, Anbang Yao\# and Yurong Chen. **NIPS 2016**.
-+ HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection. Tao Kong\*, Anbang Yao\#, Yurong Chen and Fuchun Sun. **CVPR 2016**, (<font color="blue">*Spotlight*</font>).
++ HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection. Tao Kong\*, Anbang Yao\#, Yurong Chen and Fuchun Sun. **CVPR 2016**, (<font color="blue">*Spotlight *</font>).
 + HoloNet: Towards Robust Emotion Recognition in the Wild. Anbang Yao\#\+, Dongqi Cai\+, Ping Hu\+, Shandong Wang\+, Liang Sha\+ and Yurong Chen. **ACM ICMI 2016**, (<font color="blue">*Oral, 1-st Runner-up of EmotiW-AFEW 2016 out of ~100 Teams*</font>).
 
 **2015 and before**
@@ -118,13 +118,13 @@ Awards
 + 5 Intel China Quarterly Awards in 2017~2020
 + Intel Global Inventor 2018, 1 out of ~8000 Employees of Intel China 
 + Intel China Employee of the Year Award 2017 	
-+ Top-1 Inventor of Intel Labs 2017 (having 34 PCT/US patents approved and filed in one single year, and keeping the highest record until now), 1 out of over 700 Research Scientists of Intel Labs 
++ Top-1 Inventor of Intel Labs 2017 (having 34 PCT/US patents approved and filed in one single year, and keeping the highest record until now), 1 out of ~800 Research Scientists of Intel Labs 
 + Intel i360 Design Hero Award 2017, the Highest Annual Business Award of Intel IoTG Asian Region 
 + Intel China Award 2017/2016, the Highest Annual Team Award of Intel China 
 + Gordy Award 2016/2015/2014 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
 + Tsinghua-JiangZhen Scholarship 2009, the Highest Scholarship of School of Information Science and Technology 
-+ Tsinghua-Toshiba Scholarship 2008, First Class	
-+ Tsinghua-AHaiFa Scholarship 2005, First Class
++ Tsinghua-Toshiba Scholarship 2008, the First Class	
++ Tsinghua-AHaiFa Scholarship 2005, the First Class
 
 Academic Service
 =====
