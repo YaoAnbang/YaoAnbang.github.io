@@ -40,6 +40,10 @@ Selected Publications
 
 (\* Interns mentored by me, \+ Equal contribution, \# Corresponding author)
 
+**2021**
+
++ Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*\+, Dawei Sun\*\+, Zixin Luo, Anbang Yao, Hongkai Chen, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao. Extended version of our ICCV 2019 work, to appear in **IEEE Trans. on Pattern Analysis and Machine Intelligence**.
+
 **2020**
 
 + Explicit Residual Descent for 3D Human Pose Estimation from 2D Joint Locations. Yangyuxuan Kang\*+, Anbang Yao\#+, Shandong Wang, Ming Lu, Yurong Chen and Enhua Wu. Accepted to **BMVC 2020**.
