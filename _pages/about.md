@@ -46,8 +46,8 @@ Selected Publications
 
 **2020**
 
-+ Explicit Residual Descent for 3D Human Pose Estimation from 2D Joint Locations. Yangyuxuan Kang\*+, Anbang Yao\#+, Shandong Wang, Ming Lu, Yurong Chen and Enhua Wu. Accepted to **BMVC 2020**.
-+ Learning Deep Multimodal Feature Representation with Asymmetric Multi-layer Fusion. Yikai Wang\*, Fuchun Sun, Ming Lu and Anbang Yao\#. A full-length research paper, accepted to **ACM MM 2020**.
++ Explicit Residual Descent for 3D Human Pose Estimation from 2D Joint Locations. Yangyuxuan Kang\*+, Anbang Yao\#+, Shandong Wang, Ming Lu, Yurong Chen and Enhua Wu. **BMVC 2020**.
++ Learning Deep Multimodal Feature Representation with Asymmetric Multi-layer Fusion. Yikai Wang\*, Fuchun Sun, Ming Lu and Anbang Yao\#. A full-length research paper. **ACM MM 2020**.
 + PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer. Duo Li\*, Anbang Yao\# and Qifeng Chen. **ECCV 2020**.
 + Knowledge Transfer via Dense Cross-layer Mutual-distillation. Anbang Yao\#\+ and Dawei Sun\*+. **ECCV 2020**.
 + Resolution Switchable Networks for Runtime Efficient Image Classification. Yikai Wang\*, Fuchun Sun, Duo Li\* and Anbang Yao\#. **ECCV 2020**.
