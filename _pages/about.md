@@ -11,11 +11,12 @@ redirect_from:
 Short Bio
 =====
 
-Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is currently a Senior Staff Scientist at Intel Labs China where he leads the research efforts on developing omni-scale high-performance intelligent vision systems. He has over 80 PCT/US/EP patent applications got granted/filed, which are widely used in Intel AI related HW designs (such as Intel® Movidius™ Neural Compute Sticks and Intel® Arria® 10  SoC FPGAs) and SW applications (such as Intel® RealSense™ SDK and Intel® Distribution of OpenVINO™ Toolkit). As the first/corresponding author, he has published over 30 top-tier research papers in NeurIPS, ICLR, CVPR, ICCV, ECCV, and etc. He has been recognized with numerous Awards at Intel, such as Intel Global Innovator (the first and so far the only winner employee from China), 2 times of annual Intel China Awards, and 3 times of annual Intel Labs Gordy Awards (the highest annual research award named after Intel's co-founder Gordon Earle Moore, ***戈登·摩尔奖***). He also led the team and won the Winner of the prestigious EmotiW Challenges (held by ACM ICMI) in 2015/2017, beating out 74/100+ teams across the world. He demonstrated outstanding skills in mentoring interns, and some of them have already grown into top young researchers in the field.
+Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is currently a Senior Staff Scientist at Intel Labs China where he leads the research efforts on developing omni-scale high-performance intelligent vision systems. He has over 80 PCT/US/EP patent applications got granted/filed, which are widely used in Intel AI related HW designs (such as Intel® Movidius™ Neural Compute Sticks and Intel® Arria® 10 SoC FPGAs) and SW applications (such as Intel® RealSense™ SDK and Intel® Distribution of OpenVINO™ Toolkit). As the first/corresponding author, he has published over 30 top-tier research papers in CVPR, ICCV, ECCV, NeurIPS, ICLR, and etc. He has been recognized with numerous Awards at Intel, such as Intel Global Innovator (the first and so far the only winner employee from China), 2 times of annual Intel China Awards, and 3 times of annual Intel Labs Gordy Awards (the highest annual research award named after Intel's co-founder Gordon Earle Moore, ***戈登·摩尔奖***). He also led the team and won the Winner of the prestigious EmotiW Challenges (held by ACM ICMI) in 2015/2017, beating out 74/100+ teams across the world. He demonstrated outstanding skills in mentoring interns, and some of them have already grown into top young researchers in the field.
 
-<font color="red">**Note**：We now have some internship positions. If you are interested in my research, please drop me an email. </font> 
+<!--<font color="red">**Note**：We now have some internship positions. If you are interested in my research, please drop me an email. </font> -->
 ---
 **<font color="red">News：</font>** 
+
 <!--+ July 9th, 2020. One paper accepted to CVIU.-->
 + December 14th, 2020. One paper accepted to TPAMI.
 + July 29th, 2020. One paper accepted to BMVC 2020.
@@ -42,7 +43,7 @@ Selected Publications
 
 **2021**
 
-+ Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*\+, Dawei Sun\*\+, Zixin Luo, Anbang Yao, Hongkai Chen, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao. Extended version of our ICCV 2019 work, to appear in **IEEE Trans. on Pattern Analysis and Machine Intelligence**.
++ Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*\+, Dawei Sun\*\+, Zixin Luo, Anbang Yao, Hongkai Chen, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao. To appear in **IEEE Trans. on Pattern Analysis and Machine Intelligence**, 2021.
 
 **2020**
 
