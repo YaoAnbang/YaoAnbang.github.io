@@ -53,8 +53,8 @@ Selected Publications
 + Knowledge Transfer via Dense Cross-layer Mutual-distillation. Anbang Yao\#\+ and Dawei Sun\*+. **ECCV 2020**.
 + Resolution Switchable Networks for Runtime Efficient Image Classification. Yikai Wang\*, Fuchun Sun, Duo Li\* and Anbang Yao\#. **ECCV 2020**.
 + Learning to Learn Parameterized Classification Networks for Scalable Input Images. Duo Li\*, Anbang Yao\# and Qifeng Chen. **ECCV 2020**.
-+ Pointly-supervised Scene Parsing with Uncertainty Mixture. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yiwen Guo, Yurong Chen and Li Zhang. **Computer Vision and Image Understanding**, vol 200, 2020.
-+ Learning to Draw Sight Lines. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yurong Chen and Li Zhang. **International Journal of Computer Vision**,  vol 128, pages 1076–1100, 2020.
++ Pointly-supervised Scene Parsing with Uncertainty Mixture. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yiwen Guo, Yurong Chen and Li Zhang. **Computer Vision and Image Understanding**, vol 200, 103040, 2020.
++ Learning to Draw Sight Lines. Hao Zhao\*, Ming Lu\*, Anbang Yao, Yurong Chen and Li Zhang. **International Journal of Computer Vision**,  vol 128(5), pages 1076–1100, 2020.
 
 **2019**
 
