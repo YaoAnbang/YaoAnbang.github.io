@@ -11,7 +11,7 @@ redirect_from:
 Short Bio
 =====
 
-Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is currently a PE, Principal Research Scientist at Intel Labs China where he leads the research efforts on developing omni-scale high-performance intelligent vision systems. He has over 80 PCT/US/EP patent applications got granted/filed, which are widely used in Intel AI related HW designs (such as Intel® Movidius™ Neural Compute Sticks and Intel® Arria® 10 SoC FPGAs) and SW applications (such as Intel® RealSense™ SDK and Intel® Distribution of OpenVINO™ Toolkit). As the first/corresponding author, he has published over 30 top-tier research papers in CVPR, ICCV, ECCV, NeurIPS, ICLR, and etc. He has been recognized with numerous Awards at Intel, such as Intel Global Innovator (the first and so far the only winner employee from China), 2 times of annual Intel China Awards, and 3 times of annual Intel Labs Gordy Awards (the highest annual research award named after Intel's co-founder Gordon Earle Moore, ***戈登·摩尔奖***). He also led the team and won the Winner of the prestigious EmotiW Challenges (held by ACM ICMI) in 2015/2017, beating out 74/100+ teams across the world. He demonstrated outstanding skills in mentoring interns, and some of them have already grown into top young researchers in the field.
+Anbang Yao got his Ph.D. degree from Tsinghua University in Jan. 2010. He is currently a PE, Principal Research Scientist at Intel Labs China where he leads the research efforts on developing omni-scale high-performance intelligent vision systems. He has over 80 PCT/US/EP patent applications got granted/filed, which are widely used in Intel AI related HW designs (such as Intel® Movidius™ Neural Compute Sticks and Intel® Arria® 10 SoC FPGAs) and SW applications (such as Intel® RealSense™ SDK and Intel® Distribution of OpenVINO™ Toolkit). As the first/corresponding author, he has published over 30 top-tier research papers in CVPR, ICCV, ECCV, NeurIPS, ICLR, and etc. He has been recognized with numerous Awards at Intel, such as Intel Innovator (the first and so far the only winner employee from China), 2 times of annual Intel China Awards, and 3 times of annual Intel Labs Gordy Awards (the highest annual research award named after Intel's co-founder Gordon Earle Moore, ***戈登·摩尔奖***). He also led the team and won the Winner of the prestigious EmotiW Challenges (held by ACM ICMI) in 2015/2017, beating out 74/100+ teams across the world. He demonstrated outstanding skills in mentoring interns, and some of them have already grown into top young researchers in the field.
 
 <!--<font color="red">**Note**：We now have some internship positions. If you are interested in my research, please drop me an email. </font> -->
 ---
@@ -122,9 +122,9 @@ Awards
 
 + 1 Distinguished Invention Award in 2020, for strong merits to future Intel AI HW designs
 + 4 Intel China Quarterly Awards in 2017~2020
-+ Intel Global Innovator 2018, 1 out of ~10000 Employees of Intel China 
++ Intel Innovator 2018, 1 out of ~10000 Employees of Intel China 
 + Intel China Employee of the Year Award 2017 	
-+ Top-1 Inventor of Intel Labs 2017 (having 34 PCT/US patents approved and filed in one single year, and keeping the highest record so far), 1 out of ~800 Research Scientists of Intel Labs 
++ Top-1 Inventor of Intel Labs 2017 (had 34 PCT/US patents approved and filed in one single year, and keeping the highest record so far), 1 out of ~800 Research Scientists of Intel Labs 
 + Intel i360 Design Hero Award 2017, the Highest Annual Business Award of Intel IoTG Asian Region 
 + Intel China Award 2017/2016, the Highest Annual Team Award of Intel China 
 + Gordy Award 2016/2015/2014 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
@@ -135,5 +135,5 @@ Awards
 Academic Service
 =====
 
-+ Conference Program Committee Member/Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, ACCV, ICMI, WACV, ICIP, etc.
++ Conference Program Committee Member/Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, ACCV, WACV, ICMI, etc.
 + Journal Reviewer: IEEE-TPAMI, IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
