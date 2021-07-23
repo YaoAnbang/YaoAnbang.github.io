@@ -18,7 +18,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in 2010. He is currentl
 **<font color="red">News：</font>** 
 
 <!--+ July 9th, 2020. One paper accepted to CVIU.-->
-+ July 22nd, 2021. Our SNNs (Sub-bit Network Networks, 亚比特神经网络) work, the first to compress and accelerate binary neural networks, is accepted to ICCV 2021.
++ July 22nd, 2021. Our SNNs (Sub-bit Network Networks, 亚比特神经网络), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.
 + December 14th, 2020. One paper accepted to TPAMI.
 + July 29th, 2020. One paper accepted to BMVC 2020.
 + July 25th, 2020. One full-length research paper accepted to ACM MM 2020.
