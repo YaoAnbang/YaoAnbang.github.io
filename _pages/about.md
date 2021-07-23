@@ -18,6 +18,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in 2010. He is currentl
 **<font color="red">News：</font>** 
 
 <!--+ July 9th, 2020. One paper accepted to CVIU.-->
++ July 22nd, 2021. One SNNs (Sub-bit Network Networks) work, the first to compress and accelerate binary neural networks, is accepted to ICCV 2021.
 + December 14th, 2020. One paper accepted to TPAMI.
 + July 29th, 2020. One paper accepted to BMVC 2020.
 + July 25th, 2020. One full-length research paper accepted to ACM MM 2020.
@@ -42,7 +43,7 @@ Selected Publications
 (\* Interns mentored by me, \+ Equal contribution, \# Corresponding author)
 
 **2021**
-
++ Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks. Yikai Wang\*, Yi Yang, Fuchun Sun and Anbang Yao\#. Accepted to **ICCV 2021**.
 + Learning Two-View Correspondences and Geometry Using Order-Aware Network. Jiahui Zhang\*\+, Dawei Sun\*\+, Zixin Luo, Anbang Yao, Hongkai Chen, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao. To appear in **IEEE Trans. on Pattern Analysis and Machine Intelligence**, 2021.
 
 **2020**
