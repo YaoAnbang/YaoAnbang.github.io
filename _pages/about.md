@@ -123,15 +123,15 @@ Awards
 
 + 1 Distinguished Invention Award in 2020, for strong merits to future Intel AI HW designs
 + 4 Intel China Quarterly Awards in 2017~2020
-+ Intel Innovator 2018, 1 out of ~10000 Employees of Intel China 
++ Intel Innovator 2018, 1 out of ~10000 Employees of Intel China, first and only winner employee of Intel China so far 
 + Intel China Employee of the Year Award 2017 	
 + Top-1 Inventor of Intel Labs 2017 (had 34 PCT/US patents approved and filed in one single year, and keeping the highest record so far), 1 out of ~800 Research Scientists of Intel Labs 
-+ Intel i360 Design Hero Award 2017, the Highest Annual Business Award of Intel IoTG Asian Region 
-+ Intel China Award 2017/2016, the Highest Annual Team Award of Intel China 
-+ Gordy Award 2016/2015/2014 (named after Intel's co-founder Gordon Earle Moore), the Highest Annual Research Award of Intel Labs
-+ Tsinghua-JiangZhen Scholarship 2009, the Highest Scholarship of School of Information Science and Technology 
-+ Tsinghua-Toshiba Scholarship 2008, the First Class	
-+ Tsinghua-AHaiFa Scholarship 2005, the First Class
++ Intel i360 Design Hero Award 2017, Highest Annual Business Award of Intel IoTG Asian Region 
++ Intel China Award 2017/2016, Highest Annual Team Award of Intel China 
++ Gordy Award 2016/2015/2014 (named after Intel's co-founder Gordon Earle Moore), Highest Annual Research Award of Intel Labs
++ Tsinghua-JiangZhen Scholarship 2009, Top Scholarship of School of Information Science and Technology 
++ Tsinghua-Toshiba Scholarship 2008, First Class	
++ Tsinghua-AHaiFa Scholarship 2005, First Class
 
 Academic Service
 =====
