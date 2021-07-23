@@ -129,7 +129,7 @@ Awards
 + Intel i360 Design Hero Award 2017, Highest Annual Business Award of Intel IoTG Asian Region 
 + Intel China Award 2017/2016, Highest Annual Team Award of Intel China 
 + Gordy Award 2016/2015/2014 (named after Intel's co-founder Gordon Earle Moore), Highest Annual Research Award of Intel Labs
-+ Tsinghua-JiangZhen Scholarship 2009, Top Scholarship of School of Information Science and Technology 
++ Tsinghua-JiangZhen Scholarship 2009, Highest Scholarship in School of Information Science and Technology 
 + Tsinghua-Toshiba Scholarship 2008, First Class	
 + Tsinghua-AHaiFa Scholarship 2005, First Class
 
