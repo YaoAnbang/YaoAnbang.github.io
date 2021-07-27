@@ -97,7 +97,7 @@ Current and Previous Interns
 
 I am really fortunate to be working with these amazingly talented students
 
-+ Liu Yuyang (Tsinghua University)
++ Yuyang Liu (Tsinghua University)
 + Yangyuxuan Kang (ISCAS)
 + Zhaole Sun (Tsinghua University)
 + Ming Lu (Tsinghua University)
