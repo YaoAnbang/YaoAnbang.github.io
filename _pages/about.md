@@ -43,8 +43,17 @@ Selected Publications
 (\* Interns mentored by me, \+ Equal contribution, \# Corresponding author)
 
 **2021**
+<!-- --> 
+
+<blockquote>
 + Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks.<br> Yikai Wang\*, Yi Yang, Fuchun Sun and Anbang Yao\#.<br> Accepted to **ICCV 2021**.<br> [<font color="blue">Paper</font>](https://yaoanbang.github.io/). [<font color="blue">Code coming soon</font>](https://yaoanbang.github.io/).<br>
+</blockquote>
+  
+<!-- --> 
+
+<blockquote>
 + Learning Two-View Correspondences and Geometry Using Order-Aware Network.<br> Jiahui Zhang\*\+, Dawei Sun\*\+, Zixin Luo, Anbang Yao, Hongkai Chen, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao.<br> To appear in **IEEE Trans. on Pattern Analysis and Machine Intelligence**, 2021.<br> [<font color="blue">Paper</font>](https://yaoanbang.github.io/). [<font color="blue">Code</font>](https://github.com/zjhthu/OANet).<br> 
+</blockquote>
 
 **2020**
 
