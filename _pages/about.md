@@ -71,7 +71,7 @@ Selected Publications
 
 **2017**
 
-+ Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.<br> Aojun Zhou\*\+, Anbang Yao\#\+, Yiwen Guo\+, Lin Xu and Yurong Chen.<br> [Paper](https://arxiv.org/abs/1702.03044). [<font color="red">Code</font>](https://github.com/AojunZhou/Incremental-Network-Quantization).<br> **ICLR 2017**.
++ Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.<br> Aojun Zhou\*\+, Anbang Yao\#\+, Yiwen Guo\+, Lin Xu and Yurong Chen.<br> **ICLR 2017**.<br> [Paper](https://arxiv.org/abs/1702.03044). [<font color="red">Code</font>](https://github.com/AojunZhou/Incremental-Network-Quantization).<br>
 + Decoder Network over Lightweight Reconstructed Feature for Fast Semantic Style Transfer.<br> Ming Lu\*, Hao Zhao\*, Anbang Yao\#, Feng Xu, Yurong Chen and Li Zhang.<br> **ICCV 2017**.<br> [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lu_Decoder_Network_Over_ICCV_2017_paper.pdf). [<font color="red">Code</font>](https://yaoanbang.github.io/).<br>
 + RON: Reverse Connection with Objectness Prior Networks for Object Detection.<br> Tao Kong\*, Fuchun Sun, Anbang Yao\#, Huaping Liu, Ming Lu\* and Yurong Chen.<br> **CVPR 2017**.<br> [Paper](https://arxiv.org/abs/1707.01691). [<font color="red">Code</font>](https://github.com/taokong/RON).<br>
 + Physics Inspired Optimization on Semantic Transfer Features: An Alternative Method for Room Layout Estimation.<br> Hao Zhao\*, Ming Lu\*, Anbang Yao\#, Yurong Chen and Li Zhang.<br> **CVPR 2017**.<br> [Paper](https://arxiv.org/abs/1707.00383). [<font color="red">Code</font>](https://sites.google.com/view/st-pio/).<br>
