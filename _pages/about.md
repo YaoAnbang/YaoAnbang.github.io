@@ -45,7 +45,7 @@ Selected Publications
 **2021**
 
 <!-- <blockquote> -->
-+ Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks.<br> Yikai Wang\*, Yi Yang, Fuchun Sun and Anbang Yao\#.<br> Accepted to **ICCV 2021**.<br> [<font color="blue">[Paper]</font>](https://yaoanbang.github.io/). [<font color="blue">[Code is coming soon]</font>](https://yaoanbang.github.io/).<br>
++ Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks.<br> Yikai Wang\*, Yi Yang, Fuchun Sun and Anbang Yao\#.<br> Accepted to **<em>IEEE Conference on Computer Vision (ICCV), 2021</em>**.<br> [<font color="blue">[Paper]</font>](https://yaoanbang.github.io/). [<font color="blue">[Code is coming soon]</font>](https://yaoanbang.github.io/).<br>
 <!--</blockquote> -->
 
 <!-- <blockquote> -->
