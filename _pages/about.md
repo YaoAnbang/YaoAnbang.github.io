@@ -13,9 +13,9 @@ Short Bio
 
 Anbang Yao got his Ph.D. degree from Tsinghua University in 2010. He is currently a PE (Principal Engineer), Principal Research Scientist at Intel Labs China where he leads the research efforts on developing omni-scale high-performance intelligent vision systems. He has over 80 PCT/US/EP patent applications got granted/filed, which are widely used in Intel AI related HW designs (such as Intel® Movidius™ Neural Compute Sticks and Intel® Arria® 10 SoC FPGAs) and SW applications (such as Intel® RealSense™ SDK and Intel® Distribution of OpenVINO™ Toolkit). As the first/corresponding author, he has published about 40 top-tier research papers in CVPR, ICCV, ECCV, NeurIPS, ICLR, and etc. He has been recognized with numerous Awards at Intel, such as Intel Innovator (the first and so far the only winner employee from China), 2 times of annual Intel China Awards, and 3 times of annual Intel Labs Gordy Awards (the highest annual research award named after Intel's co-founder Gordon Earle Moore, ***戈登·摩尔奖***). He also led the team and won the Winner of the prestigious EmotiW Challenges (held by ACM ICMI) in 2015/2017, beating out 74/100+ teams across the world. He demonstrated outstanding skills in mentoring interns, and many of them have already grown into top young researchers in the field.
 
-<font color="Salmon">**Note**: If you are interested in research internship positions, please drop me an email. </font>
+<font color="Crimson">**Note**: If you are interested in research internship positions, please drop me an email. </font>
 ---
-**<font color="Salmon">News：</font>** 
+**<font color="Crimson">News：</font>** 
 
 + July 22nd, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.
 + December 14th, 2020. One paper accepted to TPAMI.
@@ -44,7 +44,7 @@ Selected Publications
 **2021**
 
 <!-- <blockquote> -->
-+ Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks.<br> Yikai Wang\*, Yi Yang, Fuchun Sun and Anbang Yao\#.<br> Accepted to <em>**International Conference on Computer Vision (ICCV)**</em>, 2021.<br> [<font color="DeepSkyBlue">[Paper]</font>](https://yaoanbang.github.io/). [<font color="DeepSkyBlue">[Code is coming soon]</font>](https://yaoanbang.github.io/).<br>
++ Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks.<br> Yikai Wang\*, Yi Yang, Fuchun Sun and Anbang Yao\#.<br> Accepted to <em>**International Conference on Computer Vision (ICCV)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper]</font>](https://yaoanbang.github.io/). [<font color="DodgerBlue">[Code is coming soon]</font>](https://yaoanbang.github.io/).<br>
 <!--</blockquote> -->
 
 <!-- <blockquote> -->
