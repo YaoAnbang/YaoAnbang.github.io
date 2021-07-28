@@ -22,7 +22,6 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in 2010. He is currentl
 + December 14th, 2020. One paper accepted to TPAMI.
 + July 29th, 2020. One paper accepted to BMVC 2020.
 + July 25th, 2020. One full-length research paper accepted to ACM MM 2020.
-+ July 9th, 2020. One paper accepted to CVIU.
 + July 3rd, 2020. Four papers accepted to ECCV 2020.
 + October 29th, 2019. One paper accepted to IJCV.
 + July 23rd, 2019. Three papers accepted to ICCV 2019.
