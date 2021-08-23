@@ -100,7 +100,7 @@ Selected Publications
 Current and Previous Interns
 =====
 
-<!--+I am really fortunate to be working with these amazingly talented students-->
+<!--+I am really fortunate to be working with these amazingly talented students -->
 
 + Yuyang Liu (Tsinghua University)
 + Yangyuxuan Kang (ISCAS)
