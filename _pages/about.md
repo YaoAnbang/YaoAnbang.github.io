@@ -17,7 +17,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in 2010. He is currentl
 ---
 **<font color="Crimson">News：</font>** 
 
-+ September 1st, 2022. I will serve as a SPC (a.k.a. Area Chair) for AAAI 2022.
++ August, 2021. I will serve as a SPC (a.k.a. Area Chair) for AAAI 2022.
 + July 22nd, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.
 + December 14th, 2020. One paper accepted to TPAMI.
 + July 29th, 2020. One paper accepted to BMVC 2020.
