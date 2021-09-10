@@ -103,15 +103,15 @@ Current and Previous Interns
 
 <!--+I am really fortunate to be working with these amazingly talented students -->
 
-+ Yuyang Liu (Tsinghua University)
-+ Yangyuxuan Kang (ISCAS)
++ Yangyuxuan Kang (CAS-IS)
 + [Yikai Wang](https://scholar.google.com/citations?user=MnW5aegAAAAJ&hl=en) (Tsinghua University)
++ Yuyang Liu (Tsinghua University)
 + [Zhaole Sun](https://scholar.google.com/citations?user=onTsdhYAAAAJ&hl=en) (Tsinghua University)
 + Ming Lu (Tsinghua University)
 + [Hao Zhao](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=zh-CN) (Tsinghua University)
 + [Dawei Sun](https://scholar.google.com/citations?user=JwuiGckAAAAJ&hl=zh-CN) (Tsinghua University)
 + [Duo Li](https://scholar.google.com/citations?user=sUNEzWkAAAAJ&hl=zh-CN) (Tsinghua University)
-+ [Aojun Zhou](https://scholar.google.com/citations?user=cC8lXi8AAAAJ&hl=zh-CN) (CASIA) 
++ [Aojun Zhou](https://scholar.google.com/citations?user=cC8lXi8AAAAJ&hl=zh-CN) (CAS-IA) 
 + [Jiahui Zhang](https://scholar.google.com/citations?user=l8YDfhgAAAAJ&hl=en) (Tsinghua University)
 + [Kuan Wang](https://scholar.google.com/citations?user=sGtYJngAAAAJ&hl=en) (Tsinghua University)
 + [Tao Kong](https://scholar.google.com/citations?user=kSUXLPkAAAAJ&hl=en) (Tsinghua University) 
@@ -120,7 +120,7 @@ Current and Previous Interns
 + Yao Cheng (Peking University) 
 + Peixian Hu (Tsinghua University) 
 + [Ruoyan Wang](https://www.linkedin.com/in/ruoyan-wang) (Dalian University of Technology) 
-+ Yuhang Wang (CASIA)
++ Yuhang Wang (CAS-IA)
 + Yunlong Bian (Beijing University of Posts and Telecommunications) 
 + [Ningning Ma](https://scholar.google.com/citations?user=vOAzYlcAAAAJ&hl=en&oi=sra) (Tsinghua University) 
 + Junchao Shao (Beihang University) 
