@@ -17,17 +17,17 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in 2010. He is currentl
 ---
 **<font color="Crimson">News：</font>** 
 
-+ September 28th, 2021. Our work for efficient video action recognition is accepted to NeurIPS 2021.
++ September 28th, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
 + August 11th, 2021. I will serve as a SPC member for AAAI 2022.
 + July 22nd, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.
 + December 14th, 2020. One paper accepted to TPAMI.
 + July 29th, 2020. One paper accepted to BMVC 2020.
 + July 25th, 2020. One full-length research paper accepted to ACM MM 2020.
 <!--+ July 9th, 2020. One paper accepted to CVIU.-->
-+ July 3rd, 2020. Four papers accepted to ECCV 2020.
++ July 3rd, 2020. Our DCM (Dense Cross-layer Mutual-distillation) and RS-Nets (Resolution Switchable Networks) works together with the other two works accepted to ECCV 2020.
 + October 29th, 2019. One paper accepted to IJCV.
 + July 23rd, 2019. Three papers accepted to ICCV 2019.
-+ February 25th, 2019. One paper accepted to CVPR 2019.
++ February 25th, 2019. One DKS (Deeply-supervised Knowledge Synergy) work is accepted to CVPR 2019.
 + December 20th, 2018. Delivered an invited talk at Tsinghua University.
 + December 7th, 2018. Delivered an invited talk "Deep neural network compression and acceleration" at CDNNRIA Workshop in NeurIPS 2018. 
 + July 5th, 2018. Our SGC (Spatial Group Convolution) work is accepted as a full oral paper to ECCV 2018.
@@ -73,7 +73,7 @@ Selected Publications
 + HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions.<br> Duo Li\*\+, Aojun Zhou\*\+ and Anbang Yao\#.<br> <em>**International Conference on Computer Vision (ICCV)**</em>, 2019.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_HBONet_Harmonious_Bottleneck_on_Two_Orthogonal_Dimensions_ICCV_2019_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/d-li14/HBONet).<br>
 + Learning Two-View Correspondences and Geometry Using Order-Aware Network.<br> Jiahui Zhang\*\+, Dawei Sun\*\+, Zixin Luo, Anbang Yao\#, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao.<br> <em>**International Conference on Computer Vision (ICCV)**</em>, 2019.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_Two-View_Correspondences_and_Geometry_Using_Order-Aware_Network_ICCV_2019_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/zjhthu/OANet).<br>
 + A Closed-form Solution to Universal Style Transfer.<br> Ming Lu\*, Hao Zhao\*, Anbang Yao\#, Yurong Chen, Feng Xu and Li Zhang.<br> <em>**International Conference on Computer Vision (ICCV)**</em>, 2019.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lu_A_Closed-Form_Solution_to_Universal_Style_Transfer_ICCV_2019_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/lu-m13/OptimalStyleTransfer).<br>
-+ Deeply-Supervised Knowledge Synergy.<br> Dawei Sun\*\+, Anbang Yao\#\+, Aojun Zhou\* and Hao Zhao\*.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2019.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Deeply-Supervised_Knowledge_Synergy_CVPR_2019_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/sundw2014/DKS).<br>
++ Deeply-supervised Knowledge Synergy.<br> Dawei Sun\*\+, Anbang Yao\#\+, Aojun Zhou\* and Hao Zhao\*.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2019.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Deeply-Supervised_Knowledge_Synergy_CVPR_2019_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/sundw2014/DKS).<br>
 
 **2018**
 
