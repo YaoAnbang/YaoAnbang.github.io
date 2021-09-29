@@ -17,7 +17,8 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in 2010. He is currentl
 ---
 **<font color="Crimson">News：</font>** 
 
-+ August 11th, 2021. I will serve as a SPC member (a.k.a. Area Chair) for AAAI 2022.
++ September 28th, 2021. Our work for efficient video action recognition is accepted to NeurIPS 2021.
++ August 11th, 2021. I will serve as a SPC member for AAAI 2022.
 + July 22nd, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.
 + December 14th, 2020. One paper accepted to TPAMI.
 + July 29th, 2020. One paper accepted to BMVC 2020.
@@ -43,6 +44,10 @@ Selected Publications
 (\* Interns mentored by me, \+ Equal contribution, \# Corresponding author)
 
 **2021**
+
+<!-- <blockquote> -->
++ Dynamic Normalization and Relay for Video Action Recognition.<br> Yikai Wang\*, Dongqi Cai\+, Anbang Yao\#+ and Yurong Chen.<br> Accepted to <em>**Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper is coming soon]</font>](https://yaoanbang.github.io/). [<font color="DodgerBlue">[Code is coming soon]</font>](https://yaoanbang.github.io/).<br>
+<!--</blockquote> -->
 
 <!-- <blockquote> -->
 + Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks.<br> Yikai Wang\*, Yi Yang, Fuchun Sun and Anbang Yao\#.<br> Accepted to <em>**International Conference on Computer Vision (ICCV)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper is coming soon]</font>](https://yaoanbang.github.io/). [<font color="DodgerBlue">[Code is coming soon]</font>](https://yaoanbang.github.io/).<br>
