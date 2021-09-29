@@ -46,7 +46,7 @@ Selected Publications
 **2021**
 
 <!-- <blockquote> -->
-+ Dynamic Normalization and Relay for Video Action Recognition.<br> Dongqi Cai\+, Anbang Yao\#+ and Yurong Chen.<br> Accepted to <em>**Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper is coming soon]</font>](https://yaoanbang.github.io/). [<font color="DodgerBlue">[Code is coming soon]</font>](https://yaoanbang.github.io/).<br>
++ Dynamic Normalization and Relay for Video Action Recognition.<br> Dongqi Cai\+, Anbang Yao\#+ and Yurong Chen.<br> Accepted to <em>**The Annual Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper is coming soon]</font>](https://yaoanbang.github.io/). [<font color="DodgerBlue">[Code is coming soon]</font>](https://yaoanbang.github.io/).<br>
 <!--</blockquote> -->
 
 <!-- <blockquote> -->
