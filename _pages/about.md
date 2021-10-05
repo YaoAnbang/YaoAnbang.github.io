@@ -18,7 +18,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in 2010. He is currentl
 **<font color="Crimson">News：</font>** 
 
 + September 28th, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
-+ August 11th, 2021. I will serve as a SPC member for AAAI 2022.
+<!-- + August 11th, 2021. I will serve as a SPC member for AAAI 2022.-->
 + July 22nd, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.
 + December 14th, 2020. One paper accepted to TPAMI.
 + July 29th, 2020. One paper accepted to BMVC 2020.
