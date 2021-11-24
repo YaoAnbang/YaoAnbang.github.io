@@ -46,7 +46,7 @@ Selected Publications
 **2021**
 
 <!-- <blockquote> -->
-+ Dynamic Normalization and Relay for Video Action Recognition.<br> Dongqi Cai\+, Anbang Yao\+\# and Yurong Chen.<br> Accepted to <em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper is coming soon]</font>](https://yaoanbang.github.io/). [<font color="DodgerBlue">[Code is coming soon]</font>](https://yaoanbang.github.io/).<br>
++ Dynamic Normalization and Relay for Video Action Recognition.<br> Dongqi Cai\+, Anbang Yao\+\# and Yurong Chen.<br> Accepted to <em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper]</font>](https://proceedings.neurips.cc/paper/2021/hash/5bd529d5b07b647a8863cf71e98d651a-Abstract.html). [<font color="DodgerBlue">[Code]</font>](https://github.com/caidonkey/dnr).<br>
 <!--</blockquote> -->
 
 <!-- <blockquote> -->
@@ -135,7 +135,7 @@ Awards
 =====
 
 + 1 Distinguished Invention Award in 2020, for strong merits to future Intel AI HW designs
-+ 4 Intel China Quarterly Awards in 2017~2020
++ 5 Intel China Quarterly Awards in 2017~2021
 + Intel Innovator 2018, 1 out of ~11800 Employees of Intel China, first and only winner employee of Intel China so far 
 + Intel China Employee of the Year Award 2017 	
 + Top-1 Inventor of Intel Labs 2017 (had 34 PCT/US patents approved and filed in one single year, and keeping the highest record so far), 1 out of ~800 Research Scientists of Intel Labs 
@@ -151,3 +151,4 @@ Academic Service
 
 + Conference (Senior) Program Committee Member/Area Chair or Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, ACCV, WACV, ICMI, etc.
 + Journal Reviewer: IEEE-TPAMI, IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
+
