@@ -112,6 +112,7 @@ Current and Previous Interns
 + Yangyuxuan Kang (CAS-IS)
 + Yuyang Liu (Tsinghua University)
 + [Zhaole Sun](https://scholar.google.com/citations?user=onTsdhYAAAAJ&hl=en) (Tsinghua University)
++ Lujun Li (CAS-IA)
 + Ming Lu (Tsinghua University)
 + [Hao Zhao](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=zh-CN) (Tsinghua University)
 + [Dawei Sun](https://scholar.google.com/citations?user=JwuiGckAAAAJ&hl=zh-CN) (Tsinghua University)
