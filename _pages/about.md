@@ -108,8 +108,8 @@ Current and Previous Interns
 
 <!--+I am really fortunate to be working with these amazingly talented students -->
 
-+ [Yikai Wang](https://scholar.google.com/citations?user=MnW5aegAAAAJ&hl=en) (Tsinghua University)
 + Yangyuxuan Kang (CAS-IS)
++ [Yikai Wang](https://scholar.google.com/citations?user=MnW5aegAAAAJ&hl=en) (Tsinghua University)
 + Yuyang Liu (Tsinghua University)
 + [Zhaole Sun](https://scholar.google.com/citations?user=onTsdhYAAAAJ&hl=en) (Tsinghua University)
 + Lujun Li (CAS-IA)
