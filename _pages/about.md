@@ -135,7 +135,7 @@ Current and Previous Interns
 Awards
 =====
 
-+ 5 Intel China Quarterly Awards in 2017~2021
++ 5 Intel China Quarterly Awards in 2017~2021, for great technical impacts to Intel China business
 + 1 Distinguished Invention Award in 2020, for strong merits to future Intel AI HW designs
 + Intel Innovator 2018, 1 out of ~11800 Employees of Intel China, first and only winner employee of Intel China so far 
 + Intel China Employee of the Year Award 2017 	
