@@ -115,7 +115,7 @@ Current and Previous Interns
 + Ming Lu (Tsinghua University)
 + [Hao Zhao](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=zh-CN) (Tsinghua University)
 + [Dawei Sun](https://scholar.google.com/citations?user=JwuiGckAAAAJ&hl=zh-CN) (Tsinghua University)
-+ [Duo Li](https://scholar.google.com/citations?user=sUNEzWkAAAAJ&hl=zh-CN) (Tsinghua University)
++ Duo Li (Tsinghua University)
 + [Aojun Zhou](https://scholar.google.com/citations?user=cC8lXi8AAAAJ&hl=zh-CN) (CAS-IA) 
 + [Jiahui Zhang](https://scholar.google.com/citations?user=l8YDfhgAAAAJ&hl=en) (Tsinghua University)
 + [Kuan Wang](https://scholar.google.com/citations?user=sGtYJngAAAAJ&hl=en) (Tsinghua University)
