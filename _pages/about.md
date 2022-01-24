@@ -46,17 +46,17 @@ Selected Publications
 
 **2022**
 <!-- <blockquote> -->
-+ Omni-Dimensional Dynamic Convolution.<br> Chao Li\+, Aojun Zhou and Anbang Yao\+\#.<br> Accepted to <em>**International Conference on Learning Representations (ICLR)**</em>, 2022.<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)). [<font color="DodgerBlue">[Code]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)).<br>
++ Omni-Dimensional Dynamic Convolution.<br> Chao Li\*\+, Aojun Zhou and Anbang Yao\+\#.<br> Accepted to <em>**International Conference on Learning Representations (ICLR)**</em>, 2022.<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)). [<font color="DodgerBlue">[Code is coming soon]</font>].<br>
 <!--</blockquote> -->
 
 **2021**
 
 <!-- <blockquote> -->
-+ Dynamic Normalization and Relay for Video Action Recognition.<br> Dongqi Cai\+, Anbang Yao\+\# and Yurong Chen.<br> Accepted to <em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper]</font>](https://proceedings.neurips.cc/paper/2021/hash/5bd529d5b07b647a8863cf71e98d651a-Abstract.html). [<font color="DodgerBlue">[Code]</font>](https://github.com/caidonkey/dnr).<br>
++ Dynamic Normalization and Relay for Video Action Recognition.<br> Dongqi Cai\+, Anbang Yao\+\# and Yurong Chen.<br> <em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper]</font>](https://proceedings.neurips.cc/paper/2021/hash/5bd529d5b07b647a8863cf71e98d651a-Abstract.html). [<font color="DodgerBlue">[Code]</font>](https://github.com/caidonkey/dnr).<br>
 <!--</blockquote> -->
 
 <!-- <blockquote> -->
-+ Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks.<br> Yikai Wang\*, Yi Yang, Fuchun Sun and Anbang Yao\#.<br> Accepted to <em>**International Conference on Computer Vision (ICCV)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Sub-Bit_Neural_Networks_Learning_To_Compress_and_Accelerate_Binary_Neural_ICCV_2021_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/yikaiw/SNN).<br>
++ Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks.<br> Yikai Wang\*, Yi Yang, Fuchun Sun and Anbang Yao\#.<br> <em>**International Conference on Computer Vision (ICCV)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Sub-Bit_Neural_Networks_Learning_To_Compress_and_Accelerate_Binary_Neural_ICCV_2021_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/yikaiw/SNN).<br>
 <!--</blockquote> -->
 
 <!-- <blockquote> -->
