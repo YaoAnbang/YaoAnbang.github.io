@@ -17,7 +17,7 @@ Anbang Yao got his Ph.D. degree from Tsinghua University in 2010. He is currentl
 ---
 **<font color="Crimson">News：</font>** 
 
-+ Jan. 21st, 2022. Our Omni-Dimensional Dynamic Convolution work is accepted to ICLR 2022.
++ Jan. 21st, 2022. Our Omni-Dimensional Dynamic Convolution work is accepted to ICLR 2022 as a spotlight oral paper.
 + September 28th, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
 <!-- + August 11th, 2021. I will serve as a SPC member for AAAI 2022.-->
 + July 22nd, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.
@@ -46,7 +46,7 @@ Selected Publications
 
 **2022**
 <!-- <blockquote> -->
-+ Omni-Dimensional Dynamic Convolution.<br> Hao Li\*\+, Aojun Zhou and Anbang Yao\+\#.<br> Accepted to <em>**International Conference on Learning Representations (ICLR)**</em>, 2022.<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)). <font color="DodgerBlue">[Code is coming soon]</font>.<br>
++ Omni-Dimensional Dynamic Convolution.<br> Hao Li\*\+, Aojun Zhou and Anbang Yao\+\#.<br> Accepted to <em>**International Conference on Learning Representations (ICLR)**</em>, 2022.<br>(<font color="Crimson">Spotlight Oral</font>). [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)). <font color="DodgerBlue">[Code is coming soon]</font>(https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions).<br>
 <!--</blockquote> -->
 
 **2021**
