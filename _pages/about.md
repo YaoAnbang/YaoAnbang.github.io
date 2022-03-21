@@ -17,7 +17,7 @@ Anbang Yao is currently a PE (Principal Engineer) and also a Principal Research 
 ---
 **<font color="Crimson">News：</font>** 
 
-+ Jan. 21st, 2022. Our Omni-Dimensional Dynamic Convolution work is accepted to ICLR 2022 as a spotlight oral paper.
++ Jan. 21st, 2022. Our Omni-Dimensional Dynamic Convolution work is accepted to ICLR 2022 as a Spotlight paper.
 + September 28th, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
 <!-- + August 11th, 2021. I will serve as a SPC member for AAAI 2022.-->
 + July 22nd, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.
@@ -26,7 +26,7 @@ Anbang Yao is currently a PE (Principal Engineer) and also a Principal Research 
 + July 25th, 2020. One full-length research paper accepted to ACM MM 2020.
 <!--+ July 9th, 2020. One paper accepted to CVIU.-->
 + July 3rd, 2020. Our DCM (Dense Cross-layer Mutual-distillation) and RS-Nets (Resolution Switchable Networks) works together with the other two works accepted to ECCV 2020.
-+ October 29th, 2019. One paper accepted to IJCV.
+<!--+ October 29th, 2019. One paper accepted to IJCV.-->
 + July 23rd, 2019. Three papers accepted to ICCV 2019.
 + February 25th, 2019. One DKS (Deeply-supervised Knowledge Synergy) work is accepted to CVPR 2019.
 + December 20th, 2018. Delivered an invited talk at Tsinghua University.
@@ -46,7 +46,7 @@ Selected Publications
 
 **2022**
 <!-- <blockquote> -->
-+ Omni-Dimensional Dynamic Convolution.<br> Chao Li\*\+, Aojun Zhou and Anbang Yao\+\#.<br> Accepted to <em>**International Conference on Learning Representations (ICLR)**</em>, 2022 (<font color="Crimson">Spotlight Oral</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)).[<font color="DodgerBlue">[Code is coming soon]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)).<br>
++ Omni-Dimensional Dynamic Convolution.<br> Chao Li\*\+, Aojun Zhou and Anbang Yao\+\#.<br> Accepted to <em>**International Conference on Learning Representations (ICLR)**</em>, 2022 (<font color="Crimson">Spotlight</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)).[<font color="DodgerBlue">[Code is coming soon]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)).<br>
 <!--</blockquote> -->
 
 **2021**
@@ -98,7 +98,7 @@ Selected Publications
 **2016**
 
 + Dynamic Network Surgery for Efficient DNNs.<br> Yiwen Guo\*, Anbang Yao\# and Yurong Chen.<br> <em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2016.<br> [<font color="DodgerBlue">[Paper]</font>](https://papers.nips.cc/paper/2016/file/2823f4797102ce1a1aec05359cc16dd9-Paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/yiwenguo/Dynamic-Network-Surgery).<br>[<font color="Crimson"> Among Most Influential NeurIPS Papers in Google Scholar Metrics 2021</font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=eqYFflc_uhEJ.2021&vq=en&cstart=60)<br>
-+ HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection.<br> Tao Kong\*, Anbang Yao\#, Yurong Chen and Fuchun Sun.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2016 (<font color="Crimson">Spotlight Oral</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kong_HyperNet_Towards_Accurate_CVPR_2016_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>[<font color="Crimson"> Among Most Influential CVPR Papers in Google Scholar Metrics 2021</font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2021&vq=en&cstart=140)<br>
++ HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection.<br> Tao Kong\*, Anbang Yao\#, Yurong Chen and Fuchun Sun.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2016 (<font color="Crimson">Spotlight</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kong_HyperNet_Towards_Accurate_CVPR_2016_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>[<font color="Crimson"> Among Most Influential CVPR Papers in Google Scholar Metrics 2021</font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2021&vq=en&cstart=140)<br>
 + HoloNet: Towards Robust Emotion Recognition in the Wild.<br> Anbang Yao\+\#, Dongqi Cai\+, Ping Hu\+, Shandong Wang\+, Liang Sha\+ and Yurong Chen.<br> <em>**ACM International Conference on Multimodal Interaction (ACM ICMI)**</em>, 2016 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://dl.acm.org/doi/10.1145/2993148.2997639). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>[<font color="Crimson">1<sup>st</sup> Runner-up of EmotiW-AFEW 2016, out of ~100 Teams</font>](https://sites.google.com/site/emotiw2016/).<br>
 
 **2015 and before**
