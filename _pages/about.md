@@ -46,7 +46,7 @@ Selected Publications
 
 **2022**
 <!-- <blockquote> -->
-+ Omni-Dimensional Dynamic Convolution.<br> Chao Li\*\+, Aojun Zhou and Anbang Yao\+\#.<br> Accepted to <em>**International Conference on Learning Representations (ICLR)**</em>, 2022 (<font color="Crimson">Spotlight</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/OSVAI/ODConv)).<br>
++ Omni-Dimensional Dynamic Convolution.<br> Chao Li\*\+, Aojun Zhou and Anbang Yao\+\#.<br> Accepted to <em>**International Conference on Learning Representations (ICLR)**</em>, 2022 (<font color="Crimson">Spotlight</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/OSVAI/ODConv).<br>
 <!--</blockquote> -->
 
 <!-- <blockquote> -->
@@ -140,6 +140,7 @@ Current and Previous Interns
 Awards
 =====
 
++ Eureka Award Q2 2022, Top-1 Innovator of Intel Labs, 1 out of ~800 Research Scientists of Intel Labs
 + 5 Intel China Quarterly Awards in 2017~2021, for great technical impacts to Intel China business
 + 1 Distinguished Invention Award in 2020, for strong merits to future Intel AI HW designs
 + Intel Innovator 2018, 1 out of ~11800 Employees of Intel China, first and only winner employee of Intel China so far 
