@@ -140,12 +140,12 @@ Current and Previous Interns
 Awards
 =====
 
-+ Eureka Award Q2 2022, Top-1 Innovator of Intel Labs, 1 out of ~800 Research Scientists of Intel Labs
++ Eureka Award Q2 2022, Top-1 Innovator of Intel Labs (had 10 PCT/US patent applications approved in a single quarter), 1 out of ~800 Research Scientists of Intel Labs
 + 5 Intel China Quarterly Awards in 2017~2021, for great technical impacts to Intel China business
 + 1 Distinguished Invention Award in 2020, for strong merits to future Intel AI HW designs
 + Intel Innovator 2018, 1 out of ~11800 Employees of Intel China, first and only winner employee of Intel China so far 
 + Intel China Employee of the Year Award 2017 	
-+ Top-1 Inventor of Intel Labs 2017 (had 34 PCT/US patents approved and filed in one single year, and keeping the highest record so far), 1 out of ~800 Research Scientists of Intel Labs 
++ Top-1 Inventor of Intel Labs 2017 (had 34 PCT/US patent applications approved in a single year, and keeping the highest record so far), 1 out of ~800 Research Scientists of Intel Labs 
 + Intel i360 Design Hero Award 2017, Highest Annual Business Award of Intel IoTG Asian Region 
 + Intel China Award 2017/2016, Highest Annual Team Award of Intel China 
 + Gordy Award 2016/2015/2014 (named after Intel's co-founder Gordon Earle Moore), Highest Annual Research Award of Intel Labs
