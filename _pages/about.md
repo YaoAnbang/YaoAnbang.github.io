@@ -140,7 +140,7 @@ Current and Previous Interns
 Awards
 =====
 
-+ Eureka Award Q2 2022, Top-1 Innovator of Intel Labs (had 10 PCT/US patent applications approved in a single quarter), 1 out of ~800 Research Scientists of Intel Labs
++ Eureka Award 2022, Top-1 Innovator of Intel Labs (had 10 PCT/US patent applications approved in a single quarter), 1 out of ~800 Research Scientists of Intel Labs
 + 5 Intel China Quarterly Awards in 2017~2021, for great technical impacts to Intel China business
 + 1 Distinguished Invention Award in 2020, for strong merits to future Intel AI HW designs
 + Intel Innovator 2018, 1 out of ~11800 Employees of Intel China, first and only winner employee of Intel China so far 
