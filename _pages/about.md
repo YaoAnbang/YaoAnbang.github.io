@@ -141,8 +141,8 @@ Awards
 =====
 
 + Eureka Award 2022, Top-1 Innovator of Intel Labs (had 10 PCT/US patent applications approved in a single quarter), 1 out of ~800 Research Scientists of Intel Labs
-+ 5 Intel China Quarterly Awards in 2017~2021, for great technical impacts to Intel China business
-+ 1 Distinguished Invention Award in 2020, for strong merits to future Intel AI HW designs
++ 6 Intel China Quarterly Awards in 2017~2022, for great technical impacts to Intel China business
++ 1 Outstanding Invention Award in 2020, for strong merits to future Intel AI HW designs
 + Intel Innovator 2018, 1 out of ~11800 Employees of Intel China, first and only winner employee of Intel China so far 
 + Intel China Employee of the Year Award 2017 	
 + Top-1 Inventor of Intel Labs 2017 (had 34 PCT/US patent applications approved in a single year, and keeping the highest record so far), 1 out of ~800 Research Scientists of Intel Labs 
@@ -156,6 +156,6 @@ Awards
 Academic Service
 =====
 
-+ Conference (Senior) Program Committee Member/Area Chair or Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, ACCV, WACV, ICMI, etc.
++ Conference (Senior) Program Committee Member/Area Chair or Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, WACV, ACCV, ICMI, etc.
 + Journal Reviewer: IEEE-TPAMI, IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
 
