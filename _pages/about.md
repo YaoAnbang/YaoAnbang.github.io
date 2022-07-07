@@ -17,6 +17,7 @@ Anbang Yao is currently a PE (Principal Engineer) and also a Principal Research 
 ---
 **<font color="Crimson">News：</font>** 
 
++ June 1st, 2022. The journal version of our OANet work is published by TPAMI.
 + Jan. 21st, 2022. Our Omni-Dimensional Dynamic Convolution work is accepted to ICLR 2022 as a Spotlight paper.
 + September 28th, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
 <!-- + August 11th, 2021. I will serve as a SPC member for AAAI 2022.-->
@@ -50,7 +51,7 @@ Selected Publications
 <!--</blockquote> -->
 
 <!-- <blockquote> -->
-+ Learning Two-View Correspondences and Geometry Using Order-Aware Network.<br> Jiahui Zhang\*\+, Dawei Sun\*\+, Zixin Luo, Anbang Yao, Hongkai Chen, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao.<br> <em>**IEEE Trans. on Pattern Analysis and Machine Intelligence**</em>, vol 44(6), pages 3110–3122, 2022.<br> [<font color="DodgerBlue">[Paper]</font>](https://yaoanbang.github.io/). [<font color="DodgerBlue">[Code]</font>](https://github.com/zjhthu/OANet).<br> 
++ OANet: Learning Two-View Correspondences and Geometry Using Order-Aware Network.<br> Jiahui Zhang\*\+, Dawei Sun\*\+, Zixin Luo, Anbang Yao, Hongkai Chen, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao.<br> <em>**IEEE Trans. on Pattern Analysis and Machine Intelligence**</em>, vol 44(6), pages 3110–3122, 2022.<br> [<font color="DodgerBlue">[Paper]</font>](https://yaoanbang.github.io/). [<font color="DodgerBlue">[Code]</font>](https://github.com/zjhthu/OANet).<br> 
 <!-- </blockquote> -->
 
 **2021**
