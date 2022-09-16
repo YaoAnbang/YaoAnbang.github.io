@@ -89,7 +89,7 @@ Selected Publications
 
 **2017**
 
-+ Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.<br> Aojun Zhou\*\+, Anbang Yao\+\#, Yiwen Guo\+, Lin Xu and Yurong Chen.<br> <em>**International Conference on Learning Representations (ICLR)**</em>, 2017.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/1702.03044). [<font color="DodgerBlue">[Code]</font>](https://github.com/AojunZhou/Incremental-Network-Quantization).<br>[<font color="Crimson"> Among Most Influential ICLR Papers in Google Scholar Metrics 2021</font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=0032SoU2xY4J.2021&vq=en&cstart=60)<br>
++ Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.<br> Aojun Zhou\*\+, Anbang Yao\+\#, Yiwen Guo\+, Lin Xu and Yurong Chen.<br> <em>**International Conference on Learning Representations (ICLR)**</em>, 2017.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/1702.03044). [<font color="DodgerBlue">[Code]</font>](https://github.com/AojunZhou/Incremental-Network-Quantization).<br>[<font color="Crimson"> Among Most Influential ICLR Papers in Google Scholar Metrics 2021 </font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=0032SoU2xY4J.2021&vq=en&cstart=60)<br> [<font color="Crimson"> Among Most Influential ICLR Papers in Google Scholar Metrics 2022 </font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=0032SoU2xY4J.2022&vq=en&cstart=60) <br>
 + Decoder Network over Lightweight Reconstructed Feature for Fast Semantic Style Transfer.<br> Ming Lu\*, Hao Zhao\*, Anbang Yao\#, Feng Xu, Yurong Chen and Li Zhang.<br> <em>**International Conference on Computer Vision (ICCV)**</em>, 2017.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lu_Decoder_Network_Over_ICCV_2017_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
 + RON: Reverse Connection with Objectness Prior Networks for Object Detection.<br> Tao Kong\*, Fuchun Sun, Anbang Yao\#, Huaping Liu, Ming Lu\* and Yurong Chen.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2017.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/1707.01691). [<font color="DodgerBlue">[Code]</font>](https://github.com/taokong/RON).<br>
 + Physics Inspired Optimization on Semantic Transfer Features: An Alternative Method for Room Layout Estimation.<br> Hao Zhao\*, Ming Lu\*, Anbang Yao\#, Yurong Chen and Li Zhang.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2017.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/1707.00383). [<font color="DodgerBlue">[Code]</font>](https://sites.google.com/view/st-pio/).<br>
@@ -115,7 +115,10 @@ Current and Previous Interns
 
 <!--+I am really fortunate to be working with these amazingly talented students -->
 
++ He Liu (Tsinghua University)
++ Jiawei Fan (Beijing University of Posts and Telecommunications)
 + Yangyuxuan Kang (CAS-IS)
++ Chao Li (CAS-IA)
 + [Yikai Wang](https://scholar.google.com/citations?user=MnW5aegAAAAJ&hl=en) (Tsinghua University)
 + Yuyang Liu (Tsinghua University)
 + [Zhaole Sun](https://scholar.google.com/citations?user=onTsdhYAAAAJ&hl=en) (Tsinghua University) <!--+ Lujun Li (CAS-IA)-->
