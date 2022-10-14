@@ -29,7 +29,7 @@ Anbang Yao is currently a PE (Principal Engineer) and also a Principal Research 
 <!--+ July 9th, 2020. One paper accepted to CVIU.-->
 + July 3rd, 2020. Our DCM (Dense Cross-layer Mutual-distillation) and RS-Nets (Resolution Switchable Networks) works together with the other two works accepted to ECCV 2020.
 <!--+ October 29th, 2019. One paper accepted to IJCV.-->
-+ September 16th, 2019. I am recognized as a Top Reviewer from NeurIPS 2019. 
++ September 6th, 2019. I am recognized as a Top Reviewer from NeurIPS 2019. 
 + July 23rd, 2019. Three papers accepted to ICCV 2019.
 + February 25th, 2019. One DKS (Deeply-supervised Knowledge Synergy) work is accepted to CVPR 2019.
 + December 20th, 2018. Delivered an invited talk at Tsinghua University.
