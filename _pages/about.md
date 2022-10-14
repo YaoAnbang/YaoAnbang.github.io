@@ -17,7 +17,7 @@ Anbang Yao is currently a PE (Principal Engineer) and also a Principal Research 
 ---
 **<font color="Crimson">News：</font>** 
 
-+ October 13th, 2022. Receive an Outstanding Reviewer Award to NeurIPS 2022. 
++ October 13th, 2022. I have received an Outstanding Reviewer Award from NeurIPS 2022. 
 + June 1st, 2022. The journal version of our OANet work is published by TPAMI.
 + January 21st, 2022. Our Omni-Dimensional Dynamic Convolution work is accepted to ICLR 2022 as a Spotlight paper.
 + September 28th, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
