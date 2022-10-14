@@ -17,7 +17,7 @@ Anbang Yao is currently a PE (Principal Engineer) and also a Principal Research 
 ---
 **<font color="Crimson">News：</font>** 
 
-+ October 13th, 2022. I have received an Outstanding Reviewer Award from NeurIPS 2022. 
++ October 13th, 2022. I am awarded as an Outstanding Reviewer from NeurIPS 2022. 
 + June 1st, 2022. The journal version of our OANet work is published by TPAMI.
 + January 21st, 2022. Our Omni-Dimensional Dynamic Convolution work is accepted to ICLR 2022 as a Spotlight paper.
 + September 28th, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
@@ -29,6 +29,7 @@ Anbang Yao is currently a PE (Principal Engineer) and also a Principal Research 
 <!--+ July 9th, 2020. One paper accepted to CVIU.-->
 + July 3rd, 2020. Our DCM (Dense Cross-layer Mutual-distillation) and RS-Nets (Resolution Switchable Networks) works together with the other two works accepted to ECCV 2020.
 <!--+ October 29th, 2019. One paper accepted to IJCV.-->
++ September 16th, 2019. I am recognized as a Top Reviewer from NeurIPS 2019. 
 + July 23rd, 2019. Three papers accepted to ICCV 2019.
 + February 25th, 2019. One DKS (Deeply-supervised Knowledge Synergy) work is accepted to CVPR 2019.
 + December 20th, 2018. Delivered an invited talk at Tsinghua University.
