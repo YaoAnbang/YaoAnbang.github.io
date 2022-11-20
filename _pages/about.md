@@ -17,9 +17,10 @@ Anbang Yao is currently a PE (Principal Engineer)/Principal Research Scientist a
 ---
 **<font color="Crimson">News：</font>** 
 
++ November 19th, 2022. Our work Grid Convolution is accepted to AAAI 2023. 
 + October 13th, 2022. I am awarded as an Outstanding Reviewer from NeurIPS 2022. 
-+ June 1st, 2022. The journal version of our OANet work is published by TPAMI.
-+ January 21st, 2022. Our Omni-Dimensional Dynamic Convolution work is accepted to ICLR 2022 as a Spotlight paper.
++ June 1st, 2022. The journal version of our work OANet is published by TPAMI.
++ January 21st, 2022. Our work Omni-Dimensional Dynamic Convolution is accepted to ICLR 2022 as a Spotlight paper.
 + September 28th, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
 <!--+ August 11th, 2021. I will serve as a SPC member for AAAI 2022.-->
 + July 22nd, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.
@@ -27,28 +28,32 @@ Anbang Yao is currently a PE (Principal Engineer)/Principal Research Scientist a
 <!--+ July 29th, 2020. One paper accepted to BMVC 2020.-->
 + July 25th, 2020. One full-length research paper accepted to ACM MM 2020.
 <!--+ July 9th, 2020. One paper accepted to CVIU.-->
-+ July 3rd, 2020. Our DCM (Dense Cross-layer Mutual-distillation) and RS-Nets (Resolution Switchable Networks) works together with the other two works accepted to ECCV 2020.
++ July 3rd, 2020. Our works DCM (Dense Cross-layer Mutual-distillation) and RS-Nets (Resolution Switchable Networks) together with the other two works accepted to ECCV 2020.
 <!--+ October 29th, 2019. One paper accepted to IJCV.-->
 + September 6th, 2019. I am recognized as a Top Reviewer from NeurIPS 2019. 
 + July 23rd, 2019. Three papers accepted to ICCV 2019.
-+ February 25th, 2019. One DKS (Deeply-supervised Knowledge Synergy) work is accepted to CVPR 2019.
++ February 25th, 2019. Our work DKS (Deeply-supervised Knowledge Synergy) is accepted to CVPR 2019.
 + December 20th, 2018. Delivered an invited talk at Tsinghua University.
 + December 7th, 2018. Delivered an invited talk "Deep neural network compression and acceleration" at CDNNRIA Workshop in NeurIPS 2018. 
-+ July 5th, 2018. Our SGC (Spatial Group Convolution) work is accepted as a full oral paper to ECCV 2018.
-+ February 22nd, 2018. Our ELQ (Explicit Loss-error-aware Quantization) work is accepted to CVPR 2018.
++ July 5th, 2018. Our work SGC (Spatial Group Convolution) is accepted as a full oral paper to ECCV 2018.
++ February 22nd, 2018. Our work ELQ (Explicit Loss-error-aware Quantization) is accepted to CVPR 2018.
 + July 17th, 2017. One paper accepted to ICCV 2017.
 + March 18th, 2017. Three papers accepted to CVPR 2017.
-+ February 6th, 2017. Our INQ (Incremental Network Quantization) work is accepted to ICLR 2017.
-+ August 12th, 2016. Our DNS (Dynamic Network Surgery) work is accepted to NIPS 2016.
-+ March 1st, 2016. Our HyperNet work is accepted as a spotlight oral paper to CVPR 2016.
++ February 6th, 2017. Our work INQ (Incremental Network Quantization) is accepted to ICLR 2017.
++ August 12th, 2016. Our work DNS (Dynamic Network Surgery) is accepted to NIPS 2016.
++ March 1st, 2016. Our work HyperNet is accepted as a spotlight oral paper to CVPR 2016.
 
 Selected Publications
 =====
 
 (\* Interns mentored by me, \+ Equal contribution, \# Corresponding author)
 
-**2022**
+**2023**
 <!-- <blockquote> -->
++ 3D Human Pose Lifting with Grid Convolution.<br> Yangyuxuan Kang\*, Yuyang Liu\*, Anbang Yao\#, Shandong Wang and Enhua Wu.<br><em>**AAAI Conference on Artificial Intelligence (AAAI)**</em>, 2023 (<font color="Crimson">Spotlight</font>).<br> [<font color="DodgerBlue">[Paper is coming soon]</font>].[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/GridConv).<br>
+<!--</blockquote> -->
+
+**2022**<!-- <blockquote> -->
 + Omni-Dimensional Dynamic Convolution.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2022 (<font color="Crimson">Spotlight</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/ODConv).<br>
 <!--</blockquote> -->
 
