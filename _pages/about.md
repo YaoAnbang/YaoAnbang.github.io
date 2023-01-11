@@ -17,7 +17,8 @@ Anbang Yao is currently a PE (Principal Engineer)/Principal Research Scientist a
 ---
 **<font color="Crimson">News：</font>** 
 
-+ November 19th, 2022. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper. 
++ January 11th, 2023. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper. 
+<!--+ November 19th, 2022. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper.--> 
 + October 13th, 2022. I am awarded as an Outstanding Reviewer from NeurIPS 2022. 
 + June 1st, 2022. The journal version of our work OANet is published by TPAMI.
 + January 21st, 2022. Our work Omni-Dimensional Dynamic Convolution is accepted to ICLR 2022 as a Spotlight paper.
