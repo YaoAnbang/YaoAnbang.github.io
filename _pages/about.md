@@ -48,11 +48,12 @@ Anbang Yao is currently a PE (Principal Engineer)/Principal Research Scientist a
 Selected Publications
 =====
 
-(\* Interns mentored by me, \+ Equal contribution, \# Corresponding author)
+(\* Interns or team-members mentored by me, \+ Equal contribution, \# Corresponding author)
 
 **2023**
 <!-- <blockquote> -->
-+ 3D Human Pose Lifting with Grid Convolution.<br> Yangyuxuan Kang\*, Yuyang Liu\*, Anbang Yao\#, Shandong Wang and Enhua Wu.<br><em>**AAAI Conference on Artificial Intelligence (AAAI)**</em>, 2023 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">Paper is coming soon</font>].[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/GridConv).<br>
++ NORM: Knowledge Distillation via N-to-One Representation Matching.<br> Xiaolong Liu\*\+, Lujun Lee\*\+, Chao Li\*\+, Jiawei Fan\*\+ and Anbang Yao\+\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2023.<br> [<font color="DodgerBlue">Paper is coming soon</font>].[<font color="DodgerBlue">[Code is coming soon]</font>](https://github.com/OSVAI/NORM).<br> 
++ 3D Human Pose Lifting with Grid Convolution.<br> Yangyuxuan Kang\*, Yuyang Liu\*, Anbang Yao\#, Shandong Wang and Enhua Wu.<br><em>**AAAI Conference on Artificial Intelligence (AAAI)**</em>, 2023 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">Paper is coming soon</font>].[<font color="DodgerBlue">[Code is coming soon]</font>](https://github.com/OSVAI/GridConv).<br>
 <!--</blockquote> -->
 
 **2022**<!-- <blockquote> -->
@@ -66,7 +67,7 @@ Selected Publications
 **2021**
 
 <!-- <blockquote> -->
-+ Dynamic Normalization and Relay for Video Action Recognition.<br> Dongqi Cai\+, Anbang Yao\+\# and Yurong Chen.<br> <em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper]</font>](https://proceedings.neurips.cc/paper/2021/hash/5bd529d5b07b647a8863cf71e98d651a-Abstract.html). [<font color="DodgerBlue">[Code]</font>](https://github.com/caidonkey/dnr).<br>
++ Dynamic Normalization and Relay for Video Action Recognition.<br> Dongqi Cai\*\+, Anbang Yao\+\# and Yurong Chen.<br> <em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper]</font>](https://proceedings.neurips.cc/paper/2021/hash/5bd529d5b07b647a8863cf71e98d651a-Abstract.html). [<font color="DodgerBlue">[Code]</font>](https://github.com/caidonkey/dnr).<br>
 <!--</blockquote> -->
 
 <!-- <blockquote> -->
