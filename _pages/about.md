@@ -120,17 +120,24 @@ Selected Publications
 + An Incremental Bhattacharyya Dissimilarity Measure for Particle Filtering.<br> Anbang Yao\#, Guijin Wang, Xinggang Lin and Xiujuan Chai.<br> <em>**Pattern Recognition**</em>, vol 43(4), pages 1244-1256, 2010.<br> [<font color="DodgerBlue">[Paper]</font>](https://www.sciencedirect.com/science/article/pii/S0031320309003689). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
 + Kernel Based Articulated Object Tracking with Scale Adaptation and Model Update.<br> Anbang Yao\#, Guijin Wang, Xinggang Lin and Hao Wang.<br> <em>**IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP)**</em>, 2008.<br> [<font color="DodgerBlue">[Paper]</font>](https://ieeexplore.ieee.org/document/4517767). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
 
+Some old manuscripts (all works were done at Intel Labs China)  
+=====
+
++ Explicit Connection Distillation.<br> Lujun Lee\*\+, Yikai Wang\*\+, Anbang Yao\#, Yi Qian, Xiao Zhou and Ke He.<br><em>*ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=yOkSW62hqq2).<br> 
++ Weights Having Stable Signs Are Important: Finding Primary Subnetworks and Kernels to Compress Binary Weight Networks.<br> Zhaole Sun\* and Anbang Yao\#.<br><em>*ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B9nDuDeanHK).<br> 
++ SnapQuant: A Probabilistic and Nested Parameterization for Binary Networks.<br> Kuan Wang\*, Hao Zhao\*, Anbang Yao\#, Aojun Zhou\*, Dawei Sun\* and Yurong Chen.<br><em>*ICLR 2019 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B1ePui0ctQ).<br> 
+
 Current and Previous Interns
 =====
 
 <!--+I am really fortunate to be working with these amazingly talented students -->
 
-+ Jiawei Fan (Beijing University of Posts and Telecommunications)
++ [Jiawei Fan](https://jwfandl.github.io/)(Beijing University of Posts and Telecommunications)
 + He Liu (Tsinghua University)
 + [Yangyuxuan Kang](https://github.com/kyang-06) (CAS-IS)
 + [Yikai Wang](https://scholar.google.com/citations?user=MnW5aegAAAAJ&hl=en) (Tsinghua University)
 + [Chao Li](https://openreview.net/profile?id=~Chao_Li16) (CAS-IA)
-+ Yuyang Liu (Tsinghua University)
++ [Yuyang Liu](https://scholar.google.com/citations?user=0ROQMVcAAAAJ&hl=en) (Tsinghua University)
 + [Zhaole Sun](https://scholar.google.com/citations?user=onTsdhYAAAAJ&hl=en) (Tsinghua University) <!--+ Lujun Li (CAS-IA)-->
 + [Ming Lu](https://github.com/lu-m13) (Tsinghua University)
 + [Hao Zhao](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=zh-CN) (Tsinghua University)
