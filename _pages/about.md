@@ -138,7 +138,7 @@ Current and Previous Interns
 + [Yikai Wang](https://scholar.google.com/citations?user=MnW5aegAAAAJ&hl=en) (Tsinghua University)
 + [Chao Li](https://openreview.net/profile?id=~Chao_Li16) (CAS-IA)
 + [Yuyang Liu](https://scholar.google.com/citations?user=0ROQMVcAAAAJ&hl=en) (Tsinghua University)
-+ [Zhaole Sun](https://scholar.google.com/citations?user=onTsdhYAAAAJ&hl=en) (Tsinghua University) <!--+ Lujun Li (CAS-IA)-->
++ [Zhaole Sun](https://scholar.google.com/citations?user=onTsdhYAAAAJ&hl=en) (Tsinghua University) <!--+ Lujun Lee (CAS-IA)-->
 + [Ming Lu](https://github.com/lu-m13) (Tsinghua University)
 + [Hao Zhao](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=zh-CN) (Tsinghua University)
 + Duo Li (Tsinghua University)
