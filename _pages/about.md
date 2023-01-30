@@ -120,12 +120,12 @@ Selected Publications
 + An Incremental Bhattacharyya Dissimilarity Measure for Particle Filtering.<br> Anbang Yao\#, Guijin Wang, Xinggang Lin and Xiujuan Chai.<br> <em>**Pattern Recognition**</em>, vol 43(4), pages 1244-1256, 2010.<br> [<font color="DodgerBlue">[Paper]</font>](https://www.sciencedirect.com/science/article/pii/S0031320309003689). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
 + Kernel Based Articulated Object Tracking with Scale Adaptation and Model Update.<br> Anbang Yao\#, Guijin Wang, Xinggang Lin and Hao Wang.<br> <em>**IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP)**</em>, 2008.<br> [<font color="DodgerBlue">[Paper]</font>](https://ieeexplore.ieee.org/document/4517767). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
 
-Some old manuscripts (all works were done at Intel Labs China)  
+Some Old Manuscripts (Works Done at Intel)  
 =====
 
-+ Explicit Connection Distillation.<br> Lujun Lee\*\+, Yikai Wang\*\+, Anbang Yao\#, Yi Qian, Xiao Zhou and Ke He.<br><em>*ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=yOkSW62hqq2).<br> 
-+ Weights Having Stable Signs Are Important: Finding Primary Subnetworks and Kernels to Compress Binary Weight Networks.<br> Zhaole Sun\* and Anbang Yao\#.<br><em>*ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B9nDuDeanHK).<br> 
-+ SnapQuant: A Probabilistic and Nested Parameterization for Binary Networks.<br> Kuan Wang\*, Hao Zhao\*, Anbang Yao\#, Aojun Zhou\*, Dawei Sun\* and Yurong Chen.<br><em>*ICLR 2019 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B1ePui0ctQ).<br> 
++ Explicit Connection Distillation.<br> Lujun Lee\*\+, Yikai Wang\*\+, Anbang Yao\#, Yi Qian, Xiao Zhou and Ke He.<br><em>**ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=yOkSW62hqq2).<br> 
++ Weights Having Stable Signs Are Important: Finding Primary Subnetworks and Kernels to Compress Binary Weight Networks.<br> Zhaole Sun\* and Anbang Yao\#.<br><em>**ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B9nDuDeanHK).<br>
++ SnapQuant: A Probabilistic and Nested Parameterization for Binary Networks.<br> Kuan Wang\*, Hao Zhao\*, Anbang Yao\#, Aojun Zhou\*, Dawei Sun\* and Yurong Chen.<br><em>**ICLR 2019 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B1ePui0ctQ).<br>
 
 Current and Previous Interns
 =====
