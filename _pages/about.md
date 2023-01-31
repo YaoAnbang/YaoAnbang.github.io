@@ -132,7 +132,7 @@ Current and Previous Interns
 
 <!--+I am really fortunate to be working with these amazingly talented students -->
 
-+ [Jiawei Fan](https://jwfandl.github.io/)(Beijing University of Posts and Telecommunications)
++ [Jiawei Fan](https://jwfandl.github.io/) (Beijing University of Posts and Telecommunications)
 + He Liu (Tsinghua University)
 + [Yangyuxuan Kang](https://github.com/kyang-06) (CAS-IS)
 + [Yikai Wang](https://scholar.google.com/citations?user=MnW5aegAAAAJ&hl=en) (Tsinghua University)
