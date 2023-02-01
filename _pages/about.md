@@ -52,7 +52,7 @@ Selected Publications
 
 **2023**
 <!-- <blockquote> -->
-+ NORM: Knowledge Distillation via N-to-One Representation Matching.<br> Xiaolong Liu\*\+, Lujun Lee\*\+, Chao Li\*\+, Jiawei Fan\*\+ and Anbang Yao\+\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2023.<br> [<font color="DodgerBlue">Paper is coming soon</font>].[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NORM).<br> 
++ NORM: Knowledge Distillation via N-to-One Representation Matching.<br> Xiaolong Liu\*\+, Lujun Lee\*\+, Chao Li\*\+ and Anbang Yao\+\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2023.<br> [<font color="DodgerBlue">Paper is coming soon</font>].[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NORM).<br> 
 + 3D Human Pose Lifting with Grid Convolution.<br> Yangyuxuan Kang\*, Yuyang Liu\*, Anbang Yao\#, Shandong Wang and Enhua Wu.<br><em>**AAAI Conference on Artificial Intelligence (AAAI)**</em>, 2023 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">Paper is coming soon</font>].[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/GridConv).<br>
 <!--</blockquote> -->
 
