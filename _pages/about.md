@@ -52,7 +52,7 @@ Selected Publications
 
 **2023**
 <!-- <blockquote> -->
-+ NORM: Knowledge Distillation via N-to-One Representation Matching.<br> Xiaolong Liu\*\+, Lujun Lee\*\+, Chao Li\*\+ and Anbang Yao\+\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2023.<br> [<font color="DodgerBlue">Paper is coming soon</font>].[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NORM).<br> 
++ NORM: Knowledge Distillation via N-to-One Representation Matching.<br> Xiaolong Liu\*\+, Lujun Li\*\+, Chao Li\*\+ and Anbang Yao\+\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2023.<br> [<font color="DodgerBlue">Paper is coming soon</font>].[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NORM).<br> 
 + 3D Human Pose Lifting with Grid Convolution.<br> Yangyuxuan Kang\*, Yuyang Liu\*, Anbang Yao\#, Shandong Wang and Enhua Wu.<br><em>**AAAI Conference on Artificial Intelligence (AAAI)**</em>, 2023 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">Paper is coming soon</font>].[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/GridConv).<br>
 <!--</blockquote> -->
 
@@ -123,7 +123,7 @@ Selected Publications
 Some Old Manuscripts (Works Done at Intel)  
 =====
 
-+ Explicit Connection Distillation.<br> Lujun Lee\*\+, Yikai Wang\*\+, Anbang Yao\#, Yi Qian, Xiao Zhou and Ke He.<br><em>**ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=yOkSW62hqq2).<br> 
++ Explicit Connection Distillation.<br> Lujun Li\*\+, Yikai Wang\*\+, Anbang Yao\#, Yi Qian, Xiao Zhou and Ke He.<br><em>**ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=yOkSW62hqq2).<br> 
 + Weights Having Stable Signs Are Important: Finding Primary Subnetworks and Kernels to Compress Binary Weight Networks.<br> Zhaole Sun\* and Anbang Yao\#.<br><em>**ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B9nDuDeanHK).<br>
 + SnapQuant: A Probabilistic and Nested Parameterization for Binary Networks.<br> Kuan Wang\*, Hao Zhao\*, Anbang Yao\#, Aojun Zhou\*, Dawei Sun\* and Yurong Chen.<br><em>**ICLR 2019 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B1ePui0ctQ).<br>
 
@@ -134,7 +134,7 @@ Current and Previous Interns
 
 + [Jiawei Fan](https://jwfandl.github.io/) (Beijing University of Posts and Telecommunications)
 + He Liu (Tsinghua University)
-+ [Yangyuxuan Kang](https://github.com/kyang-06) (CAS-IS)
++ [Yangyuxuan Kang](https://github.com/kyang-06) (IS-CAS)
 + [Yikai Wang](https://scholar.google.com/citations?user=MnW5aegAAAAJ&hl=en) (Tsinghua University)
 + [Chao Li](https://openreview.net/profile?id=~Chao_Li16) (CAS-IA)
 + [Yuyang Liu](https://scholar.google.com/citations?user=0ROQMVcAAAAJ&hl=en) (Tsinghua University)
