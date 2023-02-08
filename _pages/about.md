@@ -138,7 +138,7 @@ Current and Previous Interns
 + [Yikai Wang](https://scholar.google.com/citations?user=MnW5aegAAAAJ&hl=en) (Tsinghua University)
 + [Chao Li](https://openreview.net/profile?id=~Chao_Li16) (CAS-IA)
 + [Yuyang Liu](https://scholar.google.com/citations?user=0ROQMVcAAAAJ&hl=en) (Tsinghua University)
-+ [Zhaole Sun](https://scholar.google.com/citations?user=onTsdhYAAAAJ&hl=en) (Tsinghua University) <!--+ Lujun Lee (CAS-IA)-->
++ [Zhaole Sun](https://scholar.google.com/citations?user=onTsdhYAAAAJ&hl=en) (Tsinghua University) <!--+ Lujun Li (CAS-IA)-->
 + [Ming Lu](https://github.com/lu-m13) (Tsinghua University)
 + [Hao Zhao](https://scholar.google.com/citations?user=ygQznUQAAAAJ&hl=zh-CN) (Tsinghua University)
 + Duo Li (Tsinghua University)
@@ -170,9 +170,9 @@ Awards
 + Intel i360 Design Hero Award 2017, Highest Annual Business Award of Intel IoTG Asian Region 
 + Intel China Award 2017/2016, Highest Annual Team Award of Intel China 
 + Gordy Award 2016/2015/2014 (named after Intel's co-founder Gordon Earle Moore), Highest Annual Research Award of Intel Labs
-+ Tsinghua-JiangZhen Scholarship 2009, Highest Scholarship in School of Information Science and Technology 
-+ Tsinghua-Toshiba Scholarship 2008, First Class	
-+ Tsinghua-AHaiFa Scholarship 2005, First Class
++ Tsinghua Friendship-JiangZhen Scholarship 2009, Highest Scholarship in School of Information Science and Technology 
++ Tsinghua Friendship-Toshiba Scholarship 2008, First Class	
++ Tsinghua Friendship-AHaiFa Scholarship 2005, First Class
 
 Academic Service
 =====
