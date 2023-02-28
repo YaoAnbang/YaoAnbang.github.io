@@ -17,7 +17,7 @@ Anbang Yao is currently a PE (Principal Engineer)/Principal Research Scientist a
 ---
 **<font color="Crimson">News：</font>** 
 
-+ February 28st, 2023. Our paper Sparks scored with 5/5/4 is accepted to CVPR 2023. 
++ February 28th, 2023. Our paper Sparks scored with 5/5/4 is accepted to CVPR 2023. 
 + January 21st, 2023. Our paper NORM, the first knowledge distillation work for N-to-One Rrepresentation Matching, is accepted to ICLR 2023. 
 + January 11th, 2023. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper. 
 <!--+ November 19th, 2022. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper.--> 
