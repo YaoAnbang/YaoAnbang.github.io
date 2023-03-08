@@ -23,7 +23,7 @@ Anbang Yao is currently a PE (Principal Engineer)/Principal Research Scientist a
 <!--+ November 19th, 2022. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper.--> 
 + October 13th, 2022. I am awarded as an Outstanding Reviewer from NeurIPS 2022. 
 + June 1st, 2022. The journal version of our work OANet is published by TPAMI.
-+ January 21st, 2022. Our work Omni-Dimensional Dynamic Convolution is accepted to ICLR 2022 as a Spotlight paper.
++ January 21st, 2022. Our work Omni-Dimensional Dynamic Convolution scored with 8/8/8/6 is accepted to ICLR 2022 as a Spotlight paper.
 + September 28th, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
 <!--+ August 11th, 2021. I will serve as a SPC member for AAAI 2022.-->
 + July 22nd, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.
