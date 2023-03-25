@@ -124,7 +124,7 @@ Selected Publications
 Some Old Manuscripts (Works Done at Intel)  
 =====
 
-+ Explicit Connection Distillation.<br> Lujun Li\*\+, Yikai Wang\*\+, Anbang Yao\#, Yi Qian, Xiao Zhou and Ke He.<br><em>**ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=yOkSW62hqq2).<br> 
++ Explicit Connection Distillation.<br> Lujun Li\*\+, Yikai Wang\*\+, Anbang Yao\+\#, Yi Qian, Xiao Zhou and Ke He.<br><em>**ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=yOkSW62hqq2).<br> 
 + Weights Having Stable Signs Are Important: Finding Primary Subnetworks and Kernels to Compress Binary Weight Networks.<br> Zhaole Sun\* and Anbang Yao\#.<br><em>**ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B9nDuDeanHK).<br>
 + SnapQuant: A Probabilistic and Nested Parameterization for Binary Networks.<br> Kuan Wang\*, Hao Zhao\*, Anbang Yao\#, Aojun Zhou\*, Dawei Sun\* and Yurong Chen.<br><em>**ICLR 2019 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B1ePui0ctQ).<br>
 
