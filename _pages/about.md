@@ -60,7 +60,7 @@ Selected Publications
 <!--</blockquote> -->
 
 <!-- <blockquote> -->
-+ Compacting Binary Neural Networks by Sparse Kernel Selection.<br> Yikai Wang\*, Wenbing Huang, Yinpeng Dong, Fuchun Sun and Anbang Yao\#.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/pdf/2303.14470.pdf)).[<font color="DodgerBlue">[Code]</font>](https://github.com/yikaiw/SNN).<br>
++ Compacting Binary Neural Networks by Sparse Kernel Selection.<br> Yikai Wang\*, Wenbing Huang, Yinpeng Dong, Fuchun Sun and Anbang Yao\#.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/pdf/2303.14470.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/yikaiw/SNN).<br>
 <!--</blockquote> -->
 
 **2022**<!-- <blockquote> -->
