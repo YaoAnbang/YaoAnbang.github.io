@@ -21,7 +21,7 @@ Anbang Yao is currently a PE (Principal Engineer)/Principal Research Scientist a
 + January 21st, 2023. Our paper NORM, the first knowledge distillation work for N-to-One Rrepresentation Matching, is accepted to ICLR 2023. 
 + January 11th, 2023. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper. 
 <!--+ November 19th, 2022. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper.--> 
-+ October 13th, 2022. I am awarded as an Outstanding Reviewer from NeurIPS 2022. 
++ October 13th, 2022. I am awarded as a Top (a.k.a. Outstanding) Reviewer from NeurIPS 2022. 
 + June 1st, 2022. The journal version of our work OANet is published by TPAMI.
 + January 21st, 2022. Our work Omni-Dimensional Dynamic Convolution scored with 8/8/8/6 is accepted to ICLR 2022 as a Spotlight paper.
 + September 28th, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
@@ -168,9 +168,11 @@ Current and Previous Interns
 Awards
 =====
 
++ Top (a.k.a. Outstanding) Reviewer Award, NeurIPS 2022.
 + Eureka Award 2022, Top-1 Innovator of Intel Labs (had 10 PCT/US patent applications approved in a single quarter), 1 out of ~800 Research Scientists of Intel Labs
 + 6 Intel China Quarterly Awards in 2017~2022, for great technical impacts to Intel China business
 + 1 Outstanding Invention Award in 2020, for strong merits to future Intel AI HW designs
++ Top Reviewer Award, NeurIPS 2019.
 + Intel Innovator 2018, 1 out of ~11800 Employees of Intel China, first and only winner employee of Intel China so far 
 + Intel China Employee of the Year Award 2017 	
 + Top-1 Inventor of Intel Labs 2017 (had 34 PCT/US patent applications approved in a single year, and keeping the highest record so far), 1 out of ~800 Research Scientists of Intel Labs 
@@ -184,6 +186,6 @@ Awards
 Academic Service
 =====
 
-+ Conference (Senior) Program Committee Member/Area Chair or Reviewer: CVPR, ICCV, ECCV, NeurIPS (Top Reviewer 2019, Outstanding Reviewer 2022), ICML, ICLR, AAAI, BMVC, WACV, ACCV, ICMI, etc.
++ Conference (Senior) Program Committee Member/Area Chair or Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, WACV, ACCV, ICMI, etc.
 + Journal Reviewer: IEEE-TPAMI, IJCV, IEEE-TNNLS, IEEE-TIP, IEEE-TSMC, IEEE-TC, etc.
 
