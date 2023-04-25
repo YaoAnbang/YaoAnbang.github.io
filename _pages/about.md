@@ -50,7 +50,7 @@ Anbang Yao is currently a Principal Research Scientist and a Principal Engineer 
 Selected Publications
 =====
 
-(\* Interns or team-members mentored by me, \+ Equal contribution, \# Corresponding author)
+(\* Interns or team members mentored by me, \+ Equal contribution, \# Corresponding author)
 
 **2023**
 <!-- <blockquote> -->
