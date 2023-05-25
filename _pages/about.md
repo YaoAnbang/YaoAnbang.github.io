@@ -57,7 +57,7 @@ Selected Publications
 + Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition.<br> Dongqi Cai\*, Yangyuxuan Kang\*, Anbang Yao\# and Yurong Chen.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://github.com/OSVAI/Ske2Grid).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/Ske2Grid).<br> 
 <!--</blockquote> -->
 <!-- <blockquote> -->
-+ NORM: Knowledge Distillation via N-to-One Representation Matching.<br> Xiaolong Liu\*\+, Lujun Li\*\+, Chao Li\*\+ and Anbang Yao\+\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/pdf?id=CRNwGauQpb6).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NORM).<br> 
++ NORM: Knowledge Distillation via N-to-One Representation Matching.<br> Xiaolong Liu\*, Lujun Li\*, Chao Li\* and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/pdf?id=CRNwGauQpb6).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NORM).<br> 
 <!--</blockquote> -->
 <!--</blockquote> -->
 + 3D Human Pose Lifting with Grid Convolution.<br> Yangyuxuan Kang\*, Yuyang Liu\*, Anbang Yao\#, Shandong Wang and Enhua Wu.<br><em>**AAAI Conference on Artificial Intelligence (AAAI)**</em>, 2023 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/pdf/2302.08760.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/GridConv).<br>
