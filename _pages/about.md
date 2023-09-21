@@ -17,6 +17,7 @@ Anbang Yao is currently a Principal AI Scientist and a Principal Engineer (known
 ---
 **<font color="Crimson">News：</font>** 
 
++ September 22nd, 2023. Our paper Af-DCD, a new augmentation-free dense contrastive distillation framework for efficient semantic segmentation, is accepted to NeurIPS 2023. 
 + April 25th, 2023. Our paper Ske2Grid, a progressive representation learning framework conditioned on transforming human skeleton graph into an up-sampled grid representation for skeleton based action recognition, is accepted to ICML 2023. 
 + February 28th, 2023. Our paper Sparks is accepted to CVPR 2023.  <!--scored with 5/5/4-->
 + January 21st, 2023. Our paper NORM, the first knowledge distillation work for N-to-One Rrepresentation Matching, is accepted to ICLR 2023. 
@@ -54,7 +55,10 @@ Selected Publications
 
 **2023**
 <!-- <blockquote> -->
-+ Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition.<br> Dongqi Cai\*, Yangyuxuan Kang\*, Anbang Yao\# and Yurong Chen.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://github.com/OSVAI/Ske2Grid).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/Ske2Grid).<br> 
++ Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation.<br> Jiawei Fan\*, Chao Li\*, Xiaolong Liu, Meida Song and Anbang Yao\#.<br><em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper will coming soon]</font>](https://github.com/OSVAI).[<font color="DodgerBlue">[Code will coming soon]</font>](https://github.com/OSVAI).<br> 
+<!--</blockquote> -->
+<!-- <blockquote> -->
++ Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition.<br> Dongqi Cai\*, Yangyuxuan Kang\*, Anbang Yao\# and Yurong Chen.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://proceedings.mlr.press/v202/cai23c/cai23c.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/Ske2Grid).<br> 
 <!--</blockquote> -->
 <!-- <blockquote> -->
 + NORM: Knowledge Distillation via N-to-One Representation Matching.<br> Xiaolong Liu\*, Lujun Li\*, Chao Li\* and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/pdf?id=CRNwGauQpb6).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NORM).<br> 
