@@ -55,7 +55,7 @@ Selected Publications
 
 **2023**
 <!-- <blockquote> -->
-+ Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation.<br> Jiawei Fan\*, Chao Li\*, Xiaolong Liu, Meida Song and Anbang Yao\#.<br><em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper will coming soon]</font>](https://github.com/OSVAI).[<font color="DodgerBlue">[Code will coming soon]</font>](https://github.com/OSVAI).<br> 
++ Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation.<br> Jiawei Fan\*, Chao Li\*, Xiaolong Liu, Meida Song and Anbang Yao\#.<br><em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper will be coming soon]</font>](https://github.com/OSVAI).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/OSVAI).<br> 
 <!--</blockquote> -->
 <!-- <blockquote> -->
 + Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition.<br> Dongqi Cai\*, Yangyuxuan Kang\*, Anbang Yao\# and Yurong Chen.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://proceedings.mlr.press/v202/cai23c/cai23c.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/Ske2Grid).<br> 
