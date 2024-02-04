@@ -53,10 +53,10 @@ Anbang Yao is currently a Principal AI Scientist and a Principal Engineer (known
 
 Latest Manuscripts  
 =====
-(\* Interns or team members mentored by me, \+ Equal contribution, \# Corresponding author, indicating the research done under my supervision)
+(\* Interns or team members mentored by me, \+ Equal contribution, \# Corresponding author)
 
-+ KernelWarehouse: Towards Parameter-Efficient Dynamic Convolution.<br> Chao Li\* and Anbang Yao\#.<br><em>**arXiv prprint, 2023**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/pdf/2308.08361.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse?tab=readme-ov-file).<br> 
-+ NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv prprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/pdf/xxxx.xxxxx.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse?tab=readme-ov-file).<br> 
++ KernelWarehouse: Towards Parameter-Efficient Dynamic Convolution.<br> Chao Li\* and Anbang Yao\#.<br><em>**arXiv preprint, 2023**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/pdf/2308.08361.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse?tab=readme-ov-file).<br> 
++ NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/pdf/xxxx.xxxxx.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse?tab=readme-ov-file).<br> 
 
 Selected Publications
 =====
