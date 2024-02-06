@@ -56,7 +56,7 @@ Latest Manuscripts
 (\* Interns or team members mentored by me, \+ Equal contribution, \# Corresponding author)
 
 + KernelWarehouse: Towards Parameter-Efficient Dynamic Convolution.<br> Chao Li\* and Anbang Yao\#.<br><em>**arXiv preprint, 2023**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/pdf/2308.08361.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse?tab=readme-ov-file).<br> 
-+ NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/pdf/xxxx.xxxxx.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse?tab=readme-ov-file).<br> 
++ NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](http://arxiv.org/abs/2402.02377).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse?tab=readme-ov-file).<br> 
 
 Selected Publications
 =====
