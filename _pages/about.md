@@ -17,7 +17,7 @@ Anbang Yao is currently a Principal AI Scientist and a Principal Engineer (known
 ---
 **<font color="Crimson">News：</font>** 
 
-+ February 27th, 2024. Our work SSD-KD, Small Scale Data-free Knowledge Distillation, is accepted to CVPR 2024. 
++ February 27th, 2024. Our work SSD-KD, the first work for super-fast and accurate data-free knowledge distillation with small scale data dreaming, is accepted to CVPR 2024. 
 + September 22nd, 2023. Our paper Af-DCD, a new augmentation-free dense contrastive distillation framework for efficient semantic segmentation, is accepted to NeurIPS 2023. 
 + April 25th, 2023. Our paper Ske2Grid, a progressive representation learning framework conditioned on transforming human skeleton graph into an up-sampled grid representation for skeleton based action recognition, is accepted to ICML 2023. 
 + February 28th, 2023. Our paper Sparks is accepted to CVPR 2023.  <!--scored with 5/5/4-->
@@ -48,8 +48,6 @@ Anbang Yao is currently a Principal AI Scientist and a Principal Engineer (known
 + February 6th, 2017. Our work INQ (Incremental Network Quantization) is accepted to ICLR 2017.
 + August 12th, 2016. Our work DNS (Dynamic Network Surgery) is accepted to NIPS 2016.
 + March 1st, 2016. Our work HyperNet is accepted as a spotlight oral paper to CVPR 2016.
-
-
 
 
 Latest Manuscripts  
