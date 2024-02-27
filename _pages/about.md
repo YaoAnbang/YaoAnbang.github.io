@@ -17,6 +17,7 @@ Anbang Yao is currently a Principal AI Scientist and a Principal Engineer (known
 ---
 **<font color="Crimson">News：</font>** 
 
++ February 27th, 2024. Our work SSD-KD, Small Scale Data-free Knowledge Distillation, is accepted to CVPR 2024. 
 + September 22nd, 2023. Our paper Af-DCD, a new augmentation-free dense contrastive distillation framework for efficient semantic segmentation, is accepted to NeurIPS 2023. 
 + April 25th, 2023. Our paper Ske2Grid, a progressive representation learning framework conditioned on transforming human skeleton graph into an up-sampled grid representation for skeleton based action recognition, is accepted to ICML 2023. 
 + February 28th, 2023. Our paper Sparks is accepted to CVPR 2023.  <!--scored with 5/5/4-->
@@ -53,13 +54,18 @@ Anbang Yao is currently a Principal AI Scientist and a Principal Engineer (known
 
 Latest Manuscripts  
 =====
-(\* Interns or team members mentored by me, \+ Equal contribution, \# Corresponding author)
+(\* Interns or team members or project members mentored by me, \+ Equal contribution, \# Corresponding author)
 
 + NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](http://arxiv.org/abs/2402.02377).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NOAH).<br> 
 + KernelWarehouse: Towards Parameter-Efficient Dynamic Convolution.<br> Chao Li\* and Anbang Yao\#.<br><em>**arXiv preprint, 2023**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/pdf/2308.08361.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse?tab=readme-ov-file).<br> 
 
 Selected Publications
 =====
+
+**2024**
+<!-- <blockquote> -->
++ Small Scale Data-Free Knowledge Distillation.<br> He Liu\*\+, Yikai Wang\*\+, Huaping Liu, Fuchun Sun and Anbang Yao\#.<br><em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper is coming soon]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code is coming soon]</font>](https://yaoanbang.github.io/).<br> 
+<!--</blockquote> -->
 
 **2023**
 <!-- <blockquote> -->
