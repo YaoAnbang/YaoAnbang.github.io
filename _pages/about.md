@@ -160,7 +160,7 @@ Current and Previous Interns
 <!--+I am really fortunate to be working with these amazingly talented students -->
 
 + [Jiawei Fan](https://jwfandl.github.io/) (Beijing University of Posts and Telecommunications)
-+ He Liu (Tsinghua University)
++ [He Liu](https://github.com/liuhe1305) (Tsinghua University)
 + [Yangyuxuan Kang](https://github.com/kyang-06) (IS-CAS)
 + [Yikai Wang](https://scholar.google.com/citations?user=MnW5aegAAAAJ&hl=en) (Tsinghua University)
 + [Chao Li](https://openreview.net/profile?id=~Chao_Li16) (CAS-IA)
