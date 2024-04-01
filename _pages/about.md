@@ -63,7 +63,7 @@ Selected Publications
 
 **2024**
 <!-- <blockquote> -->
-+ Small Scale Data-Free Knowledge Distillation.<br> He Liu\*\+, Yikai Wang\*\+, Huaping Liu, Fuchun Sun and Anbang Yao\#.<br><em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper will be coming soon]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://yaoanbang.github.io/).<br> 
++ Small Scale Data-Free Knowledge Distillation.<br> He Liu\*\+, Yikai Wang\*\+, Huaping Liu, Fuchun Sun and Anbang Yao\#.<br><em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper will be coming soon]</font>](https://github.com/OSVAI/SSD-KD).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/OSVAI/SSD-KD).<br> 
 <!--</blockquote> -->
 
 **2023**
