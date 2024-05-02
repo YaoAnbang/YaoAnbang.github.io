@@ -17,7 +17,7 @@ Anbang Yao is currently a Principal AI Scientist, also a Principal Engineer (kno
 ---
 **<font color="Crimson">News：</font>** 
 
-+ May 2nd, 2024. Our work KernelWarehouse, which redefines the basic concepts of “kernels”, “assembling kernels” and “attention function” of dynamic convolution research to achieve substantially better parameter efficiency and representation power, is accepted to ICML 2024.
++ May 2nd, 2024. Our work KernelWarehouse, which advances dynamic convolution research towards substantially better parameter efficiency and representation power under significantly large kerenle number n>100, is accepted to ICML 2024.
 + March 28th, 2024. I will be serving as an Area Chair (AC) for NeurIPS 2024.
 + February 27th, 2024. Our work SSD-KD, the first work for super-fast and high-performance data-free knowledge distillation with a new concept of "small scale data inversion", is accepted to CVPR 2024. 
 + September 22nd, 2023. Our paper Af-DCD, a new augmentation-free dense contrastive distillation framework for efficient semantic segmentation, is accepted to NeurIPS 2023. 
