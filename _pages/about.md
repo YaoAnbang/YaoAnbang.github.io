@@ -17,6 +17,7 @@ Anbang Yao is currently a Principal AI Scientist, also a Principal Engineer (kno
 ---
 **<font color="Crimson">News：</font>** 
 
++ May 2nd, 2024. Our work KernelWarehouse, which redefines the basic concepts of “kernels”, “assembling kernels” and “attention function” of dynamic convolution research to achieve substantially better parameter efficiency and representation power, is accepted to ICML 2024.
 + March 28th, 2024. I will be serving as an Area Chair (AC) for NeurIPS 2024.
 + February 27th, 2024. Our work SSD-KD, the first work for super-fast and high-performance data-free knowledge distillation with a new concept of "small scale data inversion", is accepted to CVPR 2024. 
 + September 22nd, 2023. Our paper Af-DCD, a new augmentation-free dense contrastive distillation framework for efficient semantic segmentation, is accepted to NeurIPS 2023. 
@@ -55,13 +56,14 @@ Latest Manuscripts
 =====
 (\* Interns or team/project members mentored by me, \+ Equal contribution, \# Corresponding author)
 
-+ NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](http://arxiv.org/abs/2402.02377).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NOAH).<br> 
-+ KernelWarehouse: Towards Parameter-Efficient Dynamic Convolution.<br> Chao Li\* and Anbang Yao\#.<br><em>**arXiv preprint, 2023**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/pdf/2308.08361.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse?tab=readme-ov-file).<br> 
++ NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](http://arxiv.org/abs/2402.02377).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NOAH).<br>
 
 Selected Publications
 =====
 
 **2024**
+<!-- <blockquote> -->
++ KernelWarehouse: Rethinking the Design of Dynamic Convolution.<br> Chao Li\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2024.<br>[<font color="DodgerBlue">[Paper will be coming soon]</font>](https://github.com/OSVAI/KernelWarehouse).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse).<br> 
 <!-- <blockquote> -->
 + Small Scale Data-Free Knowledge Distillation.<br> He Liu\*\+, Yikai Wang\*\+, Huaping Liu, Fuchun Sun and Anbang Yao\#.<br><em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper will be coming soon]</font>](https://github.com/OSVAI/SSD-KD).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/OSVAI/SSD-KD).<br> 
 <!--</blockquote> -->
