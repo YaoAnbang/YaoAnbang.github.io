@@ -64,11 +64,11 @@ Selected Publications
 
 **2024**
 <!-- <blockquote> -->
-+ ScaleKD: Strong Vision Transformers Could Be Excellent Teachers.<br> Jiawei Fan\*, Chao Li\*, Xiaolong Liu\*, and Anbang Yao\#.<br><em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper]</font>](https://github.com/DeepOptimization/ScaleKD).[<font color="DodgerBlue">[Code]</font>](https://github.com/DeepOptimization/ScaleKD).<br> 
++ ScaleKD: Strong Vision Transformers Could Be Excellent Teachers.<br> Jiawei Fan\*, Chao Li\*, Xiaolong Liu\*, and Anbang Yao\#.<br><em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper will be coming soon]</font>](https://github.com/DeepOptimization/ScaleKD).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/DeepOptimization/ScaleKD).<br> 
 <!-- <blockquote> -->
-+ KernelWarehouse: Rethinking the Design of Dynamic Convolution.<br> Chao Li\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2024.<br>[<font color="DodgerBlue">[Paper will be coming soon]</font>](https://github.com/OSVAI/KernelWarehouse).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/OSVAI/KernelWarehouse).<br> 
++ KernelWarehouse: Rethinking the Design of Dynamic Convolution.<br> Chao Li\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2024.<br>[<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/2406.07879).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse).<br> 
 <!-- <blockquote> -->
-+ Small Scale Data-Free Knowledge Distillation.<br> He Liu\*\+, Yikai Wang\*\+, Huaping Liu, Fuchun Sun and Anbang Yao\#.<br><em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper will be coming soon]</font>](https://github.com/OSVAI/SSD-KD).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/OSVAI/SSD-KD).<br> 
++ Small Scale Data-Free Knowledge Distillation.<br> He Liu\*\+, Yikai Wang\*\+, Huaping Liu, Fuchun Sun and Anbang Yao\#.<br><em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/2406.07876).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/SSD-KD).<br> 
 <!--</blockquote> -->
 
 **2023**
