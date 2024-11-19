@@ -64,7 +64,7 @@ Selected Publications
 
 **2024**
 <!-- <blockquote> -->
-+ ScaleKD: Strong Vision Transformers Could Be Excellent Teachers.<br> Jiawei Fan\*, Chao Li\*, Xiaolong Liu\*, and Anbang Yao\#.<br><em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper will be coming soon]</font>](https://github.com/DeepOptimization/ScaleKD).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/DeepOptimization/ScaleKD).<br> 
++ ScaleKD: Strong Vision Transformers Could Be Excellent Teachers.<br> Jiawei Fan\*, Chao Li\*, Xiaolong Liu\*, and Anbang Yao\#.<br><em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper]</font>](https://github.com/deep-optimization/ScaleKD).[<font color="DodgerBlue">[Code]</font>](https://github.com/deep-optimization/ScaleKD).<br> 
 <!-- <blockquote> -->
 + KernelWarehouse: Rethinking the Design of Dynamic Convolution.<br> Chao Li\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2024.<br>[<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/2406.07879).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse).<br> 
 <!-- <blockquote> -->
