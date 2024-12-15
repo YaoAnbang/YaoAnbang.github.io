@@ -17,9 +17,11 @@ Anbang Yao is currently a Principal AI Scientist, also a Principal Engineer (kno
 ---
 **<font color="Crimson">News：</font>** 
 
++ December 15th, 2024. I will be serving as an Area Chair for ICML 2025.
++ December 12th, 2024. I am awarded as a Notable Area Chair from NeurIPS 2024.  
 + September 26th, 2024. Our paper ScaleKD, a compelling work that could transfer the scalable property of pre-trained large vision transformer models to smaller target models of any type without need of large-scale pre-training data, is accepted to NeurIPS 2024.
 + May 2nd, 2024. Our work KernelWarehouse, which advances dynamic convolution research towards substantially better parameter efficiency and representation power, is accepted to ICML 2024.
-+ March 28th, 2024. I will be serving as an Area Chair (AC) for NeurIPS 2024.
++ March 28th, 2024. I will be serving as an Area Chair for NeurIPS 2024.
 + February 27th, 2024. Our paper SSD-KD, the first work for super-fast and high-performance data-free knowledge distillation with a new concept of "small scale data inversion", is accepted to CVPR 2024. 
 + September 22nd, 2023. Our paper Af-DCD, a new augmentation-free dense contrastive distillation framework for efficient semantic segmentation, is accepted to NeurIPS 2023. 
 + April 25th, 2023. Our paper Ske2Grid, a progressive representation learning framework conditioned on transforming human skeleton graph into an up-sampled grid representation for skeleton based action recognition, is accepted to ICML 2023. 
