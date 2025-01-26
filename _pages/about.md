@@ -17,42 +17,37 @@ Anbang Yao is currently a Principal AI Scientist, also a Principal Engineer (kno
 ---
 **<font color="Crimson">News：</font>** 
 
-+ December 15th, 2024. I will be serving as an Area Chair for ICML 2025.
-+ December 12th, 2024. I am awarded as a Notable Area Chair from NeurIPS 2024.  
-+ September 26th, 2024. Our paper ScaleKD, a compelling work that could transfer the scalable property of pre-trained large vision transformer models to smaller target models of any type without need of large-scale pre-training data, is accepted to NeurIPS 2024.
-+ May 2nd, 2024. Our work KernelWarehouse, which advances dynamic convolution research towards substantially better parameter efficiency and representation power, is accepted to ICML 2024.
-+ March 28th, 2024. I will be serving as an Area Chair for NeurIPS 2024.
-+ February 27th, 2024. Our paper SSD-KD, the first work for super-fast and high-performance data-free knowledge distillation with a new concept of "small scale data inversion", is accepted to CVPR 2024. 
-+ September 22nd, 2023. Our paper Af-DCD, a new augmentation-free dense contrastive distillation framework for efficient semantic segmentation, is accepted to NeurIPS 2023. 
-+ April 25th, 2023. Our paper Ske2Grid, a progressive representation learning framework conditioned on transforming human skeleton graph into an up-sampled grid representation for skeleton based action recognition, is accepted to ICML 2023. 
-+ February 28th, 2023. Our paper Sparks is accepted to CVPR 2023.  <!--scored with 5/5/4-->
-+ January 21st, 2023. Our paper NORM, the first knowledge distillation work for N-to-One Rrepresentation Matching, is accepted to ICLR 2023. 
-+ January 11th, 2023. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper. 
-<!--+ November 19th, 2022. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper.--> 
-+ October 13th, 2022. I am awarded as a Top (a.k.a. Outstanding) Reviewer from NeurIPS 2022. 
-+ June 1st, 2022. The journal version of our work OANet is published by TPAMI.
-+ January 21st, 2022. Our work Omni-Dimensional Dynamic Convolution scored with 8/8/8/6 is accepted to ICLR 2022 as a Spotlight paper.
-+ September 28th, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
-+ August 11th, 2021. I will be serving as a Senior Program Committee (SPC, akin to Area Chair to NeurIPS) member for AAAI 2022.
-+ July 22nd, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.
-<!--+ December 14th, 2020. One paper accepted to TPAMI.-->
-<!--+ July 29th, 2020. One paper accepted to BMVC 2020.-->
-+ July 25th, 2020. One full-length research paper accepted to ACM MM 2020.
-<!--+ July 9th, 2020. One paper accepted to CVIU.-->
-+ July 3rd, 2020. Our works DCM (Dense Cross-layer Mutual-distillation) and RS-Nets (Resolution Switchable Networks) together with the other two works accepted to ECCV 2020.
-<!--+ October 29th, 2019. One paper accepted to IJCV.-->
++ December<!--15th-->, 2024. I will be serving as an Area Chair for ICML 2025.
++ December<!--12th-->, 2024. I am awarded as a Notable Area Chair from NeurIPS 2024.  
++ September<!--26th-->, 2024. Our paper ScaleKD, a compelling work that could transfer the scalable property of pre-trained large vision transformer models to smaller target models of any type without need of large-scale pre-training data, is accepted to NeurIPS 2024.
++ May<!--2nd-->, 2024. Our work KernelWarehouse, which advances dynamic convolution research towards substantially better parameter efficiency and representation power, is accepted to ICML 2024.
++ March<!--28th-->, 2024. I will be serving as an Area Chair for NeurIPS 2024.
++ February<!--27th-->, 2024. Our paper SSD-KD, the first work for super-fast and high-performance data-free knowledge distillation with a new concept of "small scale data inversion", is accepted to CVPR 2024. 
++ September<!--22nd-->, 2023. Our paper Af-DCD, a new augmentation-free dense contrastive distillation framework for efficient semantic segmentation, is accepted to NeurIPS 2023. 
++ April<!--25th-->, 2023. Our paper Ske2Grid, a progressive representation learning framework conditioned on transforming human skeleton graph into an up-sampled grid representation for skeleton based action recognition, is accepted to ICML 2023. 
++ February<!--28th-->, 2023. Our paper Sparks is accepted to CVPR 2023.  <!--scored with 5/5/4-->
++ January<!--21st-->, 2023. Our paper NORM, the first knowledge distillation work for N-to-One Rrepresentation Matching, is accepted to ICLR 2023. 
++ January<!--11th-->, 2023. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper. <!--+ November 19th, 2022. Our work Grid Convolution is accepted to AAAI 2023 as an oral paper.--> 
++ October<!--13th-->, 2022. I am awarded as a Top (a.k.a. Outstanding) Reviewer from NeurIPS 2022. 
++ June<!--1st-->, 2022. The journal version of our work OANet is published by TPAMI.
++ January<!--21st-->, 2022. Our work Omni-Dimensional Dynamic Convolution scored with 8/8/8/6 is accepted to ICLR 2022 as a Spotlight paper.
++ September<!--28th-->, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
++ August<!--11th-->, 2021. I will be serving as a Senior Program Committee (SPC, akin to Area Chair to NeurIPS) member for AAAI 2022.
++ July<!--22nd-->, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.<!--+ December 14th, 2020. One paper accepted to TPAMI.--><!--+ July 29th, 2020. One paper accepted to BMVC 2020.-->
++ July<!--25th-->, 2020. One full-length research paper accepted to ACM MM 2020.<!--+ July 9th, 2020. One paper accepted to CVIU.-->
++ July<!--3rd-->, 2020. Our works DCM (Dense Cross-layer Mutual-distillation) and RS-Nets (Resolution Switchable Networks) together with the other two works accepted to ECCV 2020.<!--+ October 29th, 2019. One paper accepted to IJCV.-->
 + September 6th, 2019. I am recognized as a Top Reviewer from NeurIPS 2019. 
-+ July 23rd, 2019. Three papers accepted to ICCV 2019.
-+ February 25th, 2019. Our work DKS (Deeply-supervised Knowledge Synergy) is accepted to CVPR 2019.
-+ December 20th, 2018. Delivered an invited talk at Tsinghua University.
-+ December 7th, 2018. Delivered an invited talk "Deep neural network compression and acceleration" at CDNNRIA Workshop in NeurIPS 2018. 
-+ July 5th, 2018. Our work SGC (Spatial Group Convolution) is accepted as a full oral paper to ECCV 2018.
-+ February 22nd, 2018. Our work ELQ (Explicit Loss-error-aware Quantization) is accepted to CVPR 2018.
-+ July 17th, 2017. One paper accepted to ICCV 2017.
-+ March 18th, 2017. Three papers accepted to CVPR 2017.
-+ February 6th, 2017. Our work INQ (Incremental Network Quantization) is accepted to ICLR 2017.
-+ August 12th, 2016. Our work DNS (Dynamic Network Surgery) is accepted to NIPS 2016.
-+ March 1st, 2016. Our work HyperNet is accepted as a spotlight oral paper to CVPR 2016.
++ July<!--23rd-->, 2019. Three papers accepted to ICCV 2019.
++ February<!--25th-->, 2019. Our work DKS (Deeply-supervised Knowledge Synergy) is accepted to CVPR 2019.
++ December<!--20th-->, 2018. Delivered an invited talk at Tsinghua University.
++ December<!--7th-->, 2018. Delivered an invited talk "Deep neural network compression and acceleration" at CDNNRIA Workshop in NeurIPS 2018. 
++ July<!--5th-->, 2018. Our work SGC (Spatial Group Convolution) is accepted as a full oral paper to ECCV 2018.
++ February<!--22nd-->, 2018. Our work ELQ (Explicit Loss-error-aware Quantization) is accepted to CVPR 2018.
++ July<!--17th-->, 2017. One paper accepted to ICCV 2017.
++ March<!--18th-->, 2017. Three papers accepted to CVPR 2017.
++ February<!--6th-->, 2017. Our work INQ (Incremental Network Quantization) is accepted to ICLR 2017.
++ August<!--12th-->, 2016. Our work DNS (Dynamic Network Surgery) is accepted to NIPS 2016.
++ March<!--1st-->, 2016. Our work HyperNet is accepted as a spotlight oral paper to CVPR 2016.
 
 
 Latest Manuscripts  
