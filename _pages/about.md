@@ -17,6 +17,7 @@ Anbang Yao is currently a Principal AI Scientist, also a Principal Engineer (kno
 ---
 **<font color="Crimson">News：</font>** 
 
++ February<!--17th-->, 2025. I will be serving as an Area Chair for NeurIPS 2025.
 + December<!--15th-->, 2024. I will be serving as an Area Chair for ICML 2025.
 + December<!--12th-->, 2024. I am awarded as a Notable Area Chair from NeurIPS 2024.  
 + September<!--26th-->, 2024. Our paper ScaleKD, a compelling work that could transfer the scalable property of pre-trained large vision transformer models to smaller target models of any type without need of large-scale pre-training data, is accepted to NeurIPS 2024.
