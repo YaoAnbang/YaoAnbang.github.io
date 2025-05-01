@@ -61,7 +61,7 @@ Latest Manuscripts
 Selected Publications
 =====
 **2025**
-+ Morse: Faster Sampling for Accelerating Diffusion Models Universally.<br> Chao Li\*, Jiawei Fan\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2025.<br>[<font color="DodgerBlue">[Paper will be coming soon]</font>](https://arxiv.org/abs/2406.07879).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/OSVAI/KernelWarehouse).<br> 
++ Morse: Faster Sampling for Accelerating Diffusion Models Universally.<br> Chao Li\*, Jiawei Fan\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2025.<br>[<font color="DodgerBlue">[Paper will be coming soon]</font>](https://github.com/deep-optimization/ScaleKD).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/deep-optimization/ScaleKD).<br> 
 
 **2024**
 <!-- <blockquote> -->
