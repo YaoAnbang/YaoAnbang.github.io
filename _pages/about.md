@@ -17,6 +17,7 @@ Anbang Yao is currently a Principal AI Scientist, also a Principal Engineer (kno
 ---
 **<font color="Crimson">News：</font>** 
 
++ May<!--1st-->, 2025. Our paper Morse, which presents a universal dual-sampling framework to accelerate any type of diffusion models such as the Stable Diffusion family, is accepted to ICML 2025.
 + February<!--17th-->, 2025. I will be serving as an Area Chair for NeurIPS 2025.
 + December<!--15th-->, 2024. I will be serving as an Area Chair for ICML 2025.
 + December<!--12th-->, 2024. I am awarded as a Notable Area Chair from NeurIPS 2024.  
@@ -55,10 +56,12 @@ Latest Manuscripts
 =====
 (\* Interns or team/project members mentored by me, \+ Equal contribution, \# Corresponding author)
 
-+ NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](http://arxiv.org/abs/2402.02377).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NOAH).<br>
++ NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Jiawei Fan\* and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://github.com/deep-optimization/ScaleKD).[<font color="DodgerBlue">[Code]</font>](https://github.com/deep-optimization/ScaleKD).<br>
 
 Selected Publications
 =====
+**2025**
++ Morse: Faster Sampling for Accelerating Diffusion Models Universally.<br> Chao Li\*, Jiawei Fan\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2025.<br>[<font color="DodgerBlue">[Paper will be coming soon]</font>](https://arxiv.org/abs/2406.07879).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://github.com/OSVAI/KernelWarehouse).<br> 
 
 **2024**
 <!-- <blockquote> -->
