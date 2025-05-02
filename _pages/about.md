@@ -56,7 +56,7 @@ Latest Manuscripts
 =====
 (\* Interns or team/project members mentored by me, \+ Equal contribution, \# Corresponding author)
 
-+ NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://github.com/deep-optimization/ScaleKD).[<font color="DodgerBlue">[Code]</font>](https://github.com/deep-optimization/ScaleKD).<br>
++ NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/abs/2402.02377).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NOAH).<br>
 
 Selected Publications
 =====
