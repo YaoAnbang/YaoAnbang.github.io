@@ -62,7 +62,7 @@ Latest Manuscripts
 Selected Publications
 =====
 **2025**
-+ Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models.<br> Chao Li\*, Jiawei Fan\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2025.<br>[<font color="DodgerBlue">[Paper]</font>]([https://arxiv.org/abs/2506.18251]).[<font color="DodgerBlue">[Code]</font>](https://github.com/deep-optimization/Morse).<br> 
++ Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models.<br> Chao Li\*, Jiawei Fan\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2025.<br>[<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/2506.18251).[<font color="DodgerBlue">[Code]</font>](https://github.com/deep-optimization/Morse).<br> 
 
 **2024**
 <!-- <blockquote> -->
