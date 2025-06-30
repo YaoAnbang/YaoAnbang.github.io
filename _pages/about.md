@@ -201,7 +201,7 @@ Awards
 + CTO Recognition of exceptional contributions (31 sparse and low-bit AI inference IPs) to the Intel Core Ultra (code-named Meteor Lake) for laptops, 2023.
 + Top (a.k.a. Outstanding) Reviewer Award, NeurIPS 2022
 + Eureka Award 2022, Top-1 Innovator of Intel Labs (had 10 PCT/US patent applications approved in a single quarter), 1 out of ~800 Research Scientists of Intel Labs
-+ 6 Intel China Quarterly Awards in 2017~2022, for great technical impacts to Intel China business
++ 5 Intel China Quarterly Awards in 2018~2021, for great technical impacts to Intel China business
 + 1 Outstanding Invention Award in 2020, for strong merits to future Intel AI HW designs
 + Top Reviewer Award, NeurIPS 2019
 + Intel Innovator 2018, 1 out of ~11800 Employees of Intel China, first and only winner employee of Intel China so far 
