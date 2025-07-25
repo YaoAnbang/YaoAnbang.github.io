@@ -17,6 +17,7 @@ Anbang Yao is currently a Principal AI Scientist, also a Principal Engineer (kno
 ---
 **<font color="Crimson">News：</font>** 
 
++ July<!--11th-->, 2025. I will be serving as a Senior Program Committee (SPC, akin to Area Chair to NeurIPS) member for AAAI 2026.
 + June<!--8th-->, 2025. Our paper ACE-OF-SPADEs, a SoC accelerator for spatially sparse 3D DNNs, is accepted to ACM TECS .
 + May<!--1st-->, 2025. Our paper Morse, which presents a simple dual-sampling framework to losslessly accelerate any type of diffusion models such as the Stable Diffusion family, is accepted to ICML 2025.
 + February<!--17th-->, 2025. I will be serving as an Area Chair for NeurIPS 2025.
