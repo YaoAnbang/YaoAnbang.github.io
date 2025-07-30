@@ -17,7 +17,7 @@ Anbang Yao is currently a Principal AI Scientist, also a Principal Engineer (kno
 ---
 **<font color="Crimson">News：</font>** 
 
-+ July<!--11th-->, 2025. I will be serving as a Senior Program Committee (SPC, akin to Area Chair to NeurIPS) member for AAAI 2026.
++ July<!--11th-->, 2025. I will be serving as a Senior Program Committee member (SPC, akin to Area Chair of NeurIPS/ICML/ICLR) for AAAI 2026.
 + June<!--8th-->, 2025. Our paper ACE-OF-SPADEs, a SoC accelerator for spatially sparse 3D DNNs, is accepted to ACM TECS .
 + May<!--1st-->, 2025. Our paper Morse, which presents a simple dual-sampling framework to losslessly accelerate any type of diffusion models such as the Stable Diffusion family, is accepted to ICML 2025.
 + February<!--17th-->, 2025. I will be serving as an Area Chair for NeurIPS 2025.
@@ -36,7 +36,7 @@ Anbang Yao is currently a Principal AI Scientist, also a Principal Engineer (kno
 + June<!--1st-->, 2022. The journal version of our work OANet is published by TPAMI.
 + January<!--21st-->, 2022. Our work Omni-Dimensional Dynamic Convolution scored with 8/8/8/6 is accepted to ICLR 2022 as a Spotlight paper.
 + September<!--28th-->, 2021. Our paper for efficient video action recognition is accepted to NeurIPS 2021.
-+ August<!--11th-->, 2021. I will be serving as a Senior Program Committee (SPC, akin to Area Chair to NeurIPS) member for AAAI 2022.
++ August<!--11th-->, 2021. I will be serving as a Senior Program Committee member (SPC, akin to Area Chair of akin to Area Chair of NeurIPS/ICML/ICLR) for AAAI 2022.
 + July<!--22nd-->, 2021. Our SNNs (Sub-bit Network Networks), the first work to compress and accelerate binary neural networks, is accepted to ICCV 2021.<!--+ December 14th, 2020. One paper accepted to TPAMI.--><!--+ July 29th, 2020. One paper accepted to BMVC 2020.-->
 + July<!--25th-->, 2020. One full-length research paper accepted to ACM MM 2020.<!--+ July 9th, 2020. One paper accepted to CVIU.-->
 + July<!--3rd-->, 2020. Our works DCM (Dense Cross-layer Mutual-distillation) and RS-Nets (Resolution Switchable Networks) together with the other two works accepted to ECCV 2020.<!--+ October 29th, 2019. One paper accepted to IJCV.-->
