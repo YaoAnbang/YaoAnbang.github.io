@@ -201,7 +201,7 @@ Awards
 
 + NeurIPS 2024/2025 "Area Chair" awarded with a complimentary full registration 
 + CTO Recognition of exceptional contributions (31 sparse and low-bit AI inference IPs) to the Intel Core Ultra (code-named Meteor Lake) for laptops, 2023.
-+ NeurIPS 2022 "Top (a.k.a. Outstanding/Best) Reviewer" awarded with a complimentary full registration 
++ NeurIPS 2022 "Top (a.k.a. Outstanding) Reviewer" awarded with a complimentary full registration 
 + Eureka Award 2022, Top-1 Innovator of Intel Labs (had 10 PCT/US patent applications approved in a single quarter), 1 out of ~800 Research Scientists of Intel Labs
 + 5 Intel China Quarterly Awards in 2018~2021, for great technical impacts to Intel China business
 + 1 Outstanding Invention Award in 2020, for strong merits to future Intel AI HW designs
