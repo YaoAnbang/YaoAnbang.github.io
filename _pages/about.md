@@ -17,6 +17,7 @@ Anbang Yao is currently a <!--Principal AI Scientist, also a Principal Engineer 
 ---
 **<font color="Crimson">News：</font>** 
 
++ November<!--5th-->, 2025. Our paper, Grid Convolution for 3D Human Pose Estimation, is accepted to TPAMI. 
 + October<!--12th-->, 2025. I have been selected as a NeurIPS 2025 "Area Chair" awarded with a complimentary full registration. 
 + July<!--11th-->, 2025. I will be serving as a Senior Program Committee member (SPC, akin to Area Chair of NeurIPS/ICML/ICLR) for AAAI 2026.
 + June<!--8th-->, 2025. Our paper ACE-OF-SPADEs, a SoC accelerator for spatially sparse 3D DNNs, is accepted to ACM TECS .
@@ -64,6 +65,8 @@ Latest Manuscripts
 Selected Publications
 =====
 **2025**
++ Grid Convolution for 3D Human Pose Estimation.<br> Yangyuxuan Kang\*, Dongqi Cai\*, Yuyang Liu\*, Anbang Yao\#, Shandong Wang, Yurong Chen and Enhua Wu.<br><em>**IEEE Trans. on Pattern Analysis and Machine Intelligence**</em>, accepted in Novemeber, 2025. <br>[<font color="DodgerBlue">[Paper will be coming soon]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://yaoanbang.github.io/).<br>
++ 
 + Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models.<br> Chao Li\*, Jiawei Fan\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2025.<br>[<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/2506.18251).[<font color="DodgerBlue">[Code]</font>](https://github.com/deep-optimization/Morse).<br> 
 
 **2024**
