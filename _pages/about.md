@@ -66,7 +66,6 @@ Selected Publications
 =====
 **2025**
 + Grid Convolution for 3D Human Pose Estimation.<br> Yangyuxuan Kang\*, Dongqi Cai\*, Yuyang Liu\*, Anbang Yao\#, Shandong Wang, Yurong Chen and Enhua Wu.<br><em>**IEEE Trans. on Pattern Analysis and Machine Intelligence**</em>, accepted in Novemeber, 2025. <br>[<font color="DodgerBlue">[Paper will be coming soon]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://yaoanbang.github.io/).<br>
-+ 
 + Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models.<br> Chao Li\*, Jiawei Fan\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2025.<br>[<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/2506.18251).[<font color="DodgerBlue">[Code]</font>](https://github.com/deep-optimization/Morse).<br> 
 
 **2024**
