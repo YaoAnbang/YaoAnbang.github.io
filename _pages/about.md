@@ -171,6 +171,7 @@ Current and Previous Interns
 
 <!--+I am really fortunate to be working with these amazingly talented students -->
 
++ Shigeng Wang (Beijing University of Posts and Telecommunications)
 + [Jiawei Fan](https://jwfandl.github.io/) (Beijing University of Posts and Telecommunications)
 + Miao Song (CAS-IA)
 + [He Liu](https://github.com/liuhe1305) (Tsinghua University)
