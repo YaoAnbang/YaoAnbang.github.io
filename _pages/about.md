@@ -58,16 +58,16 @@ Anbang Yao is currently a <!--Principal AI Scientist, also a Principal Engineer 
 
 Latest Manuscripts  
 =====
+[Note: all listed works on my homepage from 2015 to date are done at Intel Labs China, under my guidance]
+
 (\* Interns or team/project members mentored by me, \+ Equal contribution, \# Corresponding author)
+
 <!-- <blockquote> -->
 + NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/abs/2402.02377).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NOAH).<br>
 <!-- <blockquote> -->
 
 Selected Publications
 =====
-[Note: all listed works from 2015 to date are done at Intel Labs China, under my guidance]
-
-(\* Interns or team/project members mentored by me, \+ Equal contribution, \# Corresponding author)
 
 **2025**
 
