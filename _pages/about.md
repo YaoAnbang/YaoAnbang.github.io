@@ -63,10 +63,14 @@ Latest Manuscripts
 + NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/abs/2402.02377).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NOAH).<br>
 <!-- <blockquote> -->
 
-Selected Publications (all works from 2015 to date are fully done at Intel Labs China, under my guidance)
+Selected Publications
 =====
+[Note: all listed works from 2015 to date are done at Intel Labs China, under my guidance]
+
 (\* Interns or team/project members mentored by me, \+ Equal contribution, \# Corresponding author)
+
 **2025**
+
 <!-- <blockquote> -->
 + Grid Convolution for 3D Human Pose Estimation.<br> Yangyuxuan Kang\*, Dongqi Cai\*, Yuyang Liu\*, Anbang Yao\#, Shandong Wang, Yurong Chen and Enhua Wu.<br><em>**IEEE Trans. on Pattern Analysis and Machine Intelligence**</em>, accepted in Novemeber, 2025. <br>[<font color="DodgerBlue">[Paper will be coming soon]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://yaoanbang.github.io/).<br>
 <!-- <blockquote> -->
@@ -186,7 +190,7 @@ Selected Publications (all works from 2015 to date are fully done at Intel Labs 
 + Kernel Based Articulated Object Tracking with Scale Adaptation and Model Update.<br> Anbang Yao\#, Guijin Wang, Xinggang Lin and Hao Wang.<br> <em>**IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP)**</em>, 2008.<br> [<font color="DodgerBlue">[Paper]</font>](https://ieeexplore.ieee.org/document/4517767). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
 <!--</blockquote> -->
 
-Some Old Manuscripts (Works Done at Intel)  
+Some Old Manuscripts 
 =====
 
 <!--</blockquote> -->
