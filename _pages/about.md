@@ -59,148 +59,130 @@ Anbang Yao is currently a <!--Principal AI Scientist, also a Principal Engineer 
 
 Latest Manuscripts  
 =====
-[Note: all listed works on my homepage from 2015 to date are done at Intel Labs China, under my guidance]
+[Note: all works listed on my homepage from 2015 to date are done at Intel Labs China, under my guidance]
 
 (\* Interns or team/project members mentored by me, \+ Equal contribution, \# Corresponding author)
 
-<!-- <blockquote> -->
+<!--+ SliderQuant: Accurate Post-Training Quantization for LLMs.<br> Shigeng Wang\*, Chao Li\*, Yangyuxuan Kang\*, Zhonghong Ou and Anbang Yao\#.<br><em>**under review at a top-tier AI conference, 2025**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>-->
+
+<!--+ Chain-of-Models Pre-training: Rethinking Training Acceleration of CLIP Models.<br> Jiawei Fan\*, Shigeng Wang\*, Chao Li\*, Xiaolong Liu\* and Anbang Yao\#.<br><em>**under review at a top-tier AI conference, 2025**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>-->
+
 + NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/abs/2402.02377).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NOAH).<br>
-<!-- <blockquote> -->
 
 Selected Publications
 =====
 
 **2025**
 
-<!-- <blockquote> -->
 + Grid Convolution for 3D Human Pose Estimation.<br> Yangyuxuan Kang\*, Dongqi Cai\*, Yuyang Liu\*, Anbang Yao\#, Shandong Wang, Yurong Chen and Enhua Wu.<br><em>**IEEE Trans. on Pattern Analysis and Machine Intelligence**</em>, accepted in Novemeber, 2025. <br>[<font color="DodgerBlue">[Paper will be coming soon]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code will be coming soon]</font>](https://yaoanbang.github.io/).<br>
-<!-- <blockquote> -->
+
 + Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models.<br> Chao Li\*, Jiawei Fan\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2025.<br>[<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/2506.18251).[<font color="DodgerBlue">[Code]</font>](https://github.com/deep-optimization/Morse).<br> 
-<!-- <blockquote> -->
 
 **2024**
-<!-- <blockquote> -->
+
 + ScaleKD: Strong Vision Transformers Could Be Excellent Teachers.<br> Jiawei Fan\*, Chao Li\*, Xiaolong Liu\*, and Anbang Yao\#.<br><em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper]</font>](https://github.com/deep-optimization/ScaleKD).[<font color="DodgerBlue">[Code]</font>](https://github.com/deep-optimization/ScaleKD).<br> 
-<!-- <blockquote> -->
+
 + KernelWarehouse: Rethinking the Design of Dynamic Convolution.<br> Chao Li\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2024.<br>[<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/2406.07879).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/KernelWarehouse).<br> 
-<!-- <blockquote> -->
+
 + Small Scale Data-Free Knowledge Distillation.<br> He Liu\*\+, Yikai Wang\*\+, Huaping Liu, Fuchun Sun and Anbang Yao\#.<br><em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2024.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/2406.07876).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/SSD-KD).<br> 
-<!--</blockquote> -->
 
 **2023**
-<!-- <blockquote> -->
+
 + Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation.<br> Jiawei Fan\*, Chao Li\*, Xiaolong Liu\*, Meina Song and Anbang Yao\#.<br><em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/pdf?id=caUhYUVsLl).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/Af-DCD).<br> 
-<!--</blockquote> -->
+
 + Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition.<br> Dongqi Cai\*, Yangyuxuan Kang\*, Anbang Yao\# and Yurong Chen.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://proceedings.mlr.press/v202/cai23c/cai23c.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/Ske2Grid).<br> 
-<!--</blockquote> -->
+
 + NORM: Knowledge Distillation via N-to-One Representation Matching.<br> Xiaolong Liu\*, Lujun Li\*, Chao Li\* and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/pdf?id=CRNwGauQpb6).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NORM).<br> 
-<!--</blockquote> -->
+
 + 3D Human Pose Lifting with Grid Convolution.<br> Yangyuxuan Kang\*, Yuyang Liu\*, Anbang Yao\#, Shandong Wang and Enhua Wu\#.<br><em>**AAAI Conference on Artificial Intelligence (AAAI)**</em>, 2023 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/pdf/2302.08760.pdf).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/GridConv).<br>
-<!-- <blockquote> -->
+
 + Compacting Binary Neural Networks by Sparse Kernel Selection.<br> Yikai Wang\*, Wenbing Huang\#, Yinpeng Dong, Fuchun Sun\# and Anbang Yao\#.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2023.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/pdf/2303.14470.pdf).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
-<!--</blockquote> -->
 
 **2022**
-<!-- <blockquote> -->
+
 + Omni-Dimensional Dynamic Convolution.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2022 (<font color="Crimson">Spotlight</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/forum?id=DmpCfq6Mg39&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/ODConv).<br>[<font color="Crimson"> Among Most Influential ICLR Papers in Google Scholar Metrics 2025 </font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=0032SoU2xY4J.2025&vq=en&cstart=220)<br>
-<!-- <blockquote> -->
+
 + OANet: Learning Two-View Correspondences and Geometry Using Order-Aware Network.<br> Jiahui Zhang\*\+, Dawei Sun\*\+, Zixin Luo, Anbang Yao, Hongkai Chen, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao.<br> <em>**IEEE Trans. on Pattern Analysis and Machine Intelligence**</em>, vol 44(6), pages 3110–3122, 2022.<br> [<font color="DodgerBlue">[Paper]</font>](https://yaoanbang.github.io/). [<font color="DodgerBlue">[Code]</font>](https://github.com/zjhthu/OANet).<br> 
-<!-- </blockquote> -->
 
 **2021**
 
-<!-- <blockquote> -->
 + Dynamic Normalization and Relay for Video Action Recognition.<br> Dongqi Cai\*\+, Anbang Yao\+\# and Yurong Chen.<br> <em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper]</font>](https://proceedings.neurips.cc/paper/2021/hash/5bd529d5b07b647a8863cf71e98d651a-Abstract.html). [<font color="DodgerBlue">[Code]</font>](https://github.com/caidonkey/dnr).<br>
-<!-- <blockquote> -->
+
 + Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks.<br> Yikai Wang\*, Yi Yang, Fuchun Sun and Anbang Yao\#.<br> <em>**IEEE International Conference on Computer Vision (ICCV)**</em>, 2021.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Sub-Bit_Neural_Networks_Learning_To_Compress_and_Accelerate_Binary_Neural_ICCV_2021_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/yikaiw/SNN).<br>
-<!--</blockquote> -->
 
 **2020**
 
-<!--</blockquote> -->
 + Explicit Residual Descent for 3D Human Pose Estimation from 2D Joint Locations.<br> Yangyuxuan Kang\*+, Anbang Yao\+\#, Shandong Wang, Ming Lu, Yurong Chen and Enhua Wu\#.<br> <em>**British Machine Vision Conference (BMVC)**</em>, 2020.<br> [<font color="DodgerBlue">[Paper]</font>](https://www.bmvc2020-conference.com/assets/papers/0151.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/ky66111/ERD_3DPose).<br>
-<!--</blockquote> -->
+
 + Learning Deep Multimodal Feature Representation with Asymmetric Multi-layer Fusion.<br> Yikai Wang\*, Fuchun Sun, Ming Lu and Anbang Yao\#.<br> <em>**ACM International Conference on Multimedia (ACM MM)**</em>, 2020.<br> [<font color="DodgerBlue">[Paper]</font>](https://dl.acm.org/doi/10.1145/3394171.3413621). [<font color="DodgerBlue">[Code]</font>](https://github.com/yikaiw/AsymFusion).<br>
-<!--</blockquote> -->
+
 + Knowledge Transfer via Dense Cross-layer Mutual-distillation.<br> Anbang Yao\+\# and Dawei Sun\*+.<br> <em>**European Conference on Computer Vision (ECCV)**</em>, 2020.<br> [<font color="DodgerBlue">[Paper]</font>](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600290.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/sundw2014/DCM).<br>
-<!--</blockquote> -->
+
 + Resolution Switchable Networks for Runtime Efficient Image Classification.<br> Yikai Wang\*, Fuchun Sun, Duo Li\* and Anbang Yao\#.<br> <em>**European Conference on Computer Vision (ECCV)**</em>, 2020.<br> [<font color="DodgerBlue">[Paper]</font>](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600528.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/yikaiw/RS-Nets).<br>
-<!--</blockquote> -->
+
 + PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer.<br> Duo Li\*, Anbang Yao\# and Qifeng Chen\#.<br> <em>**European Conference on Computer Vision (ECCV)**</em>, 2020.<br> [<font color="DodgerBlue">[Paper]</font>](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660613.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/d-li14/PSConv).<br>
-<!--</blockquote> -->
+
 + Learning to Learn Parameterized Classification Networks for Scalable Input Images.<br> Duo Li\*, Anbang Yao\# and Qifeng Chen\#.<br> <em>**European Conference on Computer Vision (ECCV)**</em>, 2020.<br> [<font color="DodgerBlue">[Paper]</font>](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740018.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/d-li14/SAN).<br>
 <!--+ Pointly-supervised Scene Parsing with Uncertainty Mixture.<br> Hao Zhao\*, Ming Lu\*, Anbang Yao, Yiwen Guo, Yurong Chen and Li Zhang.<br> <em>**Computer Vision and Image Understanding**</em>, vol 200, 103040, 2020.<br> [<font color="DodgerBlue">[Paper]</font>](https://www.sciencedirect.com/science/article/pii/S1077314220300904). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>-->
 <!--+ Learning to Draw Sight Lines.<br> Hao Zhao\*, Ming Lu\*, Anbang Yao, Yurong Chen and Li Zhang.<br> <em>**International Journal of Computer Vision**</em>, vol 128(5), pages 1076–1100, 2020.<br> [<font color="DodgerBlue">[Paper]</font>](https://link.springer.com/article/10.1007/s11263-019-01263-4). [<font color="DodgerBlue">[Demo]</font>](https://www.youtube.com/watch?v=81RZvvBv_fw).<br>-->
-<!--</blockquote> -->
 
 **2019**
-<!--</blockquote> -->
+
 + Learning Two-View Correspondences and Geometry Using Order-Aware Network.<br> Jiahui Zhang\*\+, Dawei Sun\*\+, Zixin Luo, Anbang Yao\#, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan and Hongen Liao\#.<br> <em>**IEEE International Conference on Computer Vision (ICCV)**</em>, 2019.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_Two-View_Correspondences_and_Geometry_Using_Order-Aware_Network_ICCV_2019_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/zjhthu/OANet).<br> [<font color="Crimson">Winner of the Image Matching Workshop Challenge at CVPR 2019</font>](https://image-matching-workshop.github.io/leaderboard/)<br> [<font color="Crimson"> Among Most Influential ICCV Papers in Google Scholar Metrics 2023 </font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=Umlb1kMURG4J.2023&vq=en&cstart=160)<br> [<font color="Crimson"> Among Most Influential ICCV Papers in Google Scholar Metrics 2024 </font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=Umlb1kMURG4J.2024&vq=en&cstart=200)<br>
-<!--</blockquote> -->
+
 + A Closed-form Solution to Universal Style Transfer.<br> Ming Lu\*, Hao Zhao\*, Anbang Yao\#, Yurong Chen, Feng Xu and Li Zhang.<br> <em>**IEEE International Conference on Computer Vision (ICCV)**</em>, 2019.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lu_A_Closed-Form_Solution_to_Universal_Style_Transfer_ICCV_2019_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/lu-m13/OptimalStyleTransfer).<br>
-<!--</blockquote> -->
+
 + HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions.<br> Duo Li\*\+, Aojun Zhou\*\+ and Anbang Yao\#.<br> <em>**IEEE International Conference on Computer Vision (ICCV)**</em>, 2019.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_HBONet_Harmonious_Bottleneck_on_Two_Orthogonal_Dimensions_ICCV_2019_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/d-li14/HBONet).<br>
-<!--</blockquote> -->
+
 + Deeply-supervised Knowledge Synergy.<br> Dawei Sun\*\+, Anbang Yao\+\#, Aojun Zhou\* and Hao Zhao\*.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2019.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Deeply-Supervised_Knowledge_Synergy_CVPR_2019_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/sundw2014/DKS).<br>
-<!--</blockquote> -->
 
 **2018**
 
-<!--</blockquote> -->
 + Efficient Semantic Scene Completion Network with Spatial Group Convolution.<br> Jiahui Zhang\*, Hao Zhao\*, Anbang Yao\#, Yurong Chen, Li Zhang and Hongen Liao.<br> <em>**European Conference on Computer Vision (ECCV)**</em>, 2018 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jiahui_Zhang_Efficient_Semantic_Scene_ECCV_2018_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/zjhthu/SGC-Release).<br>
-<!--</blockquote> -->
+
 + Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks.<br> Aojun Zhou\*\+, Anbang Yao\+\#, Kuan Wang\* and Yurong Chen.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2018.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Explicit_Loss-Error-Aware_Quantization_CVPR_2018_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
-<!--</blockquote> -->
 
 **2017**
 
-<!--</blockquote> -->
 + Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights.<br> Aojun Zhou\*\+, Anbang Yao\+\#, Yiwen Guo\+, Lin Xu and Yurong Chen.<br> <em>**International Conference on Learning Representations (ICLR)**</em>, 2017.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/1702.03044). [<font color="DodgerBlue">[Code]</font>](https://github.com/AojunZhou/Incremental-Network-Quantization).<br>[<font color="Crimson"> Among Most Influential ICLR Papers in Google Scholar Metrics 2021 </font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=0032SoU2xY4J.2021&vq=en&cstart=60)<br> [<font color="Crimson"> Among Most Influential ICLR Papers in Google Scholar Metrics 2022 </font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=0032SoU2xY4J.2022&vq=en&cstart=60)<br>
-<!--</blockquote> -->
+
 + Decoder Network over Lightweight Reconstructed Feature for Fast Semantic Style Transfer.<br> Ming Lu\*, Hao Zhao\*, Anbang Yao\#, Feng Xu, Yurong Chen and Li Zhang.<br> <em>**IEEE International Conference on Computer Vision (ICCV)**</em>, 2017.<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lu_Decoder_Network_Over_ICCV_2017_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
-<!--</blockquote> -->
+
 + RON: Reverse Connection with Objectness Prior Networks for Object Detection.<br> Tao Kong\*, Fuchun Sun, Anbang Yao\#, Huaping Liu, Ming Lu\* and Yurong Chen.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2017.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/1707.01691). [<font color="DodgerBlue">[Code]</font>](https://github.com/taokong/RON).<br>
-<!--</blockquote> -->
+
 <!--+ Physics Inspired Optimization on Semantic Transfer Features: An Alternative Method for Room Layout Estimation.<br> Hao Zhao\*, Ming Lu\*, Anbang Yao\#, Yurong Chen and Li Zhang.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2017.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/1707.00383). [<font color="DodgerBlue">[Code]</font>](https://sites.google.com/view/st-pio/).<br>-->
 + Network Sketching: Exploiting Binary Structure in Deep CNNs.<br> Yiwen Guo, Anbang Yao, Hao Zhao\* and Yurong Chen.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2017.<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/1706.02021). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
-<!--</blockquote> -->
+
 + Learning Supervised Scoring Ensemble for Emotion Recognition in the Wild.<br> Ping Hu, Dongqi Cai, Shandong Wang, Anbang Yao\# (<font color="DodgerBlue">project leader, conceived the idea and project</font>) and Yurong Chen.<br> <em>**ACM International Conference on Multimodal Interaction (ACM ICMI)**</em>, 2017 (<font color="Crimson">Oral</font>).<br>[<font color="DodgerBlue">[Paper]</font>](https://dl.acm.org/doi/10.1145/3136755.3143009). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>[<font color="Crimson">Winner of EmotiW-AFEW 2017, out of 100+ Teams</font>](https://sites.google.com/site/emotiwchallenge/)<br>
-<!--</blockquote> -->
 
 **2016**
 
-<!--</blockquote> -->
 + Dynamic Network Surgery for Efficient DNNs.<br> Yiwen Guo\*, Anbang Yao\# and Yurong Chen.<br> <em>**Conference on Neural Information Processing Systems (NeurIPS)**</em>, 2016.<br> [<font color="DodgerBlue">[Paper]</font>](https://papers.nips.cc/paper/2016/file/2823f4797102ce1a1aec05359cc16dd9-Paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://github.com/yiwenguo/Dynamic-Network-Surgery).<br>[<font color="Crimson"> Among Most Influential NeurIPS Papers in Google Scholar Metrics 2021</font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=eqYFflc_uhEJ.2021&vq=en&cstart=60)<br>
-<!--</blockquote> -->
+
 + HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection.<br> Tao Kong\*, Anbang Yao\#, Yurong Chen and Fuchun Sun.<br> <em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2016 (<font color="Crimson">Spotlight</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kong_HyperNet_Towards_Accurate_CVPR_2016_paper.pdf). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>[<font color="Crimson"> Among Most Influential CVPR Papers in Google Scholar Metrics 2021</font>](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2021&vq=en&cstart=140)<br>
-<!--</blockquote> -->
+
 + HoloNet: Towards Robust Emotion Recognition in the Wild.<br> Anbang Yao\+\#, Dongqi Cai\+, Ping Hu\+, Shandong Wang\+, Liang Sha\+ and Yurong Chen.<br> <em>**ACM International Conference on Multimodal Interaction (ACM ICMI)**</em>, 2016 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://dl.acm.org/doi/10.1145/2993148.2997639). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>[<font color="Crimson">1<sup>st</sup> Runner-up of EmotiW-AFEW 2016, out of ~100 Teams</font>](https://sites.google.com/site/emotiw2016/).<br>
-<!--</blockquote> -->
 
 **2015 and before**
 
-<!--</blockquote> -->
 + Capturing AU-Aware Facial Features and Their Latent Relations for Emotion Recognition in the Wild.<br> Anbang Yao\+\#, Junchao Shao\*\+, Ningning Ma\*\+ and Yurong Chen.<br> <em>**ACM International Conference on Multimodal Interaction (ACM ICMI)**</em>, 2015 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://dl.acm.org/doi/10.1145/2818346.2830585). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>[<font color="Crimson">Winner of EmotiW-AFEW 2015, out of 75 Teams</font>](https://cs.anu.edu.au/few/emotiw2015.html).<br>
-<!--</blockquote> -->
+
 + Robust Face Representation Using Hybrid Spatial Feature Interdependence Matrix.<br> Anbang Yao\# and Shan Yu.<br> <em>**IEEE Trans. on Image Processing**</em>, vol 22(8), pages 3247–3259, 2013.<br> [<font color="DodgerBlue">[Paper]</font>](https://ieeexplore.ieee.org/document/6459600). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
-<!--</blockquote> -->
+
 + A Compact Association of Particle Filtering and Kernel Based Object Tracking.<br> Anbang Yao\#, Xinggang Lin, Guijin Wang and Shan Yu.<br> <em>**Pattern Recognition**</em>, vol 45(7), pages 2584-2597, 2012.<br> [<font color="DodgerBlue">[Paper]</font>](https://www.sciencedirect.com/science/article/pii/S0031320312000374). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
-<!--</blockquote> -->
+
 + An Incremental Bhattacharyya Dissimilarity Measure for Particle Filtering.<br> Anbang Yao\#, Guijin Wang, Xinggang Lin and Xiujuan Chai.<br> <em>**Pattern Recognition**</em>, vol 43(4), pages 1244-1256, 2010.<br> [<font color="DodgerBlue">[Paper]</font>](https://www.sciencedirect.com/science/article/pii/S0031320309003689). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
-<!--</blockquote> -->
+
 + Kernel Based Articulated Object Tracking with Scale Adaptation and Model Update.<br> Anbang Yao\#, Guijin Wang, Xinggang Lin and Hao Wang.<br> <em>**IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP)**</em>, 2008.<br> [<font color="DodgerBlue">[Paper]</font>](https://ieeexplore.ieee.org/document/4517767). [<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
-<!--</blockquote> -->
 
 Some Old Manuscripts 
 =====
 
-<!--</blockquote> -->
 + Explicit Connection Distillation.<br> Lujun Li\*\+, Yikai Wang\*\+, Anbang Yao\+\#, Yi Qian, Xiao Zhou and Ke He.<br><em>**ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=yOkSW62hqq2).<br> 
-<!--</blockquote> -->
+
 + Weights Having Stable Signs Are Important: Finding Primary Subnetworks and Kernels to Compress Binary Weight Networks.<br> Zhaole Sun\* and Anbang Yao\#.<br><em>**ICLR 2021 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B9nDuDeanHK).<br>
-<!--</blockquote> -->
+
 + SnapQuant: A Probabilistic and Nested Parameterization for Binary Networks.<br> Kuan Wang\*, Hao Zhao\*, Anbang Yao\#, Aojun Zhou\*, Dawei Sun\* and Yurong Chen.<br><em>**ICLR 2019 submission**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://openreview.net/pdf?id=B1ePui0ctQ).<br>
-<!--</blockquote> -->
 
 Current and Previous Interns
 =====
