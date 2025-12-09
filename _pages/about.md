@@ -63,7 +63,7 @@ Latest Manuscripts
 
 (\* Interns or team/project members mentored by me, \+ Equal contribution, \# Corresponding author)
 
-<!--+ SliderQuant: Accurate Post-Training Quantization for LLMs.<br> Shigeng Wang\*, Chao Li\*, Yangyuxuan Kang\*, Zhonghong Ou and Anbang Yao\#.<br><em>**under review at a top-tier AI conference, 2025**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>-->
+<!--+ SliderQuant: Accurate Post-Training Quantization for LLMs.<br> Shigeng Wang\*, Chao Li\*, Yangyuxuan Kang\*, Zhonghong Ou and Anbang Yao\#.<br><em>**under review at a top-tier AI conference, 2025**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://ieeexplore.ieee.org/document/11274401/).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/GridConv).<br>-->
 
 <!--+ Chain-of-Models Pre-training: Rethinking Training Acceleration of CLIP Models.<br> Jiawei Fan\*, Shigeng Wang\*, Chao Li\*, Xiaolong Liu\* and Anbang Yao\#.<br><em>**under review at a top-tier AI conference, 2025**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>-->
 
