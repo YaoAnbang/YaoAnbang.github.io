@@ -17,11 +17,12 @@ Anbang Yao is currently a <!--Principal AI Scientist, also a Principal Engineer 
 ---
 **<font color="Crimson">News：</font>** 
 
++ January<!--26th-->, 2026. Our paper SliderQuant, **Slid**ing-lay**er** **Quant**ization for compressing and accelerating LLMs in the post-training regime, is accepted to ICLR 2026. 
 + November<!--20th-->, 2025. I will be serving as an Area Chair for ICML 2026. 
 + November<!--5th-->, 2025. Our paper, Grid Convolution for 3D Human Pose Estimation, is accepted to TPAMI. 
 + October<!--12th-->, 2025. I have been selected as a NeurIPS 2025 "Area Chair" awarded with a complimentary full registration. 
 + July<!--11th-->, 2025. I will be serving as a Senior Program Committee member (SPC, akin to Area Chair of NeurIPS/ICML/ICLR) for AAAI 2026.
-+ June<!--8th-->, 2025. Our paper ACE-OF-SPADEs, a SoC accelerator for spatially sparse 3D DNNs, is accepted to ACM TECS .
++ June<!--8th-->, 2025. Our paper ACE-OF-SPADEs, a SoC accelerator for spatially sparse 3D DNNs, is accepted to ACM TECS.
 + May<!--1st-->, 2025. Our paper Morse, which presents a simple dual-sampling framework to losslessly accelerate any type of diffusion models such as the Stable Diffusion family, is accepted to ICML 2025.
 + February<!--17th-->, 2025. I will be serving as an Area Chair for NeurIPS 2025.
 + December<!--15th-->, 2024. I will be serving as an Area Chair for ICML 2025.
@@ -63,14 +64,16 @@ Latest Manuscripts
 
 (\* Interns or team/project members mentored by me, \+ Equal contribution, \# Corresponding author)
 
-<!--+ SliderQuant: Accurate Post-Training Quantization for LLMs.<br> Shigeng Wang\*, Chao Li\*, Yangyuxuan Kang\*, Zhonghong Ou and Anbang Yao\#.<br><em>**under review at a top-tier AI conference, 2025**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>-->
-
 <!--+ Chain-of-Models Pre-training: Rethinking Training Acceleration of CLIP Models.<br> Jiawei Fan\*, Shigeng Wang\*, Chao Li\*, Xiaolong Liu\* and Anbang Yao\#.<br><em>**under review at a top-tier AI conference, 2025**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>-->
 
 + NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/abs/2402.02377).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NOAH).<br>
 
 Selected Publications
 =====
+
+**2026**
+
++ SliderQuant: Accurate Post-Training Quantization for LLMs.<br> Shigeng Wang\*, Chao Li\*, Yangyuxuan Kang\*, Jiawei Fan\*, Zhonghong Ou and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2026.<br> [<font color="DodgerBlue">[Paper]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
 
 **2025**
 
