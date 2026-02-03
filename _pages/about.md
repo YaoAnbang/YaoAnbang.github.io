@@ -73,7 +73,7 @@ Selected Publications
 
 **2026**
 
-+ SliderQuant: Accurate Post-Training Quantization for LLMs.<br> Shigeng Wang\*, Chao Li\*, Yangyuxuan Kang\*, Jiawei Fan\*, Zhonghong Ou and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2026.<br> [<font color="DodgerBlue">[Paper]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
++ SliderQuant: Accurate Post-Training Quantization for LLMs.<br> Shigeng Wang\*, Chao Li\*, Yangyuxuan Kang\*, Jiawei Fan\*, Zhonghong Ou and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2026.<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/pdf?id=YNqZqw4fLT).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
 
 **2025**
 
