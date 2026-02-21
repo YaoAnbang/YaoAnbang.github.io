@@ -17,6 +17,7 @@ Anbang Yao is currently a <!--Senior Principal AI Scientist, also a Senior Princ
 ---
 **<font color="Crimson">News：</font>** 
 
++ February<!--21st-->, 2026. Our paper Chain-of-Models Pre-training (CoM_PT), the first work for the lossless training acceleration at the foundation model family level, is accepted to CVPR 2026.
 + January<!--26th-->, 2026. Our paper SliderQuant, **Slid**ing-lay**er** **Quant**ization for compressing and accelerating LLMs in the post-training regime, is accepted to ICLR 2026. 
 + November<!--20th-->, 2025. I will be serving as an Area Chair for ICML 2026. 
 + November<!--5th-->, 2025. Our paper, Grid Convolution for 3D Human Pose Estimation, is accepted to TPAMI. 
@@ -64,8 +65,6 @@ Latest Manuscripts
 
 (\* Interns or team/project members mentored by me, \+ Equal contribution, \# Corresponding author)
 
-<!--+ Chain-of-Models Pre-training: Rethinking Training Acceleration of CLIP Models.<br> Jiawei Fan\*, Shigeng Wang\*, Chao Li\*, Xiaolong Liu\* and Anbang Yao\#.<br><em>**under review at a top-tier AI conference, 2025**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>-->
-
 + NOAH: Learning Pairwise Object Category Attentions for Image Classification.<br> Chao Li\*, Aojun Zhou and Anbang Yao\#.<br><em>**arXiv preprint, 2024**</em>.<br> [<font color="DodgerBlue">[Manuscript]</font>](https://arxiv.org/abs/2402.02377).[<font color="DodgerBlue">[Code]</font>](https://github.com/OSVAI/NOAH).<br>
 
 Selected Publications
@@ -73,7 +72,9 @@ Selected Publications
 
 **2026**
 
-+ SliderQuant: Accurate Post-Training Quantization for LLMs.<br> Shigeng Wang\*, Chao Li\*, Yangyuxuan Kang\*, Jiawei Fan\*, Zhonghong Ou and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2026.<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/pdf?id=YNqZqw4fLT).[<font color="DodgerBlue">[Code]</font>](https://yaoanbang.github.io/).<br>
++ Chain-of-Models Pre-training: Rethinking Training Acceleration of Foundation Models.<br> Jiawei Fan\*, Shigeng Wang\*, Chao Li\*, Xiaolong Liu\* and Anbang Yao\#.<br><em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2026.<br> [<font color="DodgerBlue">[Paper will coming soon]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code will coming soon]</font>](https://yaoanbang.github.io/).<br>
+
++ SliderQuant: Accurate Post-Training Quantization for LLMs.<br> Shigeng Wang\*, Chao Li\*, Yangyuxuan Kang\*, Jiawei Fan\*, Zhonghong Ou and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2026.<br> [<font color="DodgerBlue">[Paper will coming soon]</font>](https://openreview.net/pdf?id=YNqZqw4fLT).[<font color="DodgerBlue">[Code will coming soon]</font>](https://yaoanbang.github.io/).<br>
 
 **2025**
 
