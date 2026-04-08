@@ -74,7 +74,7 @@ Selected Publications
 
 + Chain-of-Models Pre-training: Rethinking Training Acceleration of Vision Foundation Models.<br> Jiawei Fan\*, Shigeng Wang\*, Chao Li\*, Xiaolong Liu\* and Anbang Yao\#.<br><em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2026.<br> [<font color="DodgerBlue">[Paper will coming soon]</font>](https://yaoanbang.github.io/).[<font color="DodgerBlue">[Code will coming soon]</font>](https://yaoanbang.github.io/).<br>
 
-+ SliderQuant: Accurate Post-Training Quantization for LLMs.<br> Shigeng Wang\*, Chao Li\*, Yangyuxuan Kang\*, Jiawei Fan\*, Zhonghong Ou and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2026.<br> [<font color="DodgerBlue">[Paper will coming soon]</font>](https://openreview.net/pdf?id=YNqZqw4fLT).[<font color="DodgerBlue">[Code will coming soon]</font>](https://yaoanbang.github.io/).<br>
++ SliderQuant: Accurate Post-Training Quantization for LLMs.<br> Shigeng Wang\*, Chao Li\*, Yangyuxuan Kang\*, Jiawei Fan\*, Zhonghong Ou and Anbang Yao\#.<br><em>**International Conference on Learning Representations (ICLR)**</em>, 2026.<br> [<font color="DodgerBlue">[Paper]</font>](https://openreview.net/pdf?id=YNqZqw4fLT).[<font color="DodgerBlue">[Code]</font>](https://github.com/deep-optimization/SliderQuant).<br>
 
 **2025**
 
