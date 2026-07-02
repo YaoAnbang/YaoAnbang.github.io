@@ -75,7 +75,7 @@ Selected Publications
 
 **2026**
 
-+ CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs.<br> Shigeng Wang\*\+, Chao Li\*\+, Yangyuxuan Kang\*, Jiawei Fan\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2026 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">[Paper](https://arxiv.org/abs/2606.26650).[<font color="DodgerBlue">[Code]</font>](https://github.com/IntelChina-AI/BitTern).<br>
++ CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs.<br> Shigeng Wang\*\+, Chao Li\*\+, Yangyuxuan Kang\*, Jiawei Fan\* and Anbang Yao\#.<br><em>**International Conference on Machine Learning (ICML)**</em>, 2026 (<font color="Crimson">Oral</font>).<br> [<font color="DodgerBlue">[Paper]</font>](https://arxiv.org/abs/2606.26650).[<font color="DodgerBlue">[Code]</font>](https://github.com/IntelChina-AI/BitTern).<br>
 
 + Chain-of-Models Pre-training: Rethinking Training Acceleration of Vision Foundation Models.<br> Jiawei Fan\*, Shigeng Wang\*, Chao Li\*, Xiaolong Liu\* and Anbang Yao\#.<br><em>**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**</em>, 2026.<br> [<font color="DodgerBlue">[Paper]</font>](http://arxiv.org/abs/2604.12391).[<font color="DodgerBlue">[Code]</font>](https://github.com/deep-optimization/CoM-PT).<br>
 
